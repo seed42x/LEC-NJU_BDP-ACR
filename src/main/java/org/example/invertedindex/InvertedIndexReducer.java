@@ -6,22 +6,18 @@ import org.apache.hadoop.mapreduce.Reducer;
 import java.io.IOException;
 import java.util.Iterator;
 
-public class InvertedIndexReducer extends Reducer<Text, Payload, Text, Payload> {
+public class InvertedIndexReducer extends Reducer<Text, IIPayload, Text, IIResult> {
     @Override
-    protected void reduce(Text key, Iterable<Payload> values, Context context)
+    protected void reduce(Text key, Iterable<IIPayload> values, Context context)
             throws IOException, InterruptedException {
-        Iterator<Payload> it = values.iterator();
+        Iterator<IIPayload> it = values.iterator();
 
-        Payload payload = null;
-        if (it.hasNext()) {
-            Payload value = it.next();
-            payload = new Payload(value.getDocument(), value.getCount().get());
-        }
+        IIResult result = new IIResult();
         while (it.hasNext()) {
-            Payload value = it.next();
-            payload.addDocument(value.getDocument());
-            payload.addCount(value.getCount());
+            IIPayload payload = it.next();
+            result.addEntry(payload.getDocument(), payload.getCount());
         }
-        context.write(key, payload);
+        result.finish();
+        context.write(key, result);
     }
 }

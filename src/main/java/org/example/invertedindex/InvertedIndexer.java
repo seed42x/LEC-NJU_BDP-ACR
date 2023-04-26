@@ -20,11 +20,17 @@ public class InvertedIndexer {
         Job job = Job.getInstance(conf, "inverted index");
         job.setJarByClass(InvertedIndexer.class);
         job.setMapperClass(InvertedIndexMapper.class);
-        job.setCombinerClass(InvertedIndexReducer.class);
         job.setReducerClass(InvertedIndexReducer.class);
         job.setInputFormatClass(TextInputFormat.class);
+
         job.setOutputKeyClass(Text.class);
-        job.setOutputValueClass(Payload.class);
+        job.setOutputValueClass(IIPayload.class);
+
+        job.setOutputKeyClass(Text.class);            // K3
+        job.setOutputValueClass(IIResult.class);      // V3
+        job.setMapOutputKeyClass(Text.class);         // K2
+        job.setMapOutputValueClass(IIPayload.class);  // V2
+
         FileInputFormat.addInputPath(job, new Path(otherArgs[0]));
         FileOutputFormat.setOutputPath(job, new Path(otherArgs[1]));
         System.exit(job.waitForCompletion(true) ? 0 : 1);
