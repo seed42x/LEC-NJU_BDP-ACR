@@ -12,6 +12,11 @@ public final class Payload implements WritableComparable<Payload> {
     private final Text document;
     private final IntWritable count;
 
+    public Payload() {
+        this.document = new Text();
+        this.count = new IntWritable();
+    }
+
     public Payload(Text doc, int value) {
         this.document = doc;
         this.count = new IntWritable(value);
@@ -53,5 +58,10 @@ public final class Payload implements WritableComparable<Payload> {
     public void readFields(DataInput in) throws IOException {
         document.readFields(in);
         count.readFields(in);
+    }
+
+    @Override
+    public String toString() {
+        return String.format("[%s, %d]", document.toString(), count.get());
     }
 }
