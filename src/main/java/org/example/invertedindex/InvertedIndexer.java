@@ -5,6 +5,7 @@ import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
+import org.apache.hadoop.mapreduce.lib.input.KeyValueTextInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.GenericOptionsParser;
 
@@ -16,13 +17,14 @@ public class InvertedIndexer {
             System.err.println("Usage: <in> <out>");
             System.exit(2);
         }
-        Job job = Job.getInstance(conf, "word count");
+        Job job = Job.getInstance(conf, "inverted index");
         job.setJarByClass(InvertedIndexer.class);
         job.setMapperClass(InvertedIndexMapper.class);
         job.setCombinerClass(InvertedIndexReducer.class);
         job.setReducerClass(InvertedIndexReducer.class);
+        job.setInputFormatClass(KeyValueTextInputFormat.class);
         job.setOutputKeyClass(Text.class);
-        job.setOutputValueClass(Text.class);
+        job.setOutputValueClass(Payload.class);
         FileInputFormat.addInputPath(job, new Path(otherArgs[0]));
         FileOutputFormat.setOutputPath(job, new Path(otherArgs[1]));
         System.exit(job.waitForCompletion(true) ? 0 : 1);
