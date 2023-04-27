@@ -1,9 +1,6 @@
 package org.example.invertedindex;
 
-import org.apache.hadoop.io.DoubleWritable;
-import org.apache.hadoop.io.IntWritable;
-import org.apache.hadoop.io.Text;
-import org.apache.hadoop.io.WritableComparable;
+import org.apache.hadoop.io.*;
 
 import java.io.DataInput;
 import java.io.DataOutput;
@@ -101,6 +98,7 @@ public class IIResult implements WritableComparable<IIResult> {
             counts.get(i).write(out);
             documents.get(i).write(out);
         }
+        idf.write(out);
     }
 
     @Override
@@ -117,5 +115,6 @@ public class IIResult implements WritableComparable<IIResult> {
             counts.add(count);
             documents.add(doc);
         }
+        idf.readFields(in);
     }
 }
