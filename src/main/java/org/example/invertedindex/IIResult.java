@@ -6,12 +6,9 @@ import java.io.DataInput;
 import java.io.DataOutput;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 public class IIResult implements WritableComparable<IIResult> {
-    private static final Set<Text> allDocs = new HashSet<>();
     private final DoubleWritable average = new DoubleWritable();
     private final DoubleWritable idf = new DoubleWritable();
     private final List<IntWritable> counts = new ArrayList<>();
@@ -30,15 +27,14 @@ public class IIResult implements WritableComparable<IIResult> {
         }
         counts.add(new IntWritable(count.get()));
         documents.add(new Text(doc.toString()));
-        allDocs.add(doc);
     }
 
-    public void finish() {
+    public void finish(int allDocs) {
         double avgVal = counts.stream()
                 .map(IntWritable::get)
                 .mapToDouble(a -> a)
                 .average().orElse(0);
-        double idfVal = Math.log(allDocs.size() / (documents.size() + 1.0));
+        double idfVal = Math.log(allDocs / (documents.size() + 1.0));
         average.set(avgVal);
         idf.set(idfVal);
     }
@@ -57,7 +53,9 @@ public class IIResult implements WritableComparable<IIResult> {
                 builder.append("; ");
             }
         }
-        builder.append(", ");
+        builder.append(", TF: ");
+        builder.append(combineCount());
+        builder.append("; IDF: ");
         builder.append(String.format("%.2f", idf.get()));
         return builder.toString();
     }

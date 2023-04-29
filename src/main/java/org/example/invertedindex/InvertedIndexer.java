@@ -1,6 +1,8 @@
 package org.example.invertedindex;
 
 import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.FileStatus;
+import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
@@ -18,6 +20,18 @@ public class InvertedIndexer {
             System.err.println("Usage: <in> <out>");
             System.exit(2);
         }
+
+        FileSystem hdfs = FileSystem.get(conf);
+        long fileCount = 0;
+        FileStatus[] statuses = hdfs.globStatus(new Path(otherArgs[0] + "/*"));
+        for (FileStatus file : statuses) {
+            if (file.isFile() && !file.getPath().getName().startsWith(".")) {
+                fileCount++;
+            }
+        }
+        conf.set("allDocs", String.valueOf(fileCount));
+        hdfs.close();
+
         Job job = Job.getInstance(conf, "inverted index");
         job.setJarByClass(InvertedIndexer.class);
         job.setMapperClass(InvertedIndexMapper.class);

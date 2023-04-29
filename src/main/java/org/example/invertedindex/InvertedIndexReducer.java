@@ -1,5 +1,6 @@
 package org.example.invertedindex;
 
+import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
 
@@ -10,6 +11,10 @@ public class InvertedIndexReducer extends Reducer<Text, IIPayload, Text, IIResul
     @Override
     protected void reduce(Text key, Iterable<IIPayload> values, Context context)
             throws IOException, InterruptedException {
+
+        Configuration conf = context.getConfiguration();
+        int allDocs = Integer.parseInt(conf.get("allDocs"));
+
         Iterator<IIPayload> it = values.iterator();
 
         IIResult result = new IIResult();
@@ -17,7 +22,7 @@ public class InvertedIndexReducer extends Reducer<Text, IIPayload, Text, IIResul
             IIPayload payload = it.next();
             result.addEntry(payload.getDocument(), payload.getCount());
         }
-        result.finish();
+        result.finish(allDocs);
         context.write(key, result);
     }
 }
