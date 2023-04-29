@@ -14,6 +14,7 @@ public class InvertedIndexer {
         Configuration conf = new Configuration();
         String[] otherArgs = new GenericOptionsParser(conf, args).getRemainingArgs();
         if (otherArgs.length != 2) {
+            System.err.println(otherArgs.length);
             System.err.println("Usage: <in> <out>");
             System.exit(2);
         }
@@ -23,13 +24,10 @@ public class InvertedIndexer {
         job.setReducerClass(InvertedIndexReducer.class);
         job.setInputFormatClass(TextInputFormat.class);
 
-        job.setOutputKeyClass(Text.class);
-        job.setOutputValueClass(IIPayload.class);
-
-        job.setOutputKeyClass(Text.class);            // K3
-        job.setOutputValueClass(IIResult.class);      // V3
         job.setMapOutputKeyClass(Text.class);         // K2
         job.setMapOutputValueClass(IIPayload.class);  // V2
+        job.setOutputKeyClass(Text.class);            // K3
+        job.setOutputValueClass(IIResult.class);      // V3
 
         FileInputFormat.addInputPath(job, new Path(otherArgs[0]));
         FileOutputFormat.setOutputPath(job, new Path(otherArgs[1]));
