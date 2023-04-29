@@ -11,6 +11,8 @@ import org.apache.hadoop.mapreduce.lib.input.TextInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.GenericOptionsParser;
 
+import java.net.URI;
+
 public class InvertedIndexer {
     public static void main(String[] args) throws Exception {
         Configuration conf = new Configuration();
@@ -21,9 +23,9 @@ public class InvertedIndexer {
             System.exit(2);
         }
 
-        FileSystem hdfs = FileSystem.get(conf);
+        FileSystem hdfs = FileSystem.get(new URI(otherArgs[0]), conf);
         long fileCount = 0;
-        FileStatus[] statuses = hdfs.globStatus(new Path(otherArgs[0] + "/*"));
+        FileStatus[] statuses = hdfs.listStatus(new Path(otherArgs[0]));
         for (FileStatus file : statuses) {
             if (file.isFile() && !file.getPath().getName().startsWith(".")) {
                 fileCount++;
