@@ -18,7 +18,7 @@ public class GroupByOrderReducer extends Reducer<Text, OrderPayload, OrderResult
         Optional<Integer> result = list.stream()
                 .map(OrderPayload::getShipPriority)
                 .map(IntWritable::get)
-                .reduce(Math::min);
+                .reduce(Math::max);
         assert result.isPresent();
         int maxShipPriority = result.get();
 
