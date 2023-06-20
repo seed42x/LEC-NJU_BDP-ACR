@@ -1,0 +1,4 @@
+name_list_path : ./data/task1/person_name_list.txt
+input_folder_path : ./data/task1/
+output_folder_path : ./output/
+
