@@ -1,8 +1,7 @@
-package potternet.CountCooccurrence;
+package potternet.BuildCharacterMap;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
-import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
@@ -12,12 +11,13 @@ import potternet.ConfReader.ConfReader;
 
 import java.util.Arrays;
 
-public class CountCooccurMain {
+public class BuildMapMain {
     public static void main(String[] args) throws Exception {
         /**
          * @param args: a terminal parameter, which is the path to the .yaml configuration file
-         * @note: config a Hadoop MapReduce job, whose input is: a name sequence list
-         *          output is: a list of co-occurrence names pair
+         * @note: config a Hadoop MapReduce job, whose input is a list data with format: "<name1>,<name2>\t<co-occurrence times>"
+         *          output is: a file which expresses an adjacency list with format:
+         *              "<begin_name/node>:\t<end_name1/node1>,probability[|<end_name/node>,probability]..."
          */
         // Read the path of .yaml configuration file
         Configuration conf = new Configuration();
@@ -27,7 +27,7 @@ public class CountCooccurMain {
             System.exit(2);
         }
 
-        // Parser the .yaml files into some attributions
+        // Parse the .yaml files into some attributions
         String inputFolderPath = "input_folder_path";
         String outputFolderPath = "output_folder_path";
         ConfReader confReader = new ConfReader(otherArgs[0], Arrays.asList(
@@ -35,23 +35,22 @@ public class CountCooccurMain {
         ));
 
         // Config Hadoop MapReduce Job
-        Job job = Job.getInstance(conf, "Count co-occurrence");
-        job.setJarByClass(CountCooccurMain.class);
+        Job job = Job.getInstance(conf, "Build Character Map");
+        job.setJarByClass(BuildMapMain.class);
 
         // Set the input & output folder path
         FileInputFormat.addInputPath(job, new Path(confReader.getAttr(inputFolderPath)));
         FileOutputFormat.setOutputPath(job, new Path(confReader.getAttr(outputFolderPath)));
 
         // Set Mapper, Combiner and Reducer
-        job.setMapperClass(CountCooccurMapper.class);
-        job.setCombinerClass(CountCooccurCombiner.class);
-        job.setReducerClass(CountCoocurReducer.class);
+        job.setMapperClass(BuildMapMapper.class);
+        job.setReducerClass(BuildMapReducer.class);
 
         // Set output type/format
         job.setMapOutputKeyClass(Text.class);
-        job.setMapOutputValueClass(IntWritable.class);
+        job.setMapOutputValueClass(Text.class);
         job.setOutputKeyClass(Text.class);
-        job.setOutputValueClass(IntWritable.class);
+        job.setOutputValueClass(Text.class);
 
         // Exit
         System.exit(job.waitForCompletion(true) ? 0 : 1);

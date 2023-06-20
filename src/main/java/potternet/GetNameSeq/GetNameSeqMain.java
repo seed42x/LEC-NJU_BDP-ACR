@@ -34,7 +34,7 @@ public class GetNameSeqMain {
             System.exit(2);
         }
 
-        // Parser the .yaml files into some attributions
+        // Parse the .yaml files into some attributions
         String inputFolderPath = "input_folder_path";
         String outputFolderPath = "output_folder_path";
         String nameListPath = "name_list_path";
