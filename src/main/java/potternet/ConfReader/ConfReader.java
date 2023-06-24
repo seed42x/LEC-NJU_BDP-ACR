@@ -26,6 +26,10 @@ public class ConfReader {
             for (String tmp : attrs) {
                 if (!confMap.containsKey(tmp)) {
                     System.err.printf("The .yaml file not contain the necessary attr: %s\n", tmp);
+                    System.err.println("The task need .yaml file with format:");
+                    for(String p : attrs) {
+                        System.err.printf("\t%s\n", p);
+                    }
                     System.exit(2);
                 }
             }
