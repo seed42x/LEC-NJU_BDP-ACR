@@ -1,4 +1,4 @@
 input_folder_path : ./data/task4
-output_folder_path : ./output
+output_folder_path : ./task4_output
 damping_factor : 0.85
 iteration_frequency : 100

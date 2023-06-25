@@ -24,6 +24,7 @@
     - [ ] Task3：构建邻接表时的性能改进etc…；
     - [ ] Task4：参数$N$通过单线程扫描获取 .vs 参数$N$通过MapReduce并行/其它方法获取；
     - [ ] Task5：异步更新方式 .vs 同步更新方式，在性能和结果准确性方面的度量/演示；
+    - [ ] Task5：使用Combiner .vs 不使用Combiner，在性能方面的比较演示；
 - [ ] All：所有模块调试完全后，关闭所有日志输出，或许可以进一步提升性能？；[propose @pawx2:2023/06/24](https://github.com/pawx2)
 
 
@@ -55,6 +56,16 @@
 # CHANGELOG
 
 ------
+
+## 2023.06.25
+
+### Added
+
+- 追加了PageRank（Task4）、LPA（Task5）两篇论文的阅读记录，其中包含了整体设计流程和尚需完善的任务点 [@pawx2](https://github.com/pawx2)
+
+### Changed
+
+- Task5：调整了Viewer输出格式，每行输出一个社区列表，不再输出冗余的每个社区的标签 [@pawx2](https://github.com/pawx2)
 
 ## 2023.06.24
 
@@ -89,6 +100,15 @@
 - [x] Task1：人物名称提取【已完成本地单机可行性测试√】[@pawx2](https://github.com/pawx2)
 - [x] Task2：人物同现频率统计【已完成本地单机可行性测试√】[@pawx2](https://github.com/pawx2)
 - [x] Task3：构建邻接表，并归一化人物同现频率【已完成本地单机可行性测试√】[@pawx2](https://github.com/pawx2)
+
+# Reference
+
+------
+
+- Task4：PageRank Algorithm
+    - [论文原文](http://web.mit.edu/6.033/2004/wwwdocs/papers/page98pagerank.pdf)、[论文带读](https://zhuanlan.zhihu.com/p/120962803)、[Markov Chains](https://www.youtube.com/watch?v=i3AkTO9HLXo&t=1s)/[中译](https://www.bilibili.com/video/BV1xa4y1w7aT/?spm_id_from=333.1007.tianma.2-2-4.click&vd_source=2a11f9f700546028a49b63c0d54f4bda)
+- Task5：LabelPropagation Algorithm
+    - [论文原文](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.76.036106)、[参考1](https://www.cnblogs.com/LittleHann/p/10699988.html)、[参考2](https://blog.csdn.net/u013385018/article/details/95447955)、[异步更新下收敛思考](https://www.zhihu.com/question/277808560)、[带权有向图处理](https://blog.csdn.net/google19890102/article/details/51558148)、[相关论文1](https://proceedings.neurips.cc/paper_files/paper/2003/file/87682805257e619d49b8e0dfdc14affa-Paper.pdf)
 
 # Contributors
 

@@ -2,6 +2,7 @@ package potternet.SyncLabelPropagation;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.io.NullWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
@@ -155,7 +156,7 @@ public class SyncLPAMain {
         // Set output type/format
         viewerJob.setMapOutputKeyClass(Text.class);
         viewerJob.setMapOutputValueClass(Text.class);
-        viewerJob.setOutputKeyClass(Text.class);
+        viewerJob.setOutputKeyClass(NullWritable.class);
         viewerJob.setOutputValueClass(Text.class);
         // Exit
         System.exit(viewerJob.waitForCompletion(true) ? 0 : 1);
