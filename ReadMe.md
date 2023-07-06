@@ -46,6 +46,18 @@ hadoop jar MP-Lab1.jar potternet.SyncLabelPropagation.SyncLPAMain task5_conf.yam
 
 And each task’s configuration file demo has already exists in the project root folder, please refer them to write your own `.yaml` configuration file for specific subtask.😀
 
+<p align="center">
+    <img src="./ReadMe.asset/PageRank.gif" style="height:">
+    <img src="./ReadMe.asset/community.png" style="height:">
+</p>
+
+
+<p align="center">
+    <img src="./ReadMe.asset/StructGraph.png">
+</p>
+
+
+
 ## ⚙Components
 
 1. `potternet.GetNameSeq`: extract character’s name sequence from input text data.
