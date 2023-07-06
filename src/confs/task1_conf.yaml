@@ -1,0 +1,3 @@
+name_list_path : hdfs://master001:9000/data/2023s/exp2/person_name_list.txt     
+input_folder_path : hdfs://master001:9000/data/2023s/exp2
+output_folder_path : ./task1_output

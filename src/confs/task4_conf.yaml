@@ -1,0 +1,4 @@
+input_folder_path : ./task3_output/part-r-00000
+output_folder_path : ./task4_output
+damping_factor : 0.85
+iteration_frequency : 20

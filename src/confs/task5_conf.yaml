@@ -1,0 +1,5 @@
+input_folder_path :  ./task3_output/part-r-00000
+output_folder_path : ./task5_output
+iteration_frequency: 6
+out_edge_param_alpha : 0.7
+in_edge_param_beta : 0.3

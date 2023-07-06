@@ -1,0 +1,5 @@
+task1_conf_path : ./confs/task1_conf.yaml
+task2_conf_path : ./confs/task2_conf.yaml
+task3_conf_path : ./confs/task3_conf.yaml
+task4_conf_path : ./confs/task4_conf.yaml
+task5_conf_path : ./confs/task5_conf.yaml

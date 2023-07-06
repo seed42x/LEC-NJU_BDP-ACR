@@ -1,0 +1,6940 @@
+abbott,angelina johnson	1
+abbott,cho	1
+abbott,dennis creevey	1
+abbott,ernie	2
+abbott,fred	1
+abbott,ginny	1
+abbott,goyle	2
+abbott,harry	6
+abbott,hufflepuff	1
+abbott,justin	1
+abbott,justin finch-fletchley	2
+abbott,katie bell	1
+abbott,lavender	1
+abbott,lee jordan	1
+abbott,malfoy	2
+abbott,neville	1
+abbott,parvati	1
+abbott,patil	1
+abbott,ravenclaw	2
+abbott,weasley	1
+albus dumbledore,black	2
+albus dumbledore,cornelius fudge	4
+albus dumbledore,crouch	3
+albus dumbledore,dobby	1
+albus dumbledore,draco malfoy	1
+albus dumbledore,dudley	1
+albus dumbledore,dumbledore	15
+albus dumbledore,hagrid	8
+albus dumbledore,harry	26
+albus dumbledore,harry potter	4
+albus dumbledore,hermione	5
+albus dumbledore,mad-eye moody	2
+albus dumbledore,madam	1
+albus dumbledore,madam pomfrey	1
+albus dumbledore,mcgonagall	2
+albus dumbledore,minerva	2
+albus dumbledore,moody	3
+albus dumbledore,neville	1
+albus dumbledore,peter	1
+albus dumbledore,petunia	3
+albus dumbledore,potter	1
+albus dumbledore,rita skeeter	2
+albus dumbledore,ron	3
+albus dumbledore,sir	2
+albus dumbledore,sirius black	1
+albus dumbledore,snape	3
+albus dumbledore,vernon	2
+albus dumbledore,voldemort	3
+albus dumbledore,weasley	2
+albus,colin	1
+albus,dumbledore	4
+albus,hagrid	2
+albus,harry	3
+albus,james potter	1
+albus,lily	1
+albus,madam	1
+albus,mcgonagall	2
+alicia,angelina	15
+alicia,bell	2
+alicia,crabbe	1
+alicia,flitwick	2
+alicia,fred	6
+alicia,fred weasley	2
+alicia,george	2
+alicia,george weasley	4
+alicia,ginny	1
+alicia,gryffindor	16
+alicia,harry	16
+alicia,hermione	1
+alicia,hooch	1
+alicia,johnson	5
+alicia,katie	4
+alicia,katie bell	2
+alicia,lee	1
+alicia,madam hooch	1
+alicia,madam pomfrey	1
+alicia,malfoy	4
+alicia,oliver	1
+alicia,oliver wood	1
+alicia,ron	7
+alicia,slytherin	10
+alicia,snape	2
+alicia,weasley	2
+alicia,wood	6
+amos diggory,brown	2
+amos diggory,cedric	1
+amos diggory,harry	3
+amos diggory,harry potter	1
+amos diggory,hermione	1
+amos diggory,mr crouch	2
+amos diggory,weasley	3
+amos,crouch	1
+amos,diggory	1
+amos,harry	3
+amos,harry potter	1
+amos,hermione	1
+amos,mr crouch	2
+amos,nearly	1
+amos,potter	1
+amos,rita skeeter	1
+amos,weasley	9
+amos,winky	4
+angelina johnson,abbott	1
+angelina johnson,angelina	2
+angelina johnson,black	1
+angelina johnson,cho	1
+angelina johnson,dennis creevey	1
+angelina johnson,fred	1
+angelina johnson,george	1
+angelina johnson,ginny	1
+angelina johnson,gryffindor	3
+angelina johnson,hagrid	1
+angelina johnson,harry	3
+angelina johnson,hufflepuff	1
+angelina johnson,justin finch-fletchley	1
+angelina johnson,katie bell	1
+angelina johnson,lavender	1
+angelina johnson,lee jordan	1
+angelina johnson,mcgonagall	1
+angelina johnson,neville	1
+angelina johnson,parvati	1
+angelina johnson,patil	1
+angelina johnson,ravenclaw	1
+angelina johnson,sinistra	1
+angelina johnson,trelawney	1
+angelina johnson,weasley	1
+angelina,alicia	15
+angelina,angelina johnson	2
+angelina,black	1
+angelina,crabbe	1
+angelina,dumbledore	1
+angelina,fred	12
+angelina,fred weasley	3
+angelina,george	6
+angelina,george weasley	3
+angelina,ginny	3
+angelina,gryffindor	25
+angelina,harry	38
+angelina,hermione	5
+angelina,hufflepuff	2
+angelina,johnson	6
+angelina,katie	13
+angelina,katie bell	3
+angelina,lee	3
+angelina,lee jordan	1
+angelina,madam hooch	4
+angelina,madam pomfrey	1
+angelina,malfoy	2
+angelina,mcgonagall	3
+angelina,nearly	1
+angelina,oliver wood	4
+angelina,peeves	1
+angelina,professor sprout	1
+angelina,ron	15
+angelina,slytherin	14
+angelina,weasley	2
+angelina,wood	3
+aragog,hagrid	21
+aragog,harry	19
+aragog,hermione	5
+aragog,moaning	1
+aragog,nearly	1
+aragog,professor grubbly-plank	1
+aragog,professor sprout	1
+aragog,riddle	1
+aragog,ron	7
+aragog,slytherin	1
+bagman,bertha	6
+bagman,bertha jorkins	1
+bagman,bill	1
+bagman,cedric	4
+bagman,cornelius fudge	2
+bagman,crouch	8
+bagman,delacour	2
+bagman,diggory	1
+bagman,dumbledore	9
+bagman,fat	1
+bagman,filch	1
+bagman,fleur	2
+bagman,fleur delacour	6
+bagman,flitwick	1
+bagman,fred	9
+bagman,fudge	2
+bagman,george	3
+bagman,ginny	1
+bagman,hagrid	7
+bagman,harry	70
+bagman,harry potter	1
+bagman,hermione	5
+bagman,karkaroff	6
+bagman,krum	5
+bagman,lee jordan	1
+bagman,ludo	3
+bagman,ludo bagman	4
+bagman,madam	1
+bagman,malfoy	1
+bagman,maxime	4
+bagman,mcgonagall	5
+bagman,mr crouch	15
+bagman,nearly	1
+bagman,padma	2
+bagman,percy	15
+bagman,potter	3
+bagman,professor sprout	2
+bagman,rita	1
+bagman,rita skeeter	2
+bagman,ron	4
+bagman,sir	1
+bagman,sirius	1
+bagman,viktor krum	3
+bagman,voldemort	1
+bagman,weasley	5
+bagman,winky	5
+bane,black	1
+bane,dumbledore	3
+bane,firenze	11
+bane,fluffy	1
+bane,hagrid	3
+bane,harry	13
+bane,hermione	1
+bane,nearly	3
+bane,ronan	1
+bane,snape	2
+bane,voldemort	5
+baron,bloody baron	1
+baron,nick	2
+baron,peeves	2
+baron,percy	1
+baron,sir	2
+bell,alicia	2
+bell,bill	1
+bell,black	1
+bell,cho	1
+bell,colin	2
+bell,crabbe	2
+bell,creevey	2
+bell,diggory	1
+bell,draco	2
+bell,dumbledore	3
+bell,ernie	1
+bell,fred	1
+bell,george weasley	1
+bell,ginny	1
+bell,goyle	2
+bell,gryffindor	5
+bell,hagrid	9
+bell,harry	66
+bell,hermione	27
+bell,johnson	5
+bell,karkaroff	2
+bell,katie	1
+bell,katie bell	2
+bell,lavender	2
+bell,lee	2
+bell,lee jordan	1
+bell,lockhart	7
+bell,madam pomfrey	1
+bell,malfoy	7
+bell,maxime	1
+bell,mcgonagall	4
+bell,moaning	1
+bell,moody	3
+bell,nearly	1
+bell,neville	6
+bell,oliver	1
+bell,peeves	1
+bell,petunia	1
+bell,professor flitwick	1
+bell,ravenclaw	1
+bell,ron	22
+bell,sir	1
+bell,skeeter	2
+bell,slytherin	3
+bell,snape	9
+bell,trelawney	3
+bell,vernon	2
+bell,wood	1
+bertha jorkins,bagman	1
+bertha jorkins,bertha	1
+bertha jorkins,cedric	1
+bertha jorkins,crouch	3
+bertha jorkins,dumbledore	3
+bertha jorkins,harry	8
+bertha jorkins,ludo	1
+bertha jorkins,minerva	1
+bertha jorkins,mr crouch	1
+bertha jorkins,percy	1
+bertha jorkins,sirius	2
+bertha jorkins,skeeter	1
+bertha jorkins,voldemort	9
+bertha jorkins,winky	4
+bertha jorkins,wormtail	8
+bertha,bagman	6
+bertha,bertha jorkins	1
+bertha,dumbledore	3
+bertha,fat	1
+bertha,harry	1
+bertha,ludo	1
+bertha,moody	1
+bertha,mr crouch	2
+bertha,percy	2
+bertha,rita skeeter	1
+bertha,weasley	2
+bertha,wormtail	2
+bill,bagman	1
+bill,bell	1
+bill,bloody	1
+bill,brown	3
+bill,charlie	15
+bill,cho	1
+bill,crookshanks	1
+bill,dean	1
+bill,dumbledore	7
+bill,fang	7
+bill,fat	2
+bill,fleur	14
+bill,fleur delacour	1
+bill,fred	17
+bill,fudge	1
+bill,george	3
+bill,ginny	21
+bill,gryffindor	2
+bill,hagrid	5
+bill,harry	69
+bill,hermione	7
+bill,lupin	11
+bill,mad-eye moody	1
+bill,madam pomfrey	4
+bill,malfoy	2
+bill,mcgonagall	7
+bill,molly	4
+bill,moody	1
+bill,neville	3
+bill,percy	28
+bill,rita	1
+bill,ron	27
+bill,slytherin	1
+bill,snape	3
+bill,vernon	2
+bill,voldemort	1
+bill,weasley	45
+binns,bloody	2
+binns,dean thomas	1
+binns,dumbledore	1
+binns,fred	1
+binns,george	1
+binns,granger	1
+binns,hagrid	2
+binns,harry	20
+binns,hedwig	4
+binns,hermione	11
+binns,madam pomfrey	1
+binns,mcgonagall	2
+binns,nearly	1
+binns,potter	1
+binns,professor flitwick	3
+binns,professor grubbly-plank	1
+binns,ron	6
+binns,skeeter	1
+binns,slytherin	2
+binns,snape	4
+binns,trelawney	1
+black,albus dumbledore	2
+black,angelina	1
+black,angelina johnson	1
+black,bane	1
+black,bell	1
+black,bloody	2
+black,buckbeak	6
+black,cedric	1
+black,cedric diggory	1
+black,chang	1
+black,charlie	2
+black,cho	1
+black,cho chang	2
+black,colin creevey	1
+black,cornelius fudge	2
+black,crabbe	3
+black,crookshanks	23
+black,dennis	3
+black,dennis creevey	2
+black,dobby	4
+black,draco	3
+black,draco malfoy	3
+black,dudley	5
+black,dumbledore	65
+black,ernie	3
+black,fang	4
+black,fat	3
+black,fawkes	6
+black,filch	5
+black,firenze	1
+black,fleur	3
+black,fluffy	1
+black,fred	11
+black,fudge	34
+black,george	2
+black,ginny	9
+black,godric gryffindor	1
+black,goyle	4
+black,granger	1
+black,gryffindor	14
+black,hagrid	49
+black,hannah abbott	1
+black,harry	458
+black,harry potter	7
+black,hedwig	2
+black,hermione	51
+black,hufflepuff	3
+black,james	5
+black,james potter	1
+black,justin	2
+black,karkaroff	7
+black,krum	3
+black,lavender	1
+black,lily	7
+black,lockhart	1
+black,ludo bagman	2
+black,lupin	44
+black,mad-eye moody	1
+black,madam	4
+black,madam pince	2
+black,madam pomfrey	3
+black,malfoy	33
+black,malkin	1
+black,maxime	4
+black,mcgonagall	11
+black,minerva	2
+black,moaning	2
+black,molly	8
+black,moody	3
+black,nearly	2
+black,nearly headless nick	4
+black,neville	9
+black,neville longbottom	3
+black,nick	1
+black,pansy parkinson	1
+black,parvati	1
+black,percy	2
+black,peter	8
+black,peter pettigrew	7
+black,pettigrew	30
+black,petunia	2
+black,pomfrey	1
+black,potter	15
+black,professor flitwick	7
+black,professor lupin	6
+black,professor sinistra	1
+black,professor sprout	3
+black,ravenclaw	3
+black,riddle	2
+black,rita skeeter	2
+black,roger	2
+black,ron	90
+black,scabbers	17
+black,seamus	2
+black,severus	6
+black,sir	2
+black,sirius	40
+black,sirius black	16
+black,slytherin	8
+black,snape	57
+black,thomas	1
+black,tom	1
+black,tom riddle	1
+black,trelawney	1
+black,vernon	9
+black,vernon dursley	2
+black,viktor krum	1
+black,voldemort	18
+black,weasley	28
+black,winky	1
+black,wood	3
+black,wormtail	8
+bloody baron,baron	1
+bloody baron,fat friar	2
+bloody baron,gryffindor	1
+bloody baron,harry	2
+bloody baron,hermione	1
+bloody baron,hufflepuff	1
+bloody baron,nearly headless nick	3
+bloody baron,neville	1
+bloody baron,nick	2
+bloody baron,peeves	5
+bloody baron,ron	3
+bloody baron,slytherin	3
+bloody,bill	1
+bloody,binns	2
+bloody,black	2
+bloody,charlie	1
+bloody,crabbe	1
+bloody,dudley	1
+bloody,dumbledore	2
+bloody,filch	1
+bloody,fluffy	1
+bloody,fred	1
+bloody,george	1
+bloody,hagrid	1
+bloody,harry	16
+bloody,hedwig	1
+bloody,krum	2
+bloody,lupin	1
+bloody,madam hooch	1
+bloody,malfoy	1
+bloody,mcgonagall	1
+bloody,moaning	1
+bloody,mr crouch	1
+bloody,neville	1
+bloody,percy	1
+bloody,petunia	1
+bloody,professor flitwick	1
+bloody,snape	6
+bloody,tom riddle	1
+bloody,vernon	2
+bloody,voldemort	1
+bloody,weasley	2
+brown,amos diggory	2
+brown,bill	3
+brown,buckbeak	1
+brown,crabbe	1
+brown,crouch	1
+brown,dobby	5
+brown,draco malfoy	1
+brown,dudley	1
+brown,dumbledore	1
+brown,filch	2
+brown,finnigan	1
+brown,flitwick	1
+brown,fred	2
+brown,ginny	2
+brown,goyle	1
+brown,granger	1
+brown,gryffindor	1
+brown,hagrid	10
+brown,harry	53
+brown,harry potter	1
+brown,hedwig	3
+brown,hermione	6
+brown,hermione granger	2
+brown,lupin	2
+brown,madam pomfrey	1
+brown,malfoy	2
+brown,maxime	1
+brown,mcgonagall	1
+brown,moody	1
+brown,mr crouch	2
+brown,neville	2
+brown,neville longbottom	1
+brown,pansy parkinson	1
+brown,pigwidgeon	1
+brown,professor grubbly-plank	1
+brown,ravenclaw	1
+brown,ron	12
+brown,sir	1
+brown,sirius	10
+brown,slytherin	1
+brown,snape	3
+brown,sprout	1
+brown,vernon	1
+brown,weasley	10
+brown,winky	6
+brown,wood	1
+buckbeak,black	6
+buckbeak,brown	1
+buckbeak,cedric diggory	1
+buckbeak,charlie weasley	1
+buckbeak,crookshanks	1
+buckbeak,crouch	2
+buckbeak,dumbledore	12
+buckbeak,flitwick	2
+buckbeak,fudge	2
+buckbeak,goyle	1
+buckbeak,gryffindor	3
+buckbeak,hagrid	43
+buckbeak,harry	87
+buckbeak,hedwig	2
+buckbeak,hermione	26
+buckbeak,hufflepuff	1
+buckbeak,lupin	1
+buckbeak,malfoy	13
+buckbeak,mcgonagall	1
+buckbeak,nearly	1
+buckbeak,percy	1
+buckbeak,percy weasley	1
+buckbeak,pettigrew	1
+buckbeak,ravenclaw	1
+buckbeak,ron	12
+buckbeak,sirius	27
+buckbeak,snape	3
+buckbeak,voldemort	1
+buckbeak,weasley	1
+buckbeak,winky	1
+buckbeak,wood	2
+buckbeak,wormtail	2
+bulstrode,dudley	1
+bulstrode,granger	1
+bulstrode,harry	2
+bulstrode,hermione	2
+bulstrode,malfoy	1
+bulstrode,millicent	2
+bulstrode,neville	1
+bulstrode,potter	1
+bulstrode,ron	1
+bulstrode,seamus	1
+bulstrode,slytherin	2
+bulstrode,snape	1
+cadogan,fat	1
+cadogan,harry	2
+cadogan,percy	1
+cedric diggory,black	1
+cedric diggory,buckbeak	1
+cedric diggory,cedric	4
+cedric diggory,cho	3
+cedric diggory,clearwater	1
+cedric diggory,creevey	1
+cedric diggory,diggory	3
+cedric diggory,draco malfoy	1
+cedric diggory,dudley	1
+cedric diggory,dumbledore	2
+cedric diggory,ernie	1
+cedric diggory,fat	1
+cedric diggory,fleur delacour	1
+cedric diggory,hagrid	1
+cedric diggory,hannah	1
+cedric diggory,harry	18
+cedric diggory,harry potter	2
+cedric diggory,hedwig	1
+cedric diggory,hermione	4
+cedric diggory,hufflepuff	4
+cedric diggory,percy	1
+cedric diggory,potter	2
+cedric diggory,ravenclaw	2
+cedric diggory,rita skeeter	1
+cedric diggory,ron	1
+cedric diggory,seamus	1
+cedric diggory,sirius	1
+cedric diggory,slytherin	1
+cedric diggory,snape	1
+cedric diggory,viktor krum	1
+cedric diggory,voldemort	6
+cedric diggory,wood	2
+cedric diggory,wormtail	1
+cedric,amos diggory	1
+cedric,bagman	4
+cedric,bertha jorkins	1
+cedric,black	1
+cedric,cedric diggory	4
+cedric,cho	15
+cedric,crabbe	1
+cedric,dean thomas	1
+cedric,delacour	2
+cedric,diggory	6
+cedric,dobby	1
+cedric,dudley	2
+cedric,dumbledore	13
+cedric,ernie	4
+cedric,filch	1
+cedric,fleur	9
+cedric,fleur delacour	5
+cedric,fred	2
+cedric,fudge	1
+cedric,gryffindor	6
+cedric,hagrid	1
+cedric,hannah	1
+cedric,harry	233
+cedric,harry potter	1
+cedric,hermione	12
+cedric,hufflepuff	8
+cedric,justin	1
+cedric,karkaroff	1
+cedric,krum	27
+cedric,lee jordan	1
+cedric,longbottom	4
+cedric,ludo bagman	1
+cedric,mad-eye moody	2
+cedric,madam pomfrey	2
+cedric,malfoy	3
+cedric,maxime	1
+cedric,mcgonagall	1
+cedric,moody	2
+cedric,mr crouch	1
+cedric,mr ollivander	2
+cedric,nearly	9
+cedric,parvati	1
+cedric,potter	4
+cedric,professor flitwick	1
+cedric,professor sprout	1
+cedric,ravenclaw	6
+cedric,rita	1
+cedric,rita skeeter	4
+cedric,roger	2
+cedric,ron	20
+cedric,sirius	1
+cedric,skeeter	1
+cedric,snape	7
+cedric,viktor	1
+cedric,viktor krum	4
+cedric,voldemort	22
+cedric,weasley	4
+cedric,wormtail	3
+chang,black	1
+chang,cho	2
+chang,diggory	1
+chang,dumbledore	1
+chang,fleur	1
+chang,ginny	1
+chang,gryffindor	1
+chang,harry	4
+chang,hermione	1
+chang,hufflepuff	1
+chang,pansy	1
+chang,potter	2
+chang,ravenclaw	1
+chang,roger	1
+chang,ron	2
+charlie weasley,buckbeak	1
+charlie weasley,gryffindor	2
+charlie weasley,hagrid	2
+charlie weasley,harry	6
+charlie weasley,malfoy	3
+charlie weasley,maxime	1
+charlie weasley,mcgonagall	1
+charlie weasley,ravenclaw	1
+charlie weasley,wood	2
+charlie,bill	15
+charlie,black	2
+charlie,bloody	1
+charlie,dean thomas	1
+charlie,dumbledore	3
+charlie,fleur	1
+charlie,fred	13
+charlie,george	5
+charlie,ginny	6
+charlie,hagrid	3
+charlie,harry	31
+charlie,harry potter	1
+charlie,hedwig	1
+charlie,hermione	4
+charlie,hermione granger	1
+charlie,krum	2
+charlie,malfoy	2
+charlie,maxime	1
+charlie,mcgonagall	1
+charlie,norbert	8
+charlie,percy	11
+charlie,pigwidgeon	1
+charlie,ron	17
+charlie,scabbers	1
+charlie,seamus finnigan	1
+charlie,sirius	2
+charlie,weasley	14
+cho chang,black	2
+cho chang,cho	1
+cho chang,dean	1
+cho chang,diggory	1
+cho chang,dudley	1
+cho chang,dumbledore	1
+cho chang,ernie	1
+cho chang,ginny	2
+cho chang,gryffindor	1
+cho chang,harry	25
+cho chang,hermione	1
+cho chang,hufflepuff	1
+cho chang,katie	1
+cho chang,krum	1
+cho chang,neville	2
+cho chang,oliver wood	1
+cho chang,ravenclaw	5
+cho chang,ron	3
+cho chang,slytherin	1
+cho chang,snape	1
+cho chang,wood	2
+cho,abbott	1
+cho,angelina johnson	1
+cho,bell	1
+cho,bill	1
+cho,black	1
+cho,cedric	15
+cho,cedric diggory	3
+cho,chang	2
+cho,cho chang	1
+cho,creevey	1
+cho,dennis creevey	1
+cho,dobby	2
+cho,dumbledore	1
+cho,ernie	2
+cho,filch	1
+cho,fred	1
+cho,ginny	5
+cho,gryffindor	4
+cho,hannah	1
+cho,harry	118
+cho,hermione	17
+cho,hermione granger	1
+cho,hufflepuff	3
+cho,justin finch-fletchley	2
+cho,katie	1
+cho,katie bell	1
+cho,lavender	1
+cho,lavender brown	1
+cho,lee jordan	1
+cho,lupin	1
+cho,madam pomfrey	2
+cho,malfoy	1
+cho,moody	1
+cho,neville	5
+cho,parvati	1
+cho,patil	1
+cho,pettigrew	1
+cho,ravenclaw	13
+cho,roger	8
+cho,ron	22
+cho,sirius	5
+cho,sirius black	1
+cho,snape	9
+cho,voldemort	1
+cho,weasley	1
+cho,wood	1
+clearwater,cedric diggory	1
+clearwater,george	1
+clearwater,harry	2
+clearwater,percy	3
+clearwater,ravenclaw	3
+clearwater,ron	1
+colin creevey,black	1
+colin creevey,colin	3
+colin creevey,fred	1
+colin creevey,ginny	1
+colin creevey,ginny weasley	1
+colin creevey,gryffindor	1
+colin creevey,hagrid	1
+colin creevey,harry	17
+colin creevey,hermione	1
+colin creevey,hermione granger	1
+colin creevey,lockhart	1
+colin creevey,mcgonagall	1
+colin creevey,percy	1
+colin creevey,professor sprout	1
+colin creevey,ron	1
+colin creevey,snape	1
+colin creevey,weasley	1
+colin,albus	1
+colin,bell	2
+colin,colin creevey	3
+colin,crabbe	2
+colin,creevey	5
+colin,dennis	1
+colin,draco malfoy	1
+colin,dumbledore	1
+colin,gryffindor	3
+colin,harry	53
+colin,harry potter	1
+colin,hermione	5
+colin,justin	2
+colin,lockhart	12
+colin,madam pomfrey	1
+colin,malfoy	2
+colin,mcgonagall	1
+colin,nearly headless nick	2
+colin,nick	2
+colin,potter	2
+colin,ravenclaw	2
+colin,ron	4
+colin,sir	1
+colin,snape	1
+cornelius fudge,albus dumbledore	4
+cornelius fudge,bagman	2
+cornelius fudge,black	2
+cornelius fudge,crouch	3
+cornelius fudge,dumbledore	7
+cornelius fudge,firenze	1
+cornelius fudge,fudge	7
+cornelius fudge,gryffindor	2
+cornelius fudge,hagrid	2
+cornelius fudge,harry	27
+cornelius fudge,hermione	4
+cornelius fudge,ludo bagman	2
+cornelius fudge,madam	2
+cornelius fudge,madam pomfrey	1
+cornelius fudge,malfoy	2
+cornelius fudge,maxime	2
+cornelius fudge,mcgonagall	4
+cornelius fudge,minerva	3
+cornelius fudge,moody	1
+cornelius fudge,nearly	1
+cornelius fudge,percy	3
+cornelius fudge,percy weasley	1
+cornelius fudge,rita skeeter	1
+cornelius fudge,severus	1
+cornelius fudge,snape	3
+cornelius fudge,voldemort	1
+cornelius fudge,weasley	8
+cornelius,crouch	1
+cornelius,dumbledore	14
+cornelius,fudge	6
+cornelius,hagrid	1
+cornelius,harry	6
+cornelius,maxime	1
+cornelius,mcgonagall	1
+cornelius,minerva	1
+cornelius,percy	1
+cornelius,potter	2
+cornelius,voldemort	7
+crabbe,alicia	1
+crabbe,angelina	1
+crabbe,bell	2
+crabbe,black	3
+crabbe,bloody	1
+crabbe,brown	1
+crabbe,cedric	1
+crabbe,colin	2
+crabbe,dean	1
+crabbe,draco	1
+crabbe,draco malfoy	10
+crabbe,dudley dursley	1
+crabbe,dumbledore	3
+crabbe,ernie	1
+crabbe,filch	2
+crabbe,fred	4
+crabbe,george	2
+crabbe,george weasley	1
+crabbe,ginny	1
+crabbe,goyle	23
+crabbe,gryffindor	4
+crabbe,hagrid	9
+crabbe,harry	125
+crabbe,hermione	18
+crabbe,hermione granger	1
+crabbe,hufflepuff	1
+crabbe,katie	1
+crabbe,katie bell	1
+crabbe,longbottom	1
+crabbe,lupin	1
+crabbe,madam	1
+crabbe,madam hooch	2
+crabbe,malfoy	78
+crabbe,mcgonagall	4
+crabbe,millicent bulstrode	2
+crabbe,moaning	4
+crabbe,moody	3
+crabbe,neville	6
+crabbe,pansy	5
+crabbe,pansy parkinson	4
+crabbe,parkinson	2
+crabbe,potter	3
+crabbe,professor flitwick	1
+crabbe,professor grubbly-plank	1
+crabbe,professor sprout	1
+crabbe,ravenclaw	1
+crabbe,riddle	1
+crabbe,ron	43
+crabbe,scabbers	1
+crabbe,slytherin	10
+crabbe,snape	6
+crabbe,sprout	1
+crabbe,vincent crabbe	1
+crabbe,voldemort	1
+crabbe,weasley	2
+crabbe,wood	1
+creevey,bell	2
+creevey,cedric diggory	1
+creevey,cho	1
+creevey,colin	5
+creevey,crookshanks	1
+creevey,dennis	1
+creevey,dumbledore	2
+creevey,ernie	3
+creevey,fat	1
+creevey,filch	2
+creevey,ginny	3
+creevey,gryffindor	1
+creevey,harry	23
+creevey,harry potter	2
+creevey,hermione	4
+creevey,justin	1
+creevey,justin finch-fletchley	1
+creevey,lavender brown	1
+creevey,lockhart	10
+creevey,malfoy	1
+creevey,neville	1
+creevey,nick	1
+creevey,parvati patil	1
+creevey,potter	5
+creevey,ron	4
+crookshanks,bill	1
+crookshanks,black	23
+crookshanks,buckbeak	1
+crookshanks,creevey	1
+crookshanks,crouch	1
+crookshanks,dudley	1
+crookshanks,dumbledore	4
+crookshanks,fluffy	1
+crookshanks,fred	3
+crookshanks,george weasley	2
+crookshanks,ginny	7
+crookshanks,gryffindor	4
+crookshanks,hagrid	2
+crookshanks,harry	103
+crookshanks,hedwig	6
+crookshanks,hermione	63
+crookshanks,lupin	9
+crookshanks,malfoy	1
+crookshanks,nearly	2
+crookshanks,neville	2
+crookshanks,peter	3
+crookshanks,pettigrew	3
+crookshanks,pigwidgeon	6
+crookshanks,professor lupin	1
+crookshanks,ron	85
+crookshanks,scabbers	32
+crookshanks,seamus	1
+crookshanks,sirius	5
+crookshanks,snape	5
+crookshanks,vernon	1
+crookshanks,voldemort	1
+crookshanks,weasley	4
+crouch,albus dumbledore	3
+crouch,amos	1
+crouch,bagman	8
+crouch,bertha jorkins	3
+crouch,brown	1
+crouch,buckbeak	2
+crouch,cornelius	1
+crouch,cornelius fudge	3
+crouch,crookshanks	1
+crouch,diggory	5
+crouch,dumbledore	23
+crouch,filch	1
+crouch,fred	1
+crouch,fudge	4
+crouch,george	2
+crouch,gryffindor	2
+crouch,hagrid	1
+crouch,harry	49
+crouch,hermione	7
+crouch,karkaroff	2
+crouch,krum	4
+crouch,longbottom	1
+crouch,ludo	1
+crouch,ludo bagman	2
+crouch,mad-eye	2
+crouch,madam pomfrey	1
+crouch,maxime	2
+crouch,mcgonagall	4
+crouch,minerva	3
+crouch,moody	8
+crouch,mr crouch	8
+crouch,nearly headless nick	1
+crouch,neville	3
+crouch,peeves	1
+crouch,percy	16
+crouch,potter	3
+crouch,professor sprout	1
+crouch,rita	1
+crouch,rita skeeter	1
+crouch,ron	15
+crouch,severus	2
+crouch,sir	1
+crouch,sirius	14
+crouch,snape	8
+crouch,vernon	1
+crouch,viktor krum	1
+crouch,voldemort	11
+crouch,weasley	3
+crouch,winky	10
+crouch,wood	1
+dean thomas,binns	1
+dean thomas,cedric	1
+dean thomas,charlie	1
+dean thomas,dean	1
+dean thomas,ernie	1
+dean thomas,fred	1
+dean thomas,ginny	2
+dean thomas,goyle	1
+dean thomas,gryffindor	3
+dean thomas,harry	18
+dean thomas,hermione	6
+dean thomas,hufflepuff	1
+dean thomas,katie bell	1
+dean thomas,lavender brown	3
+dean thomas,lee jordan	1
+dean thomas,lockhart	2
+dean thomas,malfoy	1
+dean thomas,mcgonagall	1
+dean thomas,nearly	2
+dean thomas,neville	1
+dean thomas,neville longbottom	1
+dean thomas,parvati	1
+dean thomas,percy	1
+dean thomas,professor grubbly-plank	1
+dean thomas,ron	9
+dean thomas,seamus finnigan	6
+dean thomas,slytherin	1
+dean thomas,snape	2
+dean thomas,trelawney	1
+dean thomas,vernon	1
+dean,bill	1
+dean,cho chang	1
+dean,crabbe	1
+dean,dean thomas	1
+dean,draco malfoy	1
+dean,dumbledore	2
+dean,filch	1
+dean,firenze	1
+dean,ginny	18
+dean,gryffindor	5
+dean,hagrid	4
+dean,harry	79
+dean,hermione	7
+dean,hufflepuff	1
+dean,katie bell	2
+dean,lavender	1
+dean,lockhart	1
+dean,lupin	2
+dean,madam	1
+dean,madam pomfrey	1
+dean,malfoy	2
+dean,nearly	2
+dean,neville	14
+dean,padma patil	1
+dean,parvati	1
+dean,potter	3
+dean,professor lupin	1
+dean,ron	30
+dean,scabbers	2
+dean,seamus	25
+dean,seamus finnigan	1
+dean,slytherin	1
+dean,snape	4
+dean,viktor krum	2
+delacour,bagman	2
+delacour,cedric	2
+delacour,diggory	1
+delacour,dumbledore	1
+delacour,fleur delacour	1
+delacour,hagrid	1
+delacour,harry	4
+delacour,krum	3
+delacour,mr ollivander	1
+delacour,ravenclaw	1
+delacour,roger	1
+delacour,ron	1
+delacour,viktor krum	1
+dennis creevey,abbott	1
+dennis creevey,angelina johnson	1
+dennis creevey,black	2
+dennis creevey,cho	1
+dennis creevey,fred	1
+dennis creevey,ginny	1
+dennis creevey,gryffindor	2
+dennis creevey,hagrid	7
+dennis creevey,harry	5
+dennis creevey,hermione	2
+dennis creevey,hufflepuff	1
+dennis creevey,justin finch-fletchley	1
+dennis creevey,katie bell	1
+dennis creevey,lavender	1
+dennis creevey,lee jordan	1
+dennis creevey,neville	1
+dennis creevey,parvati	1
+dennis creevey,patil	1
+dennis creevey,ravenclaw	1
+dennis creevey,ron	1
+dennis creevey,weasley	1
+dennis,black	3
+dennis,colin	1
+dennis,creevey	1
+dennis,dudley	3
+dennis,harry	4
+dennis,nick	1
+dennis,ron	1
+dennis,tom riddle	1
+diggory,amos	1
+diggory,bagman	1
+diggory,bell	1
+diggory,cedric	6
+diggory,cedric diggory	3
+diggory,chang	1
+diggory,cho chang	1
+diggory,crouch	5
+diggory,delacour	1
+diggory,dumbledore	3
+diggory,fleur	1
+diggory,fleur delacour	2
+diggory,george	2
+diggory,gryffindor	2
+diggory,harry	18
+diggory,hermione	3
+diggory,hooch	1
+diggory,krum	2
+diggory,ludo	1
+diggory,mad-eye	2
+diggory,madam hooch	1
+diggory,mcgonagall	1
+diggory,moody	1
+diggory,mr crouch	5
+diggory,mr ollivander	1
+diggory,nearly	2
+diggory,oliver wood	1
+diggory,pansy	1
+diggory,potter	2
+diggory,rita skeeter	1
+diggory,ron	2
+diggory,sirius	3
+diggory,slytherin	1
+diggory,viktor krum	1
+diggory,voldemort	2
+diggory,weasley	3
+diggory,winky	9
+diggory,wood	6
+dobby,albus dumbledore	1
+dobby,black	4
+dobby,brown	5
+dobby,cedric	1
+dobby,cho	2
+dobby,draco	3
+dobby,draco malfoy	4
+dobby,dudley	2
+dobby,dumbledore	21
+dobby,filch	2
+dobby,fleur	1
+dobby,fred	2
+dobby,ginny	1
+dobby,gryffindor	2
+dobby,hagrid	6
+dobby,harry	157
+dobby,harry potter	158
+dobby,hedwig	6
+dobby,hermione	22
+dobby,karkaroff	2
+dobby,madam pomfrey	1
+dobby,malfoy	19
+dobby,mcgonagall	5
+dobby,moody	4
+dobby,mr crouch	4
+dobby,nearly	2
+dobby,neville	1
+dobby,peeves	1
+dobby,percy	2
+dobby,petunia	2
+dobby,potter	10
+dobby,professor grubbly-plank	1
+dobby,ron	20
+dobby,seamus	1
+dobby,sir	171
+dobby,sirius	6
+dobby,snape	5
+dobby,vernon	4
+dobby,weasley	7
+dobby,winky	35
+dobby,wood	1
+draco malfoy,albus dumbledore	1
+draco malfoy,black	3
+draco malfoy,brown	1
+draco malfoy,cedric diggory	1
+draco malfoy,colin	1
+draco malfoy,crabbe	10
+draco malfoy,dean	1
+draco malfoy,dobby	4
+draco malfoy,dudley	1
+draco malfoy,dumbledore	6
+draco malfoy,ernie	1
+draco malfoy,fat	1
+draco malfoy,flitwick	1
+draco malfoy,fred	2
+draco malfoy,george	1
+draco malfoy,goyle	2
+draco malfoy,gryffindor	1
+draco malfoy,hagrid	10
+draco malfoy,harry	53
+draco malfoy,harry potter	1
+draco malfoy,hedwig	1
+draco malfoy,hermione	9
+draco malfoy,katie	2
+draco malfoy,longbottom	1
+draco malfoy,malfoy	9
+draco malfoy,mcgonagall	3
+draco malfoy,neville	1
+draco malfoy,neville longbottom	1
+draco malfoy,pansy parkinson	1
+draco malfoy,parkinson	1
+draco malfoy,percy	1
+draco malfoy,potter	4
+draco malfoy,professor grubbly-plank	3
+draco malfoy,professor lupin	1
+draco malfoy,rita skeeter	1
+draco malfoy,ron	13
+draco malfoy,sir	1
+draco malfoy,sirius	3
+draco malfoy,sirius black	1
+draco malfoy,slytherin	8
+draco malfoy,snape	6
+draco malfoy,vincent crabbe	1
+draco malfoy,weasley	2
+draco,bell	2
+draco,black	3
+draco,crabbe	1
+draco,dobby	3
+draco,dumbledore	9
+draco,fang	1
+draco,filch	1
+draco,ginny weasley	1
+draco,gryffindor	2
+draco,hagrid	2
+draco,harry	16
+draco,hermione	5
+draco,hermione granger	1
+draco,katie bell	1
+draco,lupin	1
+draco,malfoy	17
+draco,moody	1
+draco,nearly	1
+draco,parkinson	2
+draco,potter	5
+draco,ron	5
+draco,severus	2
+draco,sir	1
+draco,sirius	5
+draco,slytherin	3
+draco,snape	16
+draco,voldemort	1
+draco,weasley	4
+dudley dursley,crabbe	1
+dudley dursley,dursley	1
+dudley dursley,harry	2
+dudley dursley,malfoy	1
+dudley dursley,nearly	1
+dudley dursley,slytherin	1
+dudley,albus dumbledore	1
+dudley,black	5
+dudley,bloody	1
+dudley,brown	1
+dudley,bulstrode	1
+dudley,cedric	2
+dudley,cedric diggory	1
+dudley,cho chang	1
+dudley,crookshanks	1
+dudley,dennis	3
+dudley,dobby	2
+dudley,draco malfoy	1
+dudley,dumbledore	5
+dudley,dursley	23
+dudley,fat	26
+dudley,fred	5
+dudley,george	1
+dudley,ginny	2
+dudley,gryffindor	1
+dudley,hagrid	3
+dudley,harry	373
+dudley,harry potter	4
+dudley,hedwig	4
+dudley,hermione	3
+dudley,hermione granger	1
+dudley,hufflepuff	1
+dudley,moaning	1
+dudley,mr crouch	1
+dudley,nearly	10
+dudley,petunia	102
+dudley,potter	8
+dudley,riddle	1
+dudley,ron	14
+dudley,ron weasley	1
+dudley,sir	1
+dudley,sirius	5
+dudley,slytherin	3
+dudley,snape	2
+dudley,vernon	141
+dudley,vernon dursley	2
+dudley,voldemort	4
+dudley,weasley	19
+dudley,wood	2
+dumbledore,albus	4
+dumbledore,albus dumbledore	15
+dumbledore,angelina	1
+dumbledore,bagman	9
+dumbledore,bane	3
+dumbledore,bell	3
+dumbledore,bertha	3
+dumbledore,bertha jorkins	3
+dumbledore,bill	7
+dumbledore,binns	1
+dumbledore,black	65
+dumbledore,bloody	2
+dumbledore,brown	1
+dumbledore,buckbeak	12
+dumbledore,cedric	13
+dumbledore,cedric diggory	2
+dumbledore,chang	1
+dumbledore,charlie	3
+dumbledore,cho	1
+dumbledore,cho chang	1
+dumbledore,colin	1
+dumbledore,cornelius	14
+dumbledore,cornelius fudge	7
+dumbledore,crabbe	3
+dumbledore,creevey	2
+dumbledore,crookshanks	4
+dumbledore,crouch	23
+dumbledore,dean	2
+dumbledore,delacour	1
+dumbledore,diggory	3
+dumbledore,dobby	21
+dumbledore,draco	9
+dumbledore,draco malfoy	6
+dumbledore,dudley	5
+dumbledore,dursley	4
+dumbledore,ernie	2
+dumbledore,fang	4
+dumbledore,fat	11
+dumbledore,fat friar	1
+dumbledore,fawkes	32
+dumbledore,filch	17
+dumbledore,firenze	8
+dumbledore,flamel	3
+dumbledore,fleur delacour	3
+dumbledore,flitwick	1
+dumbledore,fluffy	9
+dumbledore,fred	28
+dumbledore,fred weasley	3
+dumbledore,fudge	102
+dumbledore,george	8
+dumbledore,george weasley	1
+dumbledore,ginny	21
+dumbledore,ginny weasley	1
+dumbledore,godric	1
+dumbledore,godric gryffindor	1
+dumbledore,granger	5
+dumbledore,grubbly-plank	2
+dumbledore,gryffindor	31
+dumbledore,hagrid	135
+dumbledore,harry	1418
+dumbledore,harry potter	26
+dumbledore,headless	4
+dumbledore,hedwig	9
+dumbledore,hermione	120
+dumbledore,hermione granger	1
+dumbledore,hufflepuff	6
+dumbledore,igor	1
+dumbledore,james	13
+dumbledore,jordan	1
+dumbledore,karkaroff	23
+dumbledore,katie	4
+dumbledore,katie bell	1
+dumbledore,krum	8
+dumbledore,lavender	2
+dumbledore,lee jordan	1
+dumbledore,lily	2
+dumbledore,lockhart	13
+dumbledore,longbottom	2
+dumbledore,ludo bagman	4
+dumbledore,lupin	25
+dumbledore,mad-eye	3
+dumbledore,mad-eye moody	12
+dumbledore,madam	10
+dumbledore,madam pomfrey	15
+dumbledore,malfoy	60
+dumbledore,maxime	17
+dumbledore,mcgonagall	102
+dumbledore,minerva	8
+dumbledore,molly	7
+dumbledore,moody	49
+dumbledore,mr crouch	19
+dumbledore,mr ollivander	1
+dumbledore,nearly	19
+dumbledore,nearly headless nick	2
+dumbledore,neville	20
+dumbledore,neville longbottom	1
+dumbledore,nicolas	1
+dumbledore,nicolas flamel	3
+dumbledore,norbert	1
+dumbledore,padma	1
+dumbledore,parvati	1
+dumbledore,patil	1
+dumbledore,peeves	7
+dumbledore,percy	23
+dumbledore,percy weasley	2
+dumbledore,pettigrew	2
+dumbledore,petunia	5
+dumbledore,pigwidgeon	3
+dumbledore,potter	41
+dumbledore,professor flitwick	5
+dumbledore,professor grubbly-plank	2
+dumbledore,professor lupin	2
+dumbledore,professor sinistra	1
+dumbledore,professor sprout	8
+dumbledore,ravenclaw	10
+dumbledore,riddle	35
+dumbledore,rita	4
+dumbledore,rita skeeter	4
+dumbledore,ron	127
+dumbledore,rubeus hagrid	2
+dumbledore,salazar slytherin	1
+dumbledore,seamus	8
+dumbledore,seamus finnigan	1
+dumbledore,severus	18
+dumbledore,sir	46
+dumbledore,sirius	126
+dumbledore,sirius black	3
+dumbledore,skeeter	6
+dumbledore,slytherin	24
+dumbledore,snape	208
+dumbledore,sprout	2
+dumbledore,tom	7
+dumbledore,tom riddle	12
+dumbledore,trelawney	16
+dumbledore,vernon	14
+dumbledore,vernon dursley	2
+dumbledore,viktor	1
+dumbledore,viktor krum	4
+dumbledore,voldemort	219
+dumbledore,weasley	72
+dumbledore,winky	10
+dumbledore,wood	3
+dumbledore,wormtail	7
+dursley,dudley	23
+dursley,dudley dursley	1
+dursley,dumbledore	4
+dursley,hagrid	1
+dursley,harry	14
+dursley,harry potter	2
+dursley,malfoy	2
+dursley,moody	1
+dursley,nearly	4
+dursley,petunia	8
+dursley,potter	6
+dursley,ron	1
+dursley,sir	1
+dursley,vernon	5
+ernie mcmillan,hermione	1
+ernie mcmillan,ron	1
+ernie,abbott	2
+ernie,bell	1
+ernie,black	3
+ernie,cedric	4
+ernie,cedric diggory	1
+ernie,cho	2
+ernie,cho chang	1
+ernie,crabbe	1
+ernie,creevey	3
+ernie,dean thomas	1
+ernie,draco malfoy	1
+ernie,dumbledore	2
+ernie,fat friar	2
+ernie,filch	1
+ernie,fred	1
+ernie,george	2
+ernie,ginny	2
+ernie,goyle	2
+ernie,gryffindor	1
+ernie,hannah	2
+ernie,hannah abbott	1
+ernie,harry	67
+ernie,headless	1
+ernie,hermione	16
+ernie,hermione granger	1
+ernie,hufflepuff	8
+ernie,justin	8
+ernie,justin finch-fletchley	1
+ernie,lavender	3
+ernie,malfoy	7
+ernie,mcgonagall	5
+ernie,nearly	3
+ernie,nearly headless nick	5
+ernie,neville	1
+ernie,neville longbottom	1
+ernie,nick	2
+ernie,oliver wood	1
+ernie,peeves	2
+ernie,potter	4
+ernie,professor flitwick	3
+ernie,professor sinistra	2
+ernie,professor sprout	5
+ernie,ravenclaw	3
+ernie,ron	13
+ernie,sir	2
+ernie,slytherin	1
+ernie,trelawney	1
+fang,bill	7
+fang,black	4
+fang,draco	1
+fang,dumbledore	4
+fang,fudge	1
+fang,hagrid	60
+fang,harry	76
+fang,hermione	10
+fang,karkaroff	2
+fang,lockhart	1
+fang,malfoy	5
+fang,nearly	1
+fang,neville	3
+fang,percy	1
+fang,potter	2
+fang,ron	17
+fang,snape	2
+fang,wood	1
+fat friar,bloody baron	2
+fat friar,dumbledore	1
+fat friar,ernie	2
+fat friar,hannah	1
+fat friar,harry	3
+fat friar,hermione	1
+fat friar,hufflepuff	2
+fat friar,nearly headless nick	1
+fat friar,peeves	1
+fat friar,ron	1
+fat friar,slytherin	1
+fat,bagman	1
+fat,bertha	1
+fat,bill	2
+fat,black	3
+fat,cadogan	1
+fat,cedric diggory	1
+fat,creevey	1
+fat,draco malfoy	1
+fat,dudley	26
+fat,dumbledore	11
+fat,filch	2
+fat,fred	4
+fat,george	1
+fat,ginny	3
+fat,gryffindor	13
+fat,hagrid	5
+fat,harry	66
+fat,harry potter	1
+fat,hermione	20
+fat,katie	1
+fat,krum	1
+fat,lavender	1
+fat,longbottom	1
+fat,malfoy	2
+fat,mcgonagall	3
+fat,moaning	1
+fat,moody	1
+fat,neville	3
+fat,parkinson	1
+fat,parvati	1
+fat,peeves	2
+fat,percy	1
+fat,pettigrew	1
+fat,petunia	4
+fat,potter	1
+fat,professor flitwick	2
+fat,professor sprout	1
+fat,riddle	1
+fat,rita skeeter	1
+fat,ron	31
+fat,scabbers	4
+fat,seamus	1
+fat,sir cadogan	3
+fat,sirius	2
+fat,sirius black	1
+fat,slytherin	2
+fat,snape	1
+fat,vernon	4
+fat,voldemort	1
+fat,weasley	1
+fawkes,black	6
+fawkes,dumbledore	32
+fawkes,fudge	1
+fawkes,ginny	3
+fawkes,godric gryffindor	2
+fawkes,gryffindor	1
+fawkes,harry	48
+fawkes,lockhart	2
+fawkes,mcgonagall	3
+fawkes,minerva	1
+fawkes,riddle	6
+fawkes,ron	3
+fawkes,slytherin	1
+fawkes,snape	3
+fawkes,trelawney	1
+fawkes,voldemort	2
+fawkes,weasley	1
+filch,bagman	1
+filch,black	5
+filch,bloody	1
+filch,brown	2
+filch,cedric	1
+filch,cho	1
+filch,crabbe	2
+filch,creevey	2
+filch,crouch	1
+filch,dean	1
+filch,dobby	2
+filch,draco	1
+filch,dumbledore	17
+filch,ernie	1
+filch,fat	2
+filch,fluffy	1
+filch,fred	17
+filch,george	2
+filch,ginny	2
+filch,granger	3
+filch,gryffindor	5
+filch,hagrid	7
+filch,harry	150
+filch,harry potter	2
+filch,hermione	14
+filch,hufflepuff	1
+filch,lockhart	2
+filch,lupin	3
+filch,madam pince	1
+filch,malfoy	13
+filch,mcgonagall	8
+filch,moaning	4
+filch,moody	7
+filch,mr crouch	1
+filch,nearly headless nick	2
+filch,neville	7
+filch,nick	1
+filch,nicolas flamel	1
+filch,norbert	1
+filch,pansy parkinson	1
+filch,peeves	32
+filch,percy	3
+filch,pince	1
+filch,potter	7
+filch,professor lupin	1
+filch,professor sprout	1
+filch,ron	31
+filch,severus	1
+filch,sir	3
+filch,sirius	4
+filch,slytherin	3
+filch,snape	30
+filch,sprout	1
+filch,weasley	12
+filch,winky	1
+finch-fletchley,lockhart	1
+finch-fletchley,longbottom	1
+finch-fletchley,malfoy	1
+finch-fletchley,neville	1
+finch-fletchley,snape	1
+finnigan,brown	1
+finnigan,gryffindor	2
+finnigan,harry	11
+finnigan,hermione	2
+finnigan,neville	2
+finnigan,neville longbottom	2
+finnigan,professor sprout	1
+finnigan,ron	2
+finnigan,sir	1
+finnigan,sirius black	1
+finnigan,slytherin	1
+finnigan,snape	1
+finnigan,thomas	1
+finnigan,weasley	1
+firenze,bane	11
+firenze,black	1
+firenze,cornelius fudge	1
+firenze,dean	1
+firenze,dumbledore	8
+firenze,fluffy	1
+firenze,hagrid	17
+firenze,harry	27
+firenze,harry potter	2
+firenze,hermione	4
+firenze,mcgonagall	1
+firenze,nearly	3
+firenze,parvati	1
+firenze,parvati patil	1
+firenze,potter	3
+firenze,rita skeeter	1
+firenze,ron	3
+firenze,ronan	2
+firenze,snape	1
+firenze,trelawney	5
+firenze,voldemort	3
+flamel,dumbledore	3
+flamel,hagrid	3
+flamel,harry	6
+flamel,hermione	2
+flamel,madam pince	1
+flamel,malfoy	1
+flamel,nicolas flamel	2
+flamel,ron	7
+flamel,snape	5
+fleur delacour,bagman	6
+fleur delacour,bill	1
+fleur delacour,cedric	5
+fleur delacour,cedric diggory	1
+fleur delacour,delacour	1
+fleur delacour,diggory	2
+fleur delacour,dumbledore	3
+fleur delacour,fleur	3
+fleur delacour,george	1
+fleur delacour,ginny	1
+fleur delacour,hagrid	3
+fleur delacour,harry	20
+fleur delacour,harry potter	1
+fleur delacour,krum	4
+fleur delacour,malfoy	1
+fleur delacour,maxime	3
+fleur delacour,mcgonagall	1
+fleur delacour,moody	1
+fleur delacour,nearly	1
+fleur delacour,parvati	1
+fleur delacour,percy	1
+fleur delacour,potter	2
+fleur delacour,ravenclaw	1
+fleur delacour,roger	3
+fleur delacour,ron	3
+fleur delacour,slytherin	1
+fleur delacour,viktor krum	5
+fleur,bagman	2
+fleur,bill	14
+fleur,black	3
+fleur,cedric	9
+fleur,chang	1
+fleur,charlie	1
+fleur,diggory	1
+fleur,dobby	1
+fleur,fleur delacour	3
+fleur,fred	4
+fleur,ginny	9
+fleur,hagrid	1
+fleur,harry	59
+fleur,hermione	7
+fleur,karkaroff	3
+fleur,krum	8
+fleur,ludo bagman	2
+fleur,lupin	6
+fleur,mad-eye moody	1
+fleur,madam pomfrey	4
+fleur,maxime	7
+fleur,mcgonagall	2
+fleur,mr ollivander	1
+fleur,parvati	1
+fleur,rita skeeter	1
+fleur,roger	4
+fleur,ron	22
+fleur,tom	1
+fleur,viktor krum	2
+fleur,weasley	17
+flitwick,alicia	2
+flitwick,bagman	1
+flitwick,brown	1
+flitwick,buckbeak	2
+flitwick,draco malfoy	1
+flitwick,dumbledore	1
+flitwick,fred	1
+flitwick,george	1
+flitwick,ginny	1
+flitwick,granger	1
+flitwick,hagrid	3
+flitwick,harry	13
+flitwick,hermione	3
+flitwick,madam pomfrey	1
+flitwick,mcgonagall	4
+flitwick,neville	1
+flitwick,potter	1
+flitwick,professor flitwick	2
+flitwick,ron	4
+flitwick,seamus	2
+flitwick,sirius	3
+flitwick,snape	6
+flitwick,sprout	1
+flitwick,trelawney	1
+flitwick,weasley	1
+fluffy,bane	1
+fluffy,black	1
+fluffy,bloody	1
+fluffy,crookshanks	1
+fluffy,dumbledore	9
+fluffy,filch	1
+fluffy,firenze	1
+fluffy,fred	1
+fluffy,george	1
+fluffy,hagrid	14
+fluffy,harry	27
+fluffy,headless	1
+fluffy,hedwig	2
+fluffy,hermione	5
+fluffy,lee jordan	1
+fluffy,madam	1
+fluffy,mcgonagall	2
+fluffy,neville	1
+fluffy,neville longbottom	1
+fluffy,professor flitwick	1
+fluffy,professor sprout	2
+fluffy,ron	4
+fluffy,scabbers	1
+fluffy,snape	14
+fluffy,voldemort	1
+fred weasley,alicia	2
+fred weasley,angelina	3
+fred weasley,dumbledore	3
+fred weasley,fred	3
+fred weasley,george weasley	1
+fred weasley,gryffindor	1
+fred weasley,hagrid	1
+fred weasley,harry	5
+fred weasley,katie bell	1
+fred weasley,lee	1
+fred weasley,neville	1
+fred weasley,slytherin	2
+fred weasley,wood	2
+fred,abbott	1
+fred,alicia	6
+fred,angelina	12
+fred,angelina johnson	1
+fred,bagman	9
+fred,bell	1
+fred,bill	17
+fred,binns	1
+fred,black	11
+fred,bloody	1
+fred,brown	2
+fred,cedric	2
+fred,charlie	13
+fred,cho	1
+fred,colin creevey	1
+fred,crabbe	4
+fred,crookshanks	3
+fred,crouch	1
+fred,dean thomas	1
+fred,dennis creevey	1
+fred,dobby	2
+fred,draco malfoy	2
+fred,dudley	5
+fred,dumbledore	28
+fred,ernie	1
+fred,fat	4
+fred,filch	17
+fred,fleur	4
+fred,flitwick	1
+fred,fluffy	1
+fred,fred weasley	3
+fred,george	75
+fred,ginny	60
+fred,ginny weasley	1
+fred,goyle	4
+fred,grubbly-plank	1
+fred,gryffindor	25
+fred,hagrid	14
+fred,harry	332
+fred,harry potter	2
+fred,headless	2
+fred,hedwig	5
+fred,hermione	70
+fred,hermione granger	3
+fred,hooch	1
+fred,hufflepuff	3
+fred,johnson	2
+fred,jordan	1
+fred,justin finch-fletchley	1
+fred,karkaroff	1
+fred,katie	13
+fred,katie bell	2
+fred,krum	1
+fred,lavender	1
+fred,lee	8
+fred,lee jordan	15
+fred,lockhart	1
+fred,ludo bagman	3
+fred,lupin	6
+fred,mad-eye	4
+fred,mad-eye moody	2
+fred,madam	1
+fred,madam hooch	2
+fred,madam pomfrey	3
+fred,malfoy	21
+fred,maxime	2
+fred,mcgonagall	10
+fred,moaning	2
+fred,molly	2
+fred,moody	6
+fred,nearly	6
+fred,nearly headless nick	1
+fred,neville	5
+fred,oliver	6
+fred,oliver wood	3
+fred,padma	1
+fred,parvati	2
+fred,patil	1
+fred,peeves	6
+fred,percy	37
+fred,petunia	3
+fred,pigwidgeon	2
+fred,professor flitwick	1
+fred,professor sprout	1
+fred,ravenclaw	2
+fred,riddle	1
+fred,rita skeeter	1
+fred,ron	134
+fred,scabbers	1
+fred,sir	1
+fred,sirius	28
+fred,slytherin	8
+fred,snape	6
+fred,sprout	1
+fred,tom	1
+fred,trelawney	1
+fred,vernon	2
+fred,viktor krum	2
+fred,weasley	113
+fred,wood	11
+friar,hufflepuff	1
+friar,peeves	1
+fudge,bagman	2
+fudge,bill	1
+fudge,black	34
+fudge,buckbeak	2
+fudge,cedric	1
+fudge,cornelius	6
+fudge,cornelius fudge	7
+fudge,crouch	4
+fudge,dumbledore	102
+fudge,fang	1
+fudge,fawkes	1
+fudge,george	1
+fudge,hagrid	17
+fudge,harry	142
+fudge,harry potter	3
+fudge,hermione	13
+fudge,james	2
+fudge,justin	2
+fudge,lupin	3
+fudge,mad-eye	1
+fudge,madam	7
+fudge,madam pomfrey	4
+fudge,malfoy	9
+fudge,maxime	1
+fudge,mcgonagall	4
+fudge,millicent	1
+fudge,minerva	3
+fudge,molly	7
+fudge,moody	3
+fudge,mr crouch	1
+fudge,nearly	2
+fudge,percy	11
+fudge,peter	1
+fudge,peter pettigrew	1
+fudge,pettigrew	3
+fudge,potter	4
+fudge,rita	1
+fudge,rita skeeter	1
+fudge,ron	14
+fudge,scabbers	1
+fudge,severus	1
+fudge,sir	1
+fudge,sirius	6
+fudge,sirius black	5
+fudge,snape	14
+fudge,tom	7
+fudge,trelawney	1
+fudge,voldemort	4
+fudge,weasley	21
+fudge,wood	1
+george weasley,alicia	4
+george weasley,angelina	3
+george weasley,bell	1
+george weasley,crabbe	1
+george weasley,crookshanks	2
+george weasley,dumbledore	1
+george weasley,fred weasley	1
+george weasley,gryffindor	7
+george weasley,hagrid	1
+george weasley,harry	3
+george weasley,hermione	1
+george weasley,hufflepuff	1
+george weasley,johnson	1
+george weasley,katie bell	2
+george weasley,lee	1
+george weasley,madam hooch	1
+george weasley,malfoy	1
+george weasley,ron	1
+george weasley,scabbers	1
+george weasley,slytherin	4
+george weasley,snape	1
+george weasley,wood	2
+george,alicia	2
+george,angelina	6
+george,angelina johnson	1
+george,bagman	3
+george,bill	3
+george,binns	1
+george,black	2
+george,bloody	1
+george,charlie	5
+george,clearwater	1
+george,crabbe	2
+george,crouch	2
+george,diggory	2
+george,draco malfoy	1
+george,dudley	1
+george,dumbledore	8
+george,ernie	2
+george,fat	1
+george,filch	2
+george,fleur delacour	1
+george,flitwick	1
+george,fluffy	1
+george,fred	75
+george,fudge	1
+george,ginny	12
+george,goyle	2
+george,gryffindor	6
+george,hagrid	1
+george,harry	103
+george,harry potter	1
+george,headless	2
+george,hedwig	1
+george,hermione	13
+george,hermione granger	1
+george,hufflepuff	1
+george,jordan	2
+george,katie	5
+george,lavender brown	1
+george,lee	1
+george,lee jordan	3
+george,lockhart	2
+george,lupin	1
+george,mad-eye moody	1
+george,madam hooch	2
+george,malfoy	12
+george,mcgonagall	2
+george,molly	1
+george,nearly	2
+george,neville	2
+george,nick	1
+george,oliver wood	1
+george,percy	13
+george,pigwidgeon	3
+george,ravenclaw	1
+george,ron	42
+george,sirius	3
+george,slytherin	2
+george,snape	1
+george,trelawney	1
+george,viktor krum	1
+george,weasley	31
+george,wood	8
+ginny weasley,colin creevey	1
+ginny weasley,draco	1
+ginny weasley,dumbledore	1
+ginny weasley,fred	1
+ginny weasley,ginny	2
+ginny weasley,gryffindor	3
+ginny weasley,hagrid	1
+ginny weasley,harry	9
+ginny weasley,harry potter	2
+ginny weasley,hermione	2
+ginny weasley,hufflepuff	1
+ginny weasley,katie	1
+ginny weasley,katie bell	1
+ginny weasley,longbottom	1
+ginny weasley,madam pomfrey	1
+ginny weasley,malfoy	3
+ginny weasley,mcgonagall	1
+ginny weasley,percy	2
+ginny weasley,riddle	1
+ginny weasley,ron	6
+ginny weasley,weasley	2
+ginny weasley,wood	1
+ginny,abbott	1
+ginny,alicia	1
+ginny,angelina	3
+ginny,angelina johnson	1
+ginny,bagman	1
+ginny,bell	1
+ginny,bill	21
+ginny,black	9
+ginny,brown	2
+ginny,chang	1
+ginny,charlie	6
+ginny,cho	5
+ginny,cho chang	2
+ginny,colin creevey	1
+ginny,crabbe	1
+ginny,creevey	3
+ginny,crookshanks	7
+ginny,dean	18
+ginny,dean thomas	2
+ginny,dennis creevey	1
+ginny,dobby	1
+ginny,dudley	2
+ginny,dumbledore	21
+ginny,ernie	2
+ginny,fat	3
+ginny,fawkes	3
+ginny,filch	2
+ginny,fleur	9
+ginny,fleur delacour	1
+ginny,flitwick	1
+ginny,fred	60
+ginny,george	12
+ginny,ginny weasley	2
+ginny,grubbly-plank	1
+ginny,gryffindor	22
+ginny,hagrid	10
+ginny,harry	308
+ginny,harry potter	4
+ginny,hedwig	1
+ginny,hermione	88
+ginny,hermione granger	3
+ginny,hufflepuff	5
+ginny,justin	1
+ginny,justin finch-fletchley	1
+ginny,katie	2
+ginny,katie bell	2
+ginny,krum	3
+ginny,lavender	2
+ginny,lavender brown	2
+ginny,lee jordan	1
+ginny,lockhart	5
+ginny,longbottom	2
+ginny,lupin	14
+ginny,mad-eye moody	1
+ginny,madam	2
+ginny,madam malkin	1
+ginny,madam pomfrey	5
+ginny,malfoy	20
+ginny,maxime	2
+ginny,mcgonagall	9
+ginny,millicent bulstrode	1
+ginny,moaning	1
+ginny,molly	1
+ginny,moody	1
+ginny,nearly	1
+ginny,nearly headless nick	1
+ginny,neville	21
+ginny,pansy parkinson	1
+ginny,parvati	3
+ginny,patil	1
+ginny,percy	16
+ginny,percy weasley	2
+ginny,pettigrew	1
+ginny,pigwidgeon	1
+ginny,potter	1
+ginny,professor sinistra	1
+ginny,ravenclaw	2
+ginny,riddle	11
+ginny,rita skeeter	1
+ginny,ron	167
+ginny,scabbers	1
+ginny,seamus	2
+ginny,sirius	21
+ginny,slytherin	6
+ginny,snape	8
+ginny,tom	2
+ginny,trelawney	2
+ginny,voldemort	4
+ginny,weasley	86
+ginny,wood	3
+godric gryffindor,black	1
+godric gryffindor,dumbledore	1
+godric gryffindor,fawkes	2
+godric gryffindor,harry	3
+godric gryffindor,hufflepuff	1
+godric gryffindor,salazar slytherin	1
+godric,dumbledore	1
+godric,harry	1
+godric,lily	1
+godric,potter	1
+godric,ron	1
+godric,voldemort	1
+goyle,abbott	2
+goyle,bell	2
+goyle,black	4
+goyle,brown	1
+goyle,buckbeak	1
+goyle,crabbe	23
+goyle,dean thomas	1
+goyle,draco malfoy	2
+goyle,ernie	2
+goyle,fred	4
+goyle,george	2
+goyle,granger	1
+goyle,gryffindor	1
+goyle,hagrid	6
+goyle,harry	90
+goyle,harry potter	1
+goyle,hermione	19
+goyle,hermione granger	2
+goyle,johnson	2
+goyle,justin	2
+goyle,justin finch-fletchley	2
+goyle,krum	1
+goyle,malfoy	68
+goyle,maxime	1
+goyle,mcgonagall	5
+goyle,moaning	2
+goyle,nearly	3
+goyle,neville	4
+goyle,pansy	6
+goyle,pansy parkinson	4
+goyle,potter	1
+goyle,ron	22
+goyle,scabbers	2
+goyle,slytherin	8
+goyle,snape	6
+goyle,viktor krum	1
+goyle,vincent crabbe	3
+goyle,voldemort	1
+goyle,weasley	1
+granger,binns	1
+granger,black	1
+granger,brown	1
+granger,bulstrode	1
+granger,dumbledore	5
+granger,filch	3
+granger,flitwick	1
+granger,goyle	1
+granger,grubbly-plank	1
+granger,gryffindor	10
+granger,hagrid	1
+granger,harry	12
+granger,harry potter	1
+granger,hermione	12
+granger,hermione granger	1
+granger,krum	3
+granger,lockhart	2
+granger,longbottom	2
+granger,lupin	1
+granger,madam pomfrey	1
+granger,malfoy	9
+granger,mcgonagall	4
+granger,molly	1
+granger,moody	1
+granger,neville longbottom	2
+granger,parkinson	1
+granger,peeves	1
+granger,potter	13
+granger,professor flitwick	2
+granger,professor grubbly-plank	1
+granger,ravenclaw	1
+granger,sirius	1
+granger,sirius black	1
+granger,slytherin	1
+granger,snape	8
+granger,thomas	2
+granger,viktor krum	3
+granger,voldemort	1
+granger,weasley	7
+granger,wood	1
+griphook,hagrid	4
+griphook,harry	5
+grubbly-plank,dumbledore	2
+grubbly-plank,fred	1
+grubbly-plank,ginny	1
+grubbly-plank,granger	1
+grubbly-plank,gryffindor	3
+grubbly-plank,hagrid	5
+grubbly-plank,harry	5
+grubbly-plank,hermione	3
+grubbly-plank,lee	1
+grubbly-plank,mcgonagall	1
+grubbly-plank,parvati	1
+grubbly-plank,wood	1
+gryffindor,alicia	16
+gryffindor,angelina	25
+gryffindor,angelina johnson	3
+gryffindor,bell	5
+gryffindor,bill	2
+gryffindor,black	14
+gryffindor,bloody baron	1
+gryffindor,brown	1
+gryffindor,buckbeak	3
+gryffindor,cedric	6
+gryffindor,chang	1
+gryffindor,charlie weasley	2
+gryffindor,cho	4
+gryffindor,cho chang	1
+gryffindor,colin	3
+gryffindor,colin creevey	1
+gryffindor,cornelius fudge	2
+gryffindor,crabbe	4
+gryffindor,creevey	1
+gryffindor,crookshanks	4
+gryffindor,crouch	2
+gryffindor,dean	5
+gryffindor,dean thomas	3
+gryffindor,dennis creevey	2
+gryffindor,diggory	2
+gryffindor,dobby	2
+gryffindor,draco	2
+gryffindor,draco malfoy	1
+gryffindor,dudley	1
+gryffindor,dumbledore	31
+gryffindor,ernie	1
+gryffindor,fat	13
+gryffindor,fawkes	1
+gryffindor,filch	5
+gryffindor,finnigan	2
+gryffindor,fred	25
+gryffindor,fred weasley	1
+gryffindor,george	6
+gryffindor,george weasley	7
+gryffindor,ginny	22
+gryffindor,ginny weasley	3
+gryffindor,goyle	1
+gryffindor,granger	10
+gryffindor,grubbly-plank	3
+gryffindor,hagrid	26
+gryffindor,harry	377
+gryffindor,harry potter	7
+gryffindor,hermione	86
+gryffindor,hermione granger	1
+gryffindor,hufflepuff	19
+gryffindor,johnson	13
+gryffindor,justin	2
+gryffindor,katie	6
+gryffindor,katie bell	11
+gryffindor,krum	1
+gryffindor,lavender	1
+gryffindor,lavender brown	3
+gryffindor,lee	6
+gryffindor,lee jordan	6
+gryffindor,lockhart	2
+gryffindor,longbottom	4
+gryffindor,lupin	3
+gryffindor,madam hooch	7
+gryffindor,madam pince	1
+gryffindor,madam pomfrey	1
+gryffindor,malfoy	48
+gryffindor,mcgonagall	60
+gryffindor,minerva	8
+gryffindor,moody	1
+gryffindor,nearly	7
+gryffindor,nearly headless nick	9
+gryffindor,neville	23
+gryffindor,neville longbottom	6
+gryffindor,nick	2
+gryffindor,oliver wood	6
+gryffindor,pansy	1
+gryffindor,pansy parkinson	1
+gryffindor,parvati	2
+gryffindor,parvati patil	5
+gryffindor,patil	1
+gryffindor,peeves	4
+gryffindor,percy	13
+gryffindor,peter	1
+gryffindor,pettigrew	1
+gryffindor,petunia	1
+gryffindor,potter	29
+gryffindor,professor flitwick	2
+gryffindor,professor grubbly-plank	1
+gryffindor,professor lupin	2
+gryffindor,professor sprout	2
+gryffindor,ravenclaw	40
+gryffindor,riddle	2
+gryffindor,rita skeeter	1
+gryffindor,ron	128
+gryffindor,salazar slytherin	2
+gryffindor,scabbers	3
+gryffindor,seamus	2
+gryffindor,seamus finnigan	2
+gryffindor,severus	8
+gryffindor,sir	6
+gryffindor,sir cadogan	3
+gryffindor,sirius	9
+gryffindor,sirius black	2
+gryffindor,slytherin	70
+gryffindor,snape	45
+gryffindor,sprout	1
+gryffindor,thomas	2
+gryffindor,tom riddle	1
+gryffindor,trelawney	4
+gryffindor,voldemort	8
+gryffindor,weasley	22
+gryffindor,winky	1
+gryffindor,wood	30
+hagrid,albus	2
+hagrid,albus dumbledore	8
+hagrid,angelina johnson	1
+hagrid,aragog	21
+hagrid,bagman	7
+hagrid,bane	3
+hagrid,bell	9
+hagrid,bill	5
+hagrid,binns	2
+hagrid,black	49
+hagrid,bloody	1
+hagrid,brown	10
+hagrid,buckbeak	43
+hagrid,cedric	1
+hagrid,cedric diggory	1
+hagrid,charlie	3
+hagrid,charlie weasley	2
+hagrid,colin creevey	1
+hagrid,cornelius	1
+hagrid,cornelius fudge	2
+hagrid,crabbe	9
+hagrid,crookshanks	2
+hagrid,crouch	1
+hagrid,dean	4
+hagrid,delacour	1
+hagrid,dennis creevey	7
+hagrid,dobby	6
+hagrid,draco	2
+hagrid,draco malfoy	10
+hagrid,dudley	3
+hagrid,dumbledore	135
+hagrid,dursley	1
+hagrid,fang	60
+hagrid,fat	5
+hagrid,filch	7
+hagrid,firenze	17
+hagrid,flamel	3
+hagrid,fleur	1
+hagrid,fleur delacour	3
+hagrid,flitwick	3
+hagrid,fluffy	14
+hagrid,fred	14
+hagrid,fred weasley	1
+hagrid,fudge	17
+hagrid,george	1
+hagrid,george weasley	1
+hagrid,ginny	10
+hagrid,ginny weasley	1
+hagrid,goyle	6
+hagrid,granger	1
+hagrid,griphook	4
+hagrid,grubbly-plank	5
+hagrid,gryffindor	26
+hagrid,harry	991
+hagrid,harry potter	9
+hagrid,hedwig	15
+hagrid,hermione	237
+hagrid,hufflepuff	2
+hagrid,james	4
+hagrid,james potter	1
+hagrid,justin	1
+hagrid,karkaroff	12
+hagrid,katie	3
+hagrid,katie bell	2
+hagrid,krum	2
+hagrid,lavender brown	1
+hagrid,lee	2
+hagrid,lee jordan	2
+hagrid,lily	5
+hagrid,lockhart	9
+hagrid,lupin	5
+hagrid,mad-eye moody	1
+hagrid,madam	4
+hagrid,madam malkin	5
+hagrid,madam pomfrey	4
+hagrid,malfoy	82
+hagrid,malkin	1
+hagrid,maxime	38
+hagrid,mcgonagall	41
+hagrid,minerva	2
+hagrid,molly	4
+hagrid,moody	23
+hagrid,mr ollivander	5
+hagrid,nearly	13
+hagrid,nearly headless nick	1
+hagrid,neville	17
+hagrid,norbert	11
+hagrid,oliver wood	1
+hagrid,padma	1
+hagrid,pansy	2
+hagrid,pansy parkinson	1
+hagrid,parkinson	3
+hagrid,parvati	5
+hagrid,peeves	6
+hagrid,percy	7
+hagrid,percy weasley	2
+hagrid,pettigrew	2
+hagrid,petunia	4
+hagrid,pigwidgeon	2
+hagrid,potter	10
+hagrid,professor flitwick	1
+hagrid,professor grubbly-plank	20
+hagrid,professor lupin	2
+hagrid,professor sinistra	1
+hagrid,professor sprout	2
+hagrid,riddle	6
+hagrid,rita	3
+hagrid,rita skeeter	5
+hagrid,ron	166
+hagrid,ronan	3
+hagrid,salazar slytherin	1
+hagrid,scabbers	1
+hagrid,severus	1
+hagrid,sir	7
+hagrid,sirius	25
+hagrid,sirius black	7
+hagrid,skeeter	10
+hagrid,slytherin	14
+hagrid,snape	38
+hagrid,sprout	1
+hagrid,tom	3
+hagrid,tom riddle	5
+hagrid,trelawney	13
+hagrid,vernon	9
+hagrid,vernon dursley	2
+hagrid,vincent crabbe	1
+hagrid,voldemort	13
+hagrid,weasley	49
+hagrid,winky	1
+hagrid,wood	4
+hannah abbott,black	1
+hannah abbott,ernie	1
+hannah abbott,hannah	1
+hannah abbott,harry	2
+hannah abbott,hermione	1
+hannah abbott,hufflepuff	2
+hannah abbott,madam pince	1
+hannah abbott,madam pomfrey	1
+hannah abbott,ron	1
+hannah abbott,sirius black	1
+hannah,cedric	1
+hannah,cedric diggory	1
+hannah,cho	1
+hannah,ernie	2
+hannah,fat friar	1
+hannah,hannah abbott	1
+hannah,harry	5
+hannah,hermione	1
+hannah,hufflepuff	2
+hannah,ravenclaw	1
+hannah,slytherin	1
+harry potter,albus dumbledore	4
+harry potter,amos	1
+harry potter,amos diggory	1
+harry potter,bagman	1
+harry potter,black	7
+harry potter,brown	1
+harry potter,cedric	1
+harry potter,cedric diggory	2
+harry potter,charlie	1
+harry potter,colin	1
+harry potter,creevey	2
+harry potter,dobby	158
+harry potter,draco malfoy	1
+harry potter,dudley	4
+harry potter,dumbledore	26
+harry potter,dursley	2
+harry potter,fat	1
+harry potter,filch	2
+harry potter,firenze	2
+harry potter,fleur delacour	1
+harry potter,fred	2
+harry potter,fudge	3
+harry potter,george	1
+harry potter,ginny	4
+harry potter,ginny weasley	2
+harry potter,goyle	1
+harry potter,granger	1
+harry potter,gryffindor	7
+harry potter,hagrid	9
+harry potter,harry	60
+harry potter,hedwig	1
+harry potter,hermione	8
+harry potter,hermione granger	5
+harry potter,justin finch-fletchley	1
+harry potter,lily	1
+harry potter,lockhart	1
+harry potter,longbottom	2
+harry potter,madam	1
+harry potter,malfoy	7
+harry potter,mcgonagall	4
+harry potter,moody	2
+harry potter,mr crouch	2
+harry potter,nearly headless nick	1
+harry potter,neville	3
+harry potter,pansy parkinson	1
+harry potter,parkinson	1
+harry potter,peeves	2
+harry potter,percy	1
+harry potter,pettigrew	1
+harry potter,petunia	1
+harry potter,potter	16
+harry potter,professor grubbly-plank	1
+harry potter,riddle	5
+harry potter,rita	2
+harry potter,rita skeeter	4
+harry potter,ron	5
+harry potter,ronan	2
+harry potter,salazar slytherin	1
+harry potter,sir	87
+harry potter,sirius	1
+harry potter,sirius black	3
+harry potter,skeeter	2
+harry potter,slytherin	1
+harry potter,snape	3
+harry potter,tom riddle	1
+harry potter,trelawney	2
+harry potter,vernon	2
+harry potter,viktor krum	1
+harry potter,voldemort	14
+harry potter,weasley	10
+harry potter,winky	26
+harry potter,wormtail	4
+harry,abbott	6
+harry,albus	3
+harry,albus dumbledore	26
+harry,alicia	16
+harry,amos	3
+harry,amos diggory	3
+harry,angelina	38
+harry,angelina johnson	3
+harry,aragog	19
+harry,bagman	70
+harry,bane	13
+harry,bell	66
+harry,bertha	1
+harry,bertha jorkins	8
+harry,bill	69
+harry,binns	20
+harry,black	458
+harry,bloody	16
+harry,bloody baron	2
+harry,brown	53
+harry,buckbeak	87
+harry,bulstrode	2
+harry,cadogan	2
+harry,cedric	233
+harry,cedric diggory	18
+harry,chang	4
+harry,charlie	31
+harry,charlie weasley	6
+harry,cho	118
+harry,cho chang	25
+harry,clearwater	2
+harry,colin	53
+harry,colin creevey	17
+harry,cornelius	6
+harry,cornelius fudge	27
+harry,crabbe	125
+harry,creevey	23
+harry,crookshanks	103
+harry,crouch	49
+harry,dean	79
+harry,dean thomas	18
+harry,delacour	4
+harry,dennis	4
+harry,dennis creevey	5
+harry,diggory	18
+harry,dobby	157
+harry,draco	16
+harry,draco malfoy	53
+harry,dudley	373
+harry,dudley dursley	2
+harry,dumbledore	1418
+harry,dursley	14
+harry,ernie	67
+harry,fang	76
+harry,fat	66
+harry,fat friar	3
+harry,fawkes	48
+harry,filch	150
+harry,finnigan	11
+harry,firenze	27
+harry,flamel	6
+harry,fleur	59
+harry,fleur delacour	20
+harry,flitwick	13
+harry,fluffy	27
+harry,fred	332
+harry,fred weasley	5
+harry,fudge	142
+harry,george	103
+harry,george weasley	3
+harry,ginny	308
+harry,ginny weasley	9
+harry,godric	1
+harry,godric gryffindor	3
+harry,goyle	90
+harry,granger	12
+harry,griphook	5
+harry,grubbly-plank	5
+harry,gryffindor	377
+harry,hagrid	991
+harry,hannah	5
+harry,hannah abbott	2
+harry,harry potter	60
+harry,headless	12
+harry,hedwig	190
+harry,hermione	1682
+harry,hermione granger	31
+harry,hooch	1
+harry,hufflepuff	54
+harry,igor karkaroff	2
+harry,james	77
+harry,james potter	3
+harry,jordan	3
+harry,justin	28
+harry,justin finch-fletchley	11
+harry,karkaroff	53
+harry,katie	41
+harry,katie bell	15
+harry,krum	129
+harry,lavender	50
+harry,lavender brown	24
+harry,lee	10
+harry,lee jordan	26
+harry,lily	20
+harry,lily potter	4
+harry,lockhart	162
+harry,longbottom	13
+harry,ludo	1
+harry,ludo bagman	15
+harry,lupin	195
+harry,mad-eye	25
+harry,mad-eye moody	18
+harry,madam	30
+harry,madam hooch	25
+harry,madam malkin	15
+harry,madam pince	11
+harry,madam pomfrey	76
+harry,malfoy	730
+harry,malkin	2
+harry,maxime	57
+harry,mcgonagall	313
+harry,millicent	2
+harry,millicent bulstrode	3
+harry,minerva	10
+harry,moaning	31
+harry,molly	20
+harry,molly weasley	1
+harry,moody	190
+harry,moony	1
+harry,mr crouch	51
+harry,mr ollivander	31
+harry,nearly	137
+harry,nearly headless nick	26
+harry,neville	395
+harry,neville longbottom	20
+harry,nick	10
+harry,nicolas	1
+harry,nicolas flamel	4
+harry,norbert	15
+harry,oliver	3
+harry,oliver wood	13
+harry,ollivander	3
+harry,padfoot	2
+harry,padma	6
+harry,padma patil	2
+harry,pansy	16
+harry,pansy parkinson	19
+harry,parkinson	5
+harry,parvati	36
+harry,parvati patil	13
+harry,patil	5
+harry,peeves	39
+harry,percy	152
+harry,percy weasley	16
+harry,peter	13
+harry,peter pettigrew	4
+harry,pettigrew	38
+harry,petunia	175
+harry,pigwidgeon	38
+harry,pomfrey	1
+harry,potter	121
+harry,professor flitwick	37
+harry,professor grubbly-plank	15
+harry,professor lupin	39
+harry,professor severus snape	2
+harry,professor sinistra	11
+harry,professor sprout	40
+harry,prongs	2
+harry,ravenclaw	65
+harry,riddle	106
+harry,rita	21
+harry,rita skeeter	37
+harry,roger	14
+harry,ron	2336
+harry,ron weasley	13
+harry,ronan	5
+harry,rubeus hagrid	2
+harry,salazar slytherin	4
+harry,scabbers	39
+harry,seamus	67
+harry,seamus finnigan	13
+harry,severus	36
+harry,sinistra	2
+harry,sir	59
+harry,sir cadogan	9
+harry,sirius	680
+harry,sirius black	36
+harry,skeeter	12
+harry,slytherin	161
+harry,snape	966
+harry,sprout	7
+harry,thomas	5
+harry,tom	22
+harry,tom riddle	18
+harry,trelawney	140
+harry,vernon	369
+harry,vernon dursley	5
+harry,viktor	4
+harry,viktor krum	17
+harry,vincent crabbe	5
+harry,voldemort	525
+harry,weasley	656
+harry,winky	22
+harry,wood	134
+harry,wormtail	119
+headless,dumbledore	4
+headless,ernie	1
+headless,fluffy	1
+headless,fred	2
+headless,george	2
+headless,harry	12
+headless,hermione	2
+headless,justin	7
+headless,madam pomfrey	1
+headless,mcgonagall	1
+headless,moody	1
+headless,nearly	2
+headless,nearly headless nick	2
+headless,nick	1
+headless,peeves	5
+headless,potter	2
+headless,professor lupin	1
+headless,professor sprout	1
+headless,sir	2
+headless,voldemort	5
+hedwig,binns	4
+hedwig,black	2
+hedwig,bloody	1
+hedwig,brown	3
+hedwig,buckbeak	2
+hedwig,cedric diggory	1
+hedwig,charlie	1
+hedwig,crookshanks	6
+hedwig,dobby	6
+hedwig,draco malfoy	1
+hedwig,dudley	4
+hedwig,dumbledore	9
+hedwig,fluffy	2
+hedwig,fred	5
+hedwig,george	1
+hedwig,ginny	1
+hedwig,hagrid	15
+hedwig,harry	190
+hedwig,harry potter	1
+hedwig,hermione	25
+hedwig,hermione granger	1
+hedwig,hufflepuff	1
+hedwig,lupin	2
+hedwig,mad-eye	1
+hedwig,mcgonagall	4
+hedwig,moody	2
+hedwig,mr crouch	1
+hedwig,nearly	1
+hedwig,neville	2
+hedwig,neville longbottom	1
+hedwig,percy	4
+hedwig,petunia	8
+hedwig,pigwidgeon	5
+hedwig,potter	2
+hedwig,professor flitwick	1
+hedwig,professor grubbly-plank	6
+hedwig,ron	47
+hedwig,ron weasley	1
+hedwig,sir	1
+hedwig,sirius	17
+hedwig,snape	1
+hedwig,tom	1
+hedwig,vernon	11
+hedwig,voldemort	1
+hedwig,weasley	9
+hedwig,wood	1
+hermione granger,brown	2
+hermione granger,charlie	1
+hermione granger,cho	1
+hermione granger,colin creevey	1
+hermione granger,crabbe	1
+hermione granger,draco	1
+hermione granger,dudley	1
+hermione granger,dumbledore	1
+hermione granger,ernie	1
+hermione granger,fred	3
+hermione granger,george	1
+hermione granger,ginny	3
+hermione granger,goyle	2
+hermione granger,granger	1
+hermione granger,gryffindor	1
+hermione granger,harry	31
+hermione granger,harry potter	5
+hermione granger,hedwig	1
+hermione granger,hermione	6
+hermione granger,hooch	1
+hermione granger,justin finch-fletchley	1
+hermione granger,lavender	1
+hermione granger,longbottom	1
+hermione granger,mcgonagall	2
+hermione granger,neville	7
+hermione granger,parvati	1
+hermione granger,percy	1
+hermione granger,petunia	1
+hermione granger,professor flitwick	2
+hermione granger,professor sprout	1
+hermione granger,rita skeeter	1
+hermione granger,ron	12
+hermione granger,ron weasley	1
+hermione granger,ronan	2
+hermione granger,scabbers	1
+hermione granger,seamus finnigan	1
+hermione granger,vernon	1
+hermione granger,weasley	6
+hermione,albus dumbledore	5
+hermione,alicia	1
+hermione,amos	1
+hermione,amos diggory	1
+hermione,angelina	5
+hermione,aragog	5
+hermione,bagman	5
+hermione,bane	1
+hermione,bell	27
+hermione,bill	7
+hermione,binns	11
+hermione,black	51
+hermione,bloody baron	1
+hermione,brown	6
+hermione,buckbeak	26
+hermione,bulstrode	2
+hermione,cedric	12
+hermione,cedric diggory	4
+hermione,chang	1
+hermione,charlie	4
+hermione,cho	17
+hermione,cho chang	1
+hermione,colin	5
+hermione,colin creevey	1
+hermione,cornelius fudge	4
+hermione,crabbe	18
+hermione,creevey	4
+hermione,crookshanks	63
+hermione,crouch	7
+hermione,dean	7
+hermione,dean thomas	6
+hermione,dennis creevey	2
+hermione,diggory	3
+hermione,dobby	22
+hermione,draco	5
+hermione,draco malfoy	9
+hermione,dudley	3
+hermione,dumbledore	120
+hermione,ernie	16
+hermione,ernie mcmillan	1
+hermione,fang	10
+hermione,fat	20
+hermione,fat friar	1
+hermione,filch	14
+hermione,finnigan	2
+hermione,firenze	4
+hermione,flamel	2
+hermione,fleur	7
+hermione,flitwick	3
+hermione,fluffy	5
+hermione,fred	70
+hermione,fudge	13
+hermione,george	13
+hermione,george weasley	1
+hermione,ginny	88
+hermione,ginny weasley	2
+hermione,goyle	19
+hermione,granger	12
+hermione,grubbly-plank	3
+hermione,gryffindor	86
+hermione,hagrid	237
+hermione,hannah	1
+hermione,hannah abbott	1
+hermione,harry	1682
+hermione,harry potter	8
+hermione,headless	2
+hermione,hedwig	25
+hermione,hermione granger	6
+hermione,hufflepuff	7
+hermione,jordan	1
+hermione,justin	3
+hermione,karkaroff	4
+hermione,katie	6
+hermione,katie bell	2
+hermione,krum	36
+hermione,lavender	27
+hermione,lavender brown	10
+hermione,lee	2
+hermione,lee jordan	5
+hermione,lockhart	13
+hermione,longbottom	1
+hermione,ludo bagman	4
+hermione,lupin	25
+hermione,mad-eye	3
+hermione,madam	1
+hermione,madam malkin	1
+hermione,madam pince	4
+hermione,madam pomfrey	29
+hermione,malfoy	106
+hermione,maxime	7
+hermione,mcgonagall	49
+hermione,millicent	5
+hermione,millicent bulstrode	8
+hermione,moaning	12
+hermione,moody	19
+hermione,mr crouch	16
+hermione,nearly	34
+hermione,nearly headless nick	7
+hermione,neville	84
+hermione,neville longbottom	2
+hermione,nick	4
+hermione,nicolas flamel	3
+hermione,norbert	2
+hermione,padma	2
+hermione,pansy	1
+hermione,pansy parkinson	14
+hermione,parkinson	2
+hermione,parvati	19
+hermione,parvati patil	6
+hermione,patil	3
+hermione,peeves	11
+hermione,percy	31
+hermione,percy weasley	1
+hermione,peter	2
+hermione,pettigrew	6
+hermione,petunia	4
+hermione,pigwidgeon	10
+hermione,pomfrey	1
+hermione,potter	7
+hermione,professor flitwick	5
+hermione,professor grubbly-plank	2
+hermione,professor lupin	11
+hermione,professor sinistra	1
+hermione,professor sprout	5
+hermione,ravenclaw	15
+hermione,riddle	8
+hermione,rita	11
+hermione,rita skeeter	20
+hermione,ron	809
+hermione,ron weasley	2
+hermione,ronan	1
+hermione,salazar slytherin	2
+hermione,scabbers	18
+hermione,seamus	9
+hermione,seamus finnigan	2
+hermione,sir	4
+hermione,sirius	101
+hermione,sirius black	5
+hermione,skeeter	2
+hermione,slytherin	22
+hermione,snape	126
+hermione,sprout	1
+hermione,tom riddle	1
+hermione,trelawney	22
+hermione,vernon	3
+hermione,viktor	5
+hermione,viktor krum	8
+hermione,voldemort	29
+hermione,weasley	98
+hermione,winky	16
+hermione,wood	13
+hermione,wormtail	2
+hooch,alicia	1
+hooch,diggory	1
+hooch,fred	1
+hooch,harry	1
+hooch,hermione granger	1
+hooch,madam hooch	1
+hooch,potter	1
+hooch,weasley	1
+hooch,wood	1
+hufflepuff,abbott	1
+hufflepuff,angelina	2
+hufflepuff,angelina johnson	1
+hufflepuff,black	3
+hufflepuff,bloody baron	1
+hufflepuff,buckbeak	1
+hufflepuff,cedric	8
+hufflepuff,cedric diggory	4
+hufflepuff,chang	1
+hufflepuff,cho	3
+hufflepuff,cho chang	1
+hufflepuff,crabbe	1
+hufflepuff,dean	1
+hufflepuff,dean thomas	1
+hufflepuff,dennis creevey	1
+hufflepuff,dudley	1
+hufflepuff,dumbledore	6
+hufflepuff,ernie	8
+hufflepuff,fat friar	2
+hufflepuff,filch	1
+hufflepuff,fred	3
+hufflepuff,friar	1
+hufflepuff,george	1
+hufflepuff,george weasley	1
+hufflepuff,ginny	5
+hufflepuff,ginny weasley	1
+hufflepuff,godric gryffindor	1
+hufflepuff,gryffindor	19
+hufflepuff,hagrid	2
+hufflepuff,hannah	2
+hufflepuff,hannah abbott	2
+hufflepuff,harry	54
+hufflepuff,hedwig	1
+hufflepuff,hermione	7
+hufflepuff,justin	4
+hufflepuff,justin finch-fletchley	1
+hufflepuff,karkaroff	1
+hufflepuff,katie	2
+hufflepuff,katie bell	1
+hufflepuff,lavender	1
+hufflepuff,lee jordan	3
+hufflepuff,mad-eye	1
+hufflepuff,madam hooch	1
+hufflepuff,madam pomfrey	2
+hufflepuff,malfoy	4
+hufflepuff,mcgonagall	3
+hufflepuff,nearly headless nick	1
+hufflepuff,neville	1
+hufflepuff,oliver	1
+hufflepuff,oliver wood	1
+hufflepuff,parvati	1
+hufflepuff,patil	1
+hufflepuff,peeves	1
+hufflepuff,potter	2
+hufflepuff,professor lupin	1
+hufflepuff,professor sprout	2
+hufflepuff,ravenclaw	15
+hufflepuff,ron	20
+hufflepuff,salazar slytherin	1
+hufflepuff,sirius	1
+hufflepuff,sirius black	1
+hufflepuff,slytherin	21
+hufflepuff,snape	4
+hufflepuff,voldemort	1
+hufflepuff,weasley	3
+hufflepuff,wood	4
+igor karkaroff,harry	2
+igor karkaroff,sirius	1
+igor karkaroff,weasley	1
+igor,dumbledore	1
+igor,karkaroff	1
+james potter,albus	1
+james potter,black	1
+james potter,hagrid	1
+james potter,harry	3
+james potter,lily potter	1
+james potter,madam	1
+james potter,sirius black	2
+james potter,snape	1
+james potter,voldemort	2
+james,black	5
+james,dumbledore	13
+james,fudge	2
+james,hagrid	4
+james,harry	77
+james,lily	11
+james,lupin	18
+james,madam pomfrey	2
+james,nearly	1
+james,peter	4
+james,professor flitwick	1
+james,ron	2
+james,severus	6
+james,sirius	27
+james,sirius black	1
+james,snape	52
+james,voldemort	1
+james,weasley	1
+james,wormtail	21
+johnson,alicia	5
+johnson,angelina	6
+johnson,bell	5
+johnson,fred	2
+johnson,george weasley	1
+johnson,goyle	2
+johnson,gryffindor	13
+johnson,katie	1
+johnson,katie bell	3
+johnson,lee	2
+johnson,lee jordan	1
+johnson,mcgonagall	1
+johnson,oliver wood	2
+johnson,pansy parkinson	1
+johnson,potter	1
+johnson,ravenclaw	1
+johnson,slytherin	6
+johnson,weasley	2
+johnson,wood	2
+jordan,dumbledore	1
+jordan,fred	1
+jordan,george	2
+jordan,harry	3
+jordan,hermione	1
+jordan,krum	1
+jordan,mcgonagall	3
+justin finch-fletchley,abbott	2
+justin finch-fletchley,angelina johnson	1
+justin finch-fletchley,cho	2
+justin finch-fletchley,creevey	1
+justin finch-fletchley,dennis creevey	1
+justin finch-fletchley,ernie	1
+justin finch-fletchley,fred	1
+justin finch-fletchley,ginny	1
+justin finch-fletchley,goyle	2
+justin finch-fletchley,harry	11
+justin finch-fletchley,harry potter	1
+justin finch-fletchley,hermione granger	1
+justin finch-fletchley,hufflepuff	1
+justin finch-fletchley,justin	1
+justin finch-fletchley,katie bell	1
+justin finch-fletchley,lavender	1
+justin finch-fletchley,lavender brown	1
+justin finch-fletchley,lee jordan	1
+justin finch-fletchley,lockhart	2
+justin finch-fletchley,malfoy	2
+justin finch-fletchley,neville	1
+justin finch-fletchley,parvati	1
+justin finch-fletchley,patil	1
+justin finch-fletchley,ravenclaw	1
+justin finch-fletchley,ron	1
+justin finch-fletchley,snape	1
+justin finch-fletchley,weasley	1
+justin,abbott	1
+justin,black	2
+justin,cedric	1
+justin,colin	2
+justin,creevey	1
+justin,ernie	8
+justin,fudge	2
+justin,ginny	1
+justin,goyle	2
+justin,gryffindor	2
+justin,hagrid	1
+justin,harry	28
+justin,headless	7
+justin,hermione	3
+justin,hufflepuff	4
+justin,justin finch-fletchley	1
+justin,lockhart	1
+justin,madam pomfrey	1
+justin,malfoy	2
+justin,mcgonagall	5
+justin,moody	1
+justin,nearly	2
+justin,nearly headless nick	6
+justin,nick	2
+justin,peeves	5
+justin,potter	8
+justin,professor flitwick	1
+justin,professor sinistra	1
+justin,professor sprout	2
+justin,ravenclaw	1
+justin,ron	5
+justin,slytherin	4
+justin,snape	1
+karkaroff,bagman	6
+karkaroff,bell	2
+karkaroff,black	7
+karkaroff,cedric	1
+karkaroff,crouch	2
+karkaroff,dobby	2
+karkaroff,dumbledore	23
+karkaroff,fang	2
+karkaroff,fleur	3
+karkaroff,fred	1
+karkaroff,hagrid	12
+karkaroff,harry	53
+karkaroff,hermione	4
+karkaroff,hufflepuff	1
+karkaroff,igor	1
+karkaroff,krum	4
+karkaroff,lavender	1
+karkaroff,ludo bagman	7
+karkaroff,mad-eye	2
+karkaroff,mad-eye moody	3
+karkaroff,malfoy	1
+karkaroff,maxime	14
+karkaroff,mcgonagall	5
+karkaroff,moody	13
+karkaroff,mr crouch	4
+karkaroff,padma	1
+karkaroff,parvati	1
+karkaroff,percy	1
+karkaroff,pigwidgeon	2
+karkaroff,potter	2
+karkaroff,professor sprout	1
+karkaroff,ravenclaw	1
+karkaroff,rita skeeter	1
+karkaroff,ron	12
+karkaroff,severus	1
+karkaroff,sirius	7
+karkaroff,skeeter	1
+karkaroff,slytherin	1
+karkaroff,snape	25
+karkaroff,viktor krum	1
+karkaroff,voldemort	5
+katie bell,abbott	1
+katie bell,alicia	2
+katie bell,angelina	3
+katie bell,angelina johnson	1
+katie bell,bell	2
+katie bell,cho	1
+katie bell,crabbe	1
+katie bell,dean	2
+katie bell,dean thomas	1
+katie bell,dennis creevey	1
+katie bell,draco	1
+katie bell,dumbledore	1
+katie bell,fred	2
+katie bell,fred weasley	1
+katie bell,george weasley	2
+katie bell,ginny	2
+katie bell,ginny weasley	1
+katie bell,gryffindor	11
+katie bell,hagrid	2
+katie bell,harry	15
+katie bell,hermione	2
+katie bell,hufflepuff	1
+katie bell,johnson	3
+katie bell,justin finch-fletchley	1
+katie bell,katie	3
+katie bell,lavender	1
+katie bell,lee	2
+katie bell,lee jordan	1
+katie bell,madam	1
+katie bell,neville	1
+katie bell,oliver wood	1
+katie bell,parvati	1
+katie bell,patil	1
+katie bell,peeves	1
+katie bell,potter	2
+katie bell,ravenclaw	1
+katie bell,ron	1
+katie bell,slytherin	4
+katie bell,weasley	3
+katie,alicia	4
+katie,angelina	13
+katie,bell	1
+katie,cho	1
+katie,cho chang	1
+katie,crabbe	1
+katie,draco malfoy	2
+katie,dumbledore	4
+katie,fat	1
+katie,fred	13
+katie,george	5
+katie,ginny	2
+katie,ginny weasley	1
+katie,gryffindor	6
+katie,hagrid	3
+katie,harry	41
+katie,hermione	6
+katie,hufflepuff	2
+katie,johnson	1
+katie,katie bell	3
+katie,madam hooch	2
+katie,madam pomfrey	2
+katie,malfoy	2
+katie,mcgonagall	3
+katie,oliver wood	1
+katie,peeves	1
+katie,ravenclaw	2
+katie,ron	8
+katie,seamus	1
+katie,slytherin	8
+katie,snape	1
+katie,weasley	3
+katie,wood	4
+krum,bagman	5
+krum,black	3
+krum,bloody	2
+krum,cedric	27
+krum,charlie	2
+krum,cho chang	1
+krum,crouch	4
+krum,delacour	3
+krum,diggory	2
+krum,dumbledore	8
+krum,fat	1
+krum,fleur	8
+krum,fleur delacour	4
+krum,fred	1
+krum,ginny	3
+krum,goyle	1
+krum,granger	3
+krum,gryffindor	1
+krum,hagrid	2
+krum,harry	129
+krum,hermione	36
+krum,jordan	1
+krum,karkaroff	4
+krum,lavender	1
+krum,ludo bagman	3
+krum,malfoy	5
+krum,maxime	3
+krum,mcgonagall	1
+krum,moody	4
+krum,mr crouch	6
+krum,mr ollivander	2
+krum,oliver wood	1
+krum,ollivander	1
+krum,pansy parkinson	1
+krum,parvati	4
+krum,percy	1
+krum,potter	3
+krum,ravenclaw	1
+krum,roger	1
+krum,ron	30
+krum,sirius	1
+krum,slytherin	2
+krum,viktor krum	8
+krum,weasley	2
+lavender brown,cho	1
+lavender brown,creevey	1
+lavender brown,dean thomas	3
+lavender brown,george	1
+lavender brown,ginny	2
+lavender brown,gryffindor	3
+lavender brown,hagrid	1
+lavender brown,harry	24
+lavender brown,hermione	10
+lavender brown,justin finch-fletchley	1
+lavender brown,lavender	1
+lavender brown,malfoy	2
+lavender brown,moody	2
+lavender brown,nearly	1
+lavender brown,nearly headless nick	1
+lavender brown,neville	2
+lavender brown,neville longbottom	1
+lavender brown,parvati	2
+lavender brown,parvati patil	5
+lavender brown,patil	1
+lavender brown,ravenclaw	1
+lavender brown,ron	22
+lavender brown,seamus	1
+lavender brown,seamus finnigan	1
+lavender brown,trelawney	7
+lavender,abbott	1
+lavender,angelina johnson	1
+lavender,bell	2
+lavender,black	1
+lavender,cho	1
+lavender,dean	1
+lavender,dennis creevey	1
+lavender,dumbledore	2
+lavender,ernie	3
+lavender,fat	1
+lavender,fred	1
+lavender,ginny	2
+lavender,gryffindor	1
+lavender,harry	50
+lavender,hermione	27
+lavender,hermione granger	1
+lavender,hufflepuff	1
+lavender,justin finch-fletchley	1
+lavender,karkaroff	1
+lavender,katie bell	1
+lavender,krum	1
+lavender,lavender brown	1
+lavender,lee jordan	1
+lavender,ludo bagman	1
+lavender,lupin	1
+lavender,malfoy	1
+lavender,maxime	1
+lavender,mcgonagall	6
+lavender,moody	1
+lavender,neville	3
+lavender,parvati	8
+lavender,parvati patil	3
+lavender,patil	2
+lavender,professor lupin	1
+lavender,ravenclaw	1
+lavender,ron	46
+lavender,seamus	1
+lavender,seamus finnigan	1
+lavender,snape	1
+lavender,sprout	2
+lavender,trelawney	9
+lavender,weasley	1
+lavender,wood	1
+lee jordan,abbott	1
+lee jordan,angelina	1
+lee jordan,angelina johnson	1
+lee jordan,bagman	1
+lee jordan,bell	1
+lee jordan,cedric	1
+lee jordan,cho	1
+lee jordan,dean thomas	1
+lee jordan,dennis creevey	1
+lee jordan,dumbledore	1
+lee jordan,fluffy	1
+lee jordan,fred	15
+lee jordan,george	3
+lee jordan,ginny	1
+lee jordan,gryffindor	6
+lee jordan,hagrid	2
+lee jordan,harry	26
+lee jordan,hermione	5
+lee jordan,hufflepuff	3
+lee jordan,johnson	1
+lee jordan,justin finch-fletchley	1
+lee jordan,katie bell	1
+lee jordan,lavender	1
+lee jordan,madam hooch	1
+lee jordan,mcgonagall	2
+lee jordan,nearly	1
+lee jordan,neville	1
+lee jordan,parvati	1
+lee jordan,patil	1
+lee jordan,percy	2
+lee jordan,potter	1
+lee jordan,ravenclaw	2
+lee jordan,ron	6
+lee jordan,slytherin	7
+lee jordan,snape	1
+lee jordan,weasley	8
+lee jordan,wood	3
+lee,alicia	1
+lee,angelina	3
+lee,bell	2
+lee,fred	8
+lee,fred weasley	1
+lee,george	1
+lee,george weasley	1
+lee,grubbly-plank	1
+lee,gryffindor	6
+lee,hagrid	2
+lee,harry	10
+lee,hermione	2
+lee,johnson	2
+lee,katie bell	2
+lee,malfoy	2
+lee,mcgonagall	1
+lee,parvati	1
+lee,percy weasley	1
+lee,ravenclaw	2
+lee,ron	2
+lee,sirius	2
+lee,slytherin	10
+lily potter,harry	4
+lily potter,james potter	1
+lily potter,voldemort	4
+lily,albus	1
+lily,black	7
+lily,dumbledore	2
+lily,godric	1
+lily,hagrid	5
+lily,harry	20
+lily,harry potter	1
+lily,james	11
+lily,lupin	1
+lily,minerva	1
+lily,neville	3
+lily,peter	4
+lily,peter pettigrew	1
+lily,pettigrew	5
+lily,petunia	2
+lily,potter	3
+lily,ron	1
+lily,sirius	4
+lily,sirius black	1
+lily,snape	3
+lily,voldemort	11
+lockhart,bell	7
+lockhart,black	1
+lockhart,colin	12
+lockhart,colin creevey	1
+lockhart,creevey	10
+lockhart,dean	1
+lockhart,dean thomas	2
+lockhart,dumbledore	13
+lockhart,fang	1
+lockhart,fawkes	2
+lockhart,filch	2
+lockhart,finch-fletchley	1
+lockhart,fred	1
+lockhart,george	2
+lockhart,ginny	5
+lockhart,granger	2
+lockhart,gryffindor	2
+lockhart,hagrid	9
+lockhart,harry	162
+lockhart,harry potter	1
+lockhart,hermione	13
+lockhart,justin	1
+lockhart,justin finch-fletchley	2
+lockhart,longbottom	2
+lockhart,lupin	3
+lockhart,madam pince	1
+lockhart,madam pomfrey	1
+lockhart,malfoy	9
+lockhart,mcgonagall	6
+lockhart,moaning	3
+lockhart,moody	1
+lockhart,nearly	3
+lockhart,neville	4
+lockhart,neville longbottom	1
+lockhart,percy	1
+lockhart,petunia	1
+lockhart,potter	2
+lockhart,professor flitwick	1
+lockhart,professor sprout	6
+lockhart,ron	41
+lockhart,seamus	1
+lockhart,seamus finnigan	3
+lockhart,snape	18
+lockhart,weasley	9
+longbottom,cedric	4
+longbottom,crabbe	1
+longbottom,crouch	1
+longbottom,draco malfoy	1
+longbottom,dumbledore	2
+longbottom,fat	1
+longbottom,finch-fletchley	1
+longbottom,ginny	2
+longbottom,ginny weasley	1
+longbottom,granger	2
+longbottom,gryffindor	4
+longbottom,harry	13
+longbottom,harry potter	2
+longbottom,hermione	1
+longbottom,hermione granger	1
+longbottom,lockhart	2
+longbottom,malfoy	4
+longbottom,mcgonagall	7
+longbottom,moody	3
+longbottom,mr crouch	1
+longbottom,neville	14
+longbottom,parkinson	1
+longbottom,parvati	1
+longbottom,potter	10
+longbottom,professor sprout	1
+longbottom,ravenclaw	2
+longbottom,ron	3
+longbottom,seamus	1
+longbottom,seamus finnigan	1
+longbottom,slytherin	1
+longbottom,snape	7
+longbottom,thomas	1
+longbottom,weasley	3
+ludo bagman,bagman	4
+ludo bagman,black	2
+ludo bagman,cedric	1
+ludo bagman,cornelius fudge	2
+ludo bagman,crouch	2
+ludo bagman,dumbledore	4
+ludo bagman,fleur	2
+ludo bagman,fred	3
+ludo bagman,harry	15
+ludo bagman,hermione	4
+ludo bagman,karkaroff	7
+ludo bagman,krum	3
+ludo bagman,lavender	1
+ludo bagman,maxime	3
+ludo bagman,mcgonagall	1
+ludo bagman,moody	1
+ludo bagman,mr crouch	8
+ludo bagman,percy	3
+ludo bagman,potter	1
+ludo bagman,rita skeeter	2
+ludo bagman,ron	2
+ludo bagman,sir	1
+ludo bagman,skeeter	1
+ludo bagman,vernon	1
+ludo bagman,weasley	5
+ludo bagman,winky	1
+ludo,bagman	3
+ludo,bertha	1
+ludo,bertha jorkins	1
+ludo,crouch	1
+ludo,diggory	1
+ludo,harry	1
+ludo,mr crouch	3
+ludo,percy	1
+ludo,skeeter	1
+ludo,weasley	3
+lupin,bill	11
+lupin,black	44
+lupin,bloody	1
+lupin,brown	2
+lupin,buckbeak	1
+lupin,cho	1
+lupin,crabbe	1
+lupin,crookshanks	9
+lupin,dean	2
+lupin,draco	1
+lupin,dumbledore	25
+lupin,filch	3
+lupin,fleur	6
+lupin,fred	6
+lupin,fudge	3
+lupin,george	1
+lupin,ginny	14
+lupin,granger	1
+lupin,gryffindor	3
+lupin,hagrid	5
+lupin,harry	195
+lupin,hedwig	2
+lupin,hermione	25
+lupin,james	18
+lupin,lavender	1
+lupin,lily	1
+lupin,lockhart	3
+lupin,mad-eye moody	3
+lupin,madam pomfrey	2
+lupin,malfoy	11
+lupin,maxime	1
+lupin,mcgonagall	3
+lupin,molly	2
+lupin,moody	13
+lupin,moony	3
+lupin,nearly	7
+lupin,neville	14
+lupin,neville longbottom	1
+lupin,padfoot	1
+lupin,peter	8
+lupin,pettigrew	12
+lupin,pigwidgeon	1
+lupin,potter	4
+lupin,professor flitwick	1
+lupin,professor lupin	5
+lupin,prongs	1
+lupin,ravenclaw	4
+lupin,ron	46
+lupin,scabbers	10
+lupin,seamus	1
+lupin,seamus finnigan	1
+lupin,severus	5
+lupin,sirius	50
+lupin,sirius black	2
+lupin,slytherin	1
+lupin,snape	61
+lupin,tom	1
+lupin,voldemort	14
+lupin,weasley	30
+lupin,wood	2
+lupin,wormtail	6
+mad-eye moody,albus dumbledore	2
+mad-eye moody,bill	1
+mad-eye moody,black	1
+mad-eye moody,cedric	2
+mad-eye moody,dumbledore	12
+mad-eye moody,fleur	1
+mad-eye moody,fred	2
+mad-eye moody,george	1
+mad-eye moody,ginny	1
+mad-eye moody,hagrid	1
+mad-eye moody,harry	18
+mad-eye moody,karkaroff	3
+mad-eye moody,lupin	3
+mad-eye moody,madam pomfrey	1
+mad-eye moody,maxime	2
+mad-eye moody,moody	9
+mad-eye moody,neville	3
+mad-eye moody,parvati	1
+mad-eye moody,professor sinistra	1
+mad-eye moody,rita skeeter	2
+mad-eye moody,sirius	1
+mad-eye moody,snape	3
+mad-eye moody,tom	1
+mad-eye moody,voldemort	3
+mad-eye moody,weasley	7
+mad-eye moody,wormtail	1
+mad-eye,crouch	2
+mad-eye,diggory	2
+mad-eye,dumbledore	3
+mad-eye,fred	4
+mad-eye,fudge	1
+mad-eye,harry	25
+mad-eye,hedwig	1
+mad-eye,hermione	3
+mad-eye,hufflepuff	1
+mad-eye,karkaroff	2
+mad-eye,molly	3
+mad-eye,moody	8
+mad-eye,nearly	1
+mad-eye,potter	1
+mad-eye,ron	3
+mad-eye,sirius	8
+mad-eye,skeeter	1
+mad-eye,snape	4
+mad-eye,vernon	1
+mad-eye,weasley	9
+madam hooch,alicia	1
+madam hooch,angelina	4
+madam hooch,bloody	1
+madam hooch,crabbe	2
+madam hooch,diggory	1
+madam hooch,fred	2
+madam hooch,george	2
+madam hooch,george weasley	1
+madam hooch,gryffindor	7
+madam hooch,harry	25
+madam hooch,hooch	1
+madam hooch,hufflepuff	1
+madam hooch,katie	2
+madam hooch,lee jordan	1
+madam hooch,malfoy	5
+madam hooch,mcgonagall	3
+madam hooch,moaning	1
+madam hooch,nearly	1
+madam hooch,neville	3
+madam hooch,oliver wood	2
+madam hooch,potter	1
+madam hooch,professor flitwick	1
+madam hooch,ravenclaw	2
+madam hooch,ron	3
+madam hooch,slytherin	5
+madam hooch,wood	10
+madam malkin,ginny	1
+madam malkin,hagrid	5
+madam malkin,harry	15
+madam malkin,hermione	1
+madam malkin,madam	1
+madam malkin,malfoy	3
+madam malkin,malkin	1
+madam malkin,molly	2
+madam malkin,ron	3
+madam malkin,weasley	3
+madam pince,black	2
+madam pince,filch	1
+madam pince,flamel	1
+madam pince,gryffindor	1
+madam pince,hannah abbott	1
+madam pince,harry	11
+madam pince,hermione	4
+madam pince,lockhart	1
+madam pince,malfoy	1
+madam pince,mcgonagall	1
+madam pince,nearly	1
+madam pince,professor sprout	1
+madam pince,ron	3
+madam pince,slytherin	1
+madam pince,snape	1
+madam pomfrey,albus dumbledore	1
+madam pomfrey,alicia	1
+madam pomfrey,angelina	1
+madam pomfrey,bell	1
+madam pomfrey,bill	4
+madam pomfrey,binns	1
+madam pomfrey,black	3
+madam pomfrey,brown	1
+madam pomfrey,cedric	2
+madam pomfrey,cho	2
+madam pomfrey,colin	1
+madam pomfrey,cornelius fudge	1
+madam pomfrey,crouch	1
+madam pomfrey,dean	1
+madam pomfrey,dobby	1
+madam pomfrey,dumbledore	15
+madam pomfrey,fleur	4
+madam pomfrey,flitwick	1
+madam pomfrey,fred	3
+madam pomfrey,fudge	4
+madam pomfrey,ginny	5
+madam pomfrey,ginny weasley	1
+madam pomfrey,granger	1
+madam pomfrey,gryffindor	1
+madam pomfrey,hagrid	4
+madam pomfrey,hannah abbott	1
+madam pomfrey,harry	76
+madam pomfrey,headless	1
+madam pomfrey,hermione	29
+madam pomfrey,hufflepuff	2
+madam pomfrey,james	2
+madam pomfrey,justin	1
+madam pomfrey,katie	2
+madam pomfrey,lockhart	1
+madam pomfrey,lupin	2
+madam pomfrey,mad-eye moody	1
+madam pomfrey,malfoy	4
+madam pomfrey,mcgonagall	11
+madam pomfrey,moody	3
+madam pomfrey,nearly	1
+madam pomfrey,neville	5
+madam pomfrey,norbert	1
+madam pomfrey,percy	1
+madam pomfrey,pomfrey	2
+madam pomfrey,potter	5
+madam pomfrey,professor sprout	2
+madam pomfrey,ravenclaw	2
+madam pomfrey,ron	24
+madam pomfrey,severus	3
+madam pomfrey,sirius	3
+madam pomfrey,slytherin	4
+madam pomfrey,snape	8
+madam pomfrey,voldemort	1
+madam pomfrey,weasley	8
+madam pomfrey,winky	1
+madam,albus	1
+madam,albus dumbledore	1
+madam,bagman	1
+madam,black	4
+madam,cornelius fudge	2
+madam,crabbe	1
+madam,dean	1
+madam,dumbledore	10
+madam,fluffy	1
+madam,fred	1
+madam,fudge	7
+madam,ginny	2
+madam,hagrid	4
+madam,harry	30
+madam,harry potter	1
+madam,hermione	1
+madam,james potter	1
+madam,katie bell	1
+madam,madam malkin	1
+madam,malfoy	2
+madam,moody	4
+madam,neville	1
+madam,percy	1
+madam,pettigrew	1
+madam,professor flitwick	1
+madam,roger	1
+madam,ron	5
+madam,sir	2
+madam,sirius	1
+madam,sirius black	2
+madam,slytherin	1
+madam,voldemort	2
+madam,weasley	4
+malfoy,abbott	2
+malfoy,alicia	4
+malfoy,angelina	2
+malfoy,bagman	1
+malfoy,bell	7
+malfoy,bill	2
+malfoy,black	33
+malfoy,bloody	1
+malfoy,brown	2
+malfoy,buckbeak	13
+malfoy,bulstrode	1
+malfoy,cedric	3
+malfoy,charlie	2
+malfoy,charlie weasley	3
+malfoy,cho	1
+malfoy,colin	2
+malfoy,cornelius fudge	2
+malfoy,crabbe	78
+malfoy,creevey	1
+malfoy,crookshanks	1
+malfoy,dean	2
+malfoy,dean thomas	1
+malfoy,dobby	19
+malfoy,draco	17
+malfoy,draco malfoy	9
+malfoy,dudley dursley	1
+malfoy,dumbledore	60
+malfoy,dursley	2
+malfoy,ernie	7
+malfoy,fang	5
+malfoy,fat	2
+malfoy,filch	13
+malfoy,finch-fletchley	1
+malfoy,flamel	1
+malfoy,fleur delacour	1
+malfoy,fred	21
+malfoy,fudge	9
+malfoy,george	12
+malfoy,george weasley	1
+malfoy,ginny	20
+malfoy,ginny weasley	3
+malfoy,goyle	68
+malfoy,granger	9
+malfoy,gryffindor	48
+malfoy,hagrid	82
+malfoy,harry	730
+malfoy,harry potter	7
+malfoy,hermione	106
+malfoy,hufflepuff	4
+malfoy,justin	2
+malfoy,justin finch-fletchley	2
+malfoy,karkaroff	1
+malfoy,katie	2
+malfoy,krum	5
+malfoy,lavender	1
+malfoy,lavender brown	2
+malfoy,lee	2
+malfoy,lockhart	9
+malfoy,longbottom	4
+malfoy,lupin	11
+malfoy,madam	2
+malfoy,madam hooch	5
+malfoy,madam malkin	3
+malfoy,madam pince	1
+malfoy,madam pomfrey	4
+malfoy,mcgonagall	20
+malfoy,moaning	9
+malfoy,moody	10
+malfoy,nearly	3
+malfoy,neville	42
+malfoy,neville longbottom	1
+malfoy,norbert	6
+malfoy,pansy	15
+malfoy,pansy parkinson	10
+malfoy,parkinson	3
+malfoy,parvati	2
+malfoy,parvati patil	1
+malfoy,patil	2
+malfoy,percy	3
+malfoy,percy weasley	1
+malfoy,peter	2
+malfoy,pettigrew	4
+malfoy,pigwidgeon	1
+malfoy,pomfrey	1
+malfoy,potter	53
+malfoy,professor flitwick	3
+malfoy,professor grubbly-plank	1
+malfoy,professor lupin	1
+malfoy,professor sprout	1
+malfoy,ravenclaw	7
+malfoy,riddle	1
+malfoy,ron	164
+malfoy,salazar slytherin	1
+malfoy,seamus	2
+malfoy,sir	9
+malfoy,sirius	25
+malfoy,slytherin	56
+malfoy,snape	93
+malfoy,sprout	1
+malfoy,trelawney	6
+malfoy,viktor krum	2
+malfoy,vincent crabbe	3
+malfoy,voldemort	20
+malfoy,weasley	63
+malfoy,wood	9
+malfoy,wormtail	1
+malkin,black	1
+malkin,hagrid	1
+malkin,harry	2
+malkin,madam malkin	1
+maxime,bagman	4
+maxime,bell	1
+maxime,black	4
+maxime,brown	1
+maxime,cedric	1
+maxime,charlie	1
+maxime,charlie weasley	1
+maxime,cornelius	1
+maxime,cornelius fudge	2
+maxime,crouch	2
+maxime,dumbledore	17
+maxime,fleur	7
+maxime,fleur delacour	3
+maxime,fred	2
+maxime,fudge	1
+maxime,ginny	2
+maxime,goyle	1
+maxime,hagrid	38
+maxime,harry	57
+maxime,hermione	7
+maxime,karkaroff	14
+maxime,krum	3
+maxime,lavender	1
+maxime,ludo bagman	3
+maxime,lupin	1
+maxime,mad-eye moody	2
+maxime,mcgonagall	3
+maxime,minerva	1
+maxime,mr crouch	1
+maxime,nearly	1
+maxime,neville	2
+maxime,norbert	1
+maxime,parvati	1
+maxime,percy	3
+maxime,pigwidgeon	2
+maxime,professor sinistra	1
+maxime,roger	1
+maxime,ron	9
+maxime,slytherin	1
+maxime,snape	2
+maxime,tom	1
+maxime,viktor krum	1
+maxime,weasley	2
+mcgonagall,albus	2
+mcgonagall,albus dumbledore	2
+mcgonagall,angelina	3
+mcgonagall,angelina johnson	1
+mcgonagall,bagman	5
+mcgonagall,bell	4
+mcgonagall,bill	7
+mcgonagall,binns	2
+mcgonagall,black	11
+mcgonagall,bloody	1
+mcgonagall,brown	1
+mcgonagall,buckbeak	1
+mcgonagall,cedric	1
+mcgonagall,charlie	1
+mcgonagall,charlie weasley	1
+mcgonagall,colin	1
+mcgonagall,colin creevey	1
+mcgonagall,cornelius	1
+mcgonagall,cornelius fudge	4
+mcgonagall,crabbe	4
+mcgonagall,crouch	4
+mcgonagall,dean thomas	1
+mcgonagall,diggory	1
+mcgonagall,dobby	5
+mcgonagall,draco malfoy	3
+mcgonagall,dumbledore	102
+mcgonagall,ernie	5
+mcgonagall,fat	3
+mcgonagall,fawkes	3
+mcgonagall,filch	8
+mcgonagall,firenze	1
+mcgonagall,fleur	2
+mcgonagall,fleur delacour	1
+mcgonagall,flitwick	4
+mcgonagall,fluffy	2
+mcgonagall,fred	10
+mcgonagall,fudge	4
+mcgonagall,george	2
+mcgonagall,ginny	9
+mcgonagall,ginny weasley	1
+mcgonagall,goyle	5
+mcgonagall,granger	4
+mcgonagall,grubbly-plank	1
+mcgonagall,gryffindor	60
+mcgonagall,hagrid	41
+mcgonagall,harry	313
+mcgonagall,harry potter	4
+mcgonagall,headless	1
+mcgonagall,hedwig	4
+mcgonagall,hermione	49
+mcgonagall,hermione granger	2
+mcgonagall,hufflepuff	3
+mcgonagall,johnson	1
+mcgonagall,jordan	3
+mcgonagall,justin	5
+mcgonagall,karkaroff	5
+mcgonagall,katie	3
+mcgonagall,krum	1
+mcgonagall,lavender	6
+mcgonagall,lee	1
+mcgonagall,lee jordan	2
+mcgonagall,lockhart	6
+mcgonagall,longbottom	7
+mcgonagall,ludo bagman	1
+mcgonagall,lupin	3
+mcgonagall,madam hooch	3
+mcgonagall,madam pince	1
+mcgonagall,madam pomfrey	11
+mcgonagall,malfoy	20
+mcgonagall,maxime	3
+mcgonagall,minerva	9
+mcgonagall,moaning	2
+mcgonagall,molly	2
+mcgonagall,moody	7
+mcgonagall,mr crouch	2
+mcgonagall,nearly	2
+mcgonagall,nearly headless nick	7
+mcgonagall,neville	22
+mcgonagall,nick	2
+mcgonagall,norbert	3
+mcgonagall,oliver wood	2
+mcgonagall,padma	2
+mcgonagall,pansy parkinson	1
+mcgonagall,parvati	1
+mcgonagall,parvati patil	1
+mcgonagall,peeves	10
+mcgonagall,percy	8
+mcgonagall,percy weasley	3
+mcgonagall,peter pettigrew	2
+mcgonagall,pettigrew	2
+mcgonagall,petunia	2
+mcgonagall,pomfrey	1
+mcgonagall,potter	56
+mcgonagall,professor flitwick	9
+mcgonagall,professor grubbly-plank	5
+mcgonagall,professor lupin	3
+mcgonagall,professor sinistra	3
+mcgonagall,professor sprout	6
+mcgonagall,ravenclaw	2
+mcgonagall,roger	1
+mcgonagall,ron	73
+mcgonagall,seamus	4
+mcgonagall,severus	14
+mcgonagall,sinistra	1
+mcgonagall,sir	2
+mcgonagall,sir cadogan	1
+mcgonagall,sirius	10
+mcgonagall,sirius black	1
+mcgonagall,slytherin	10
+mcgonagall,snape	50
+mcgonagall,sprout	7
+mcgonagall,trelawney	16
+mcgonagall,vernon	1
+mcgonagall,voldemort	3
+mcgonagall,weasley	21
+mcgonagall,winky	2
+mcgonagall,wood	9
+millicent bulstrode,crabbe	2
+millicent bulstrode,ginny	1
+millicent bulstrode,harry	3
+millicent bulstrode,hermione	8
+millicent bulstrode,millicent	1
+millicent bulstrode,neville	1
+millicent bulstrode,ron	3
+millicent,bulstrode	2
+millicent,fudge	1
+millicent,harry	2
+millicent,hermione	5
+millicent,millicent bulstrode	1
+millicent,neville	2
+millicent,ron	3
+millicent,seamus	2
+millicent,weasley	1
+minerva,albus dumbledore	2
+minerva,bertha jorkins	1
+minerva,black	2
+minerva,cornelius	1
+minerva,cornelius fudge	3
+minerva,crouch	3
+minerva,dumbledore	8
+minerva,fawkes	1
+minerva,fudge	3
+minerva,gryffindor	8
+minerva,hagrid	2
+minerva,harry	10
+minerva,lily	1
+minerva,maxime	1
+minerva,mcgonagall	9
+minerva,pettigrew	3
+minerva,pomfrey	1
+minerva,potter	2
+minerva,professor lupin	1
+minerva,ron	2
+minerva,severus	2
+minerva,sirius	1
+minerva,snape	2
+minerva,voldemort	2
+minerva,weasley	2
+moaning,aragog	1
+moaning,bell	1
+moaning,black	2
+moaning,bloody	1
+moaning,crabbe	4
+moaning,dudley	1
+moaning,fat	1
+moaning,filch	4
+moaning,fred	2
+moaning,ginny	1
+moaning,goyle	2
+moaning,harry	31
+moaning,hermione	12
+moaning,lockhart	3
+moaning,madam hooch	1
+moaning,malfoy	9
+moaning,mcgonagall	2
+moaning,nearly	3
+moaning,pansy parkinson	1
+moaning,peeves	1
+moaning,percy	1
+moaning,ravenclaw	1
+moaning,ron	14
+moaning,ron weasley	1
+moaning,salazar slytherin	1
+moaning,slytherin	1
+moaning,snape	3
+moaning,wormtail	3
+molly weasley,harry	1
+molly,bill	4
+molly,black	8
+molly,dumbledore	7
+molly,fred	2
+molly,fudge	7
+molly,george	1
+molly,ginny	1
+molly,granger	1
+molly,hagrid	4
+molly,harry	20
+molly,lupin	2
+molly,mad-eye	3
+molly,madam malkin	2
+molly,mcgonagall	2
+molly,percy	2
+molly,ron	3
+molly,sirius	9
+molly,sirius black	1
+molly,snape	3
+molly,voldemort	3
+molly,weasley	15
+moody,albus dumbledore	3
+moody,bell	3
+moody,bertha	1
+moody,bill	1
+moody,black	3
+moody,brown	1
+moody,cedric	2
+moody,cho	1
+moody,cornelius fudge	1
+moody,crabbe	3
+moody,crouch	8
+moody,diggory	1
+moody,dobby	4
+moody,draco	1
+moody,dumbledore	49
+moody,dursley	1
+moody,fat	1
+moody,filch	7
+moody,fleur delacour	1
+moody,fred	6
+moody,fudge	3
+moody,ginny	1
+moody,granger	1
+moody,gryffindor	1
+moody,hagrid	23
+moody,harry	190
+moody,harry potter	2
+moody,headless	1
+moody,hedwig	2
+moody,hermione	19
+moody,justin	1
+moody,karkaroff	13
+moody,krum	4
+moody,lavender	1
+moody,lavender brown	2
+moody,lockhart	1
+moody,longbottom	3
+moody,ludo bagman	1
+moody,lupin	13
+moody,mad-eye	8
+moody,mad-eye moody	9
+moody,madam	4
+moody,madam pomfrey	3
+moody,malfoy	10
+moody,mcgonagall	7
+moody,mr crouch	3
+moody,nearly	1
+moody,neville	15
+moody,parvati	3
+moody,peeves	2
+moody,potter	22
+moody,professor sprout	1
+moody,rita	1
+moody,rita skeeter	1
+moody,ron	29
+moody,seamus	1
+moody,severus	1
+moody,sir	2
+moody,sirius	25
+moody,skeeter	2
+moody,snape	38
+moody,vernon	2
+moody,voldemort	6
+moody,weasley	25
+moody,wood	1
+moody,wormtail	5
+moony,harry	1
+moony,lupin	3
+moony,prongs	8
+moony,sirius	1
+moony,snape	2
+moony,wormtail	1
+mr crouch,amos	2
+mr crouch,amos diggory	2
+mr crouch,bagman	15
+mr crouch,bertha	2
+mr crouch,bertha jorkins	1
+mr crouch,bloody	1
+mr crouch,brown	2
+mr crouch,cedric	1
+mr crouch,crouch	8
+mr crouch,diggory	5
+mr crouch,dobby	4
+mr crouch,dudley	1
+mr crouch,dumbledore	19
+mr crouch,filch	1
+mr crouch,fudge	1
+mr crouch,harry	51
+mr crouch,harry potter	2
+mr crouch,hedwig	1
+mr crouch,hermione	16
+mr crouch,karkaroff	4
+mr crouch,krum	6
+mr crouch,longbottom	1
+mr crouch,ludo	3
+mr crouch,ludo bagman	8
+mr crouch,maxime	1
+mr crouch,mcgonagall	2
+mr crouch,moody	3
+mr crouch,neville	1
+mr crouch,percy	28
+mr crouch,percy weasley	2
+mr crouch,petunia	1
+mr crouch,potter	1
+mr crouch,rita skeeter	3
+mr crouch,sir	2
+mr crouch,sirius	4
+mr crouch,skeeter	3
+mr crouch,snape	4
+mr crouch,vernon	2
+mr crouch,viktor	2
+mr crouch,voldemort	2
+mr crouch,weasley	4
+mr crouch,winky	22
+mr ollivander,cedric	2
+mr ollivander,delacour	1
+mr ollivander,diggory	1
+mr ollivander,dumbledore	1
+mr ollivander,fleur	1
+mr ollivander,hagrid	5
+mr ollivander,harry	31
+mr ollivander,krum	2
+mr ollivander,nearly	1
+mr ollivander,petunia	1
+mr ollivander,potter	2
+mr ollivander,rita skeeter	1
+mr ollivander,viktor krum	1
+mr ollivander,voldemort	4
+nearly headless nick,black	4
+nearly headless nick,bloody baron	3
+nearly headless nick,colin	2
+nearly headless nick,crouch	1
+nearly headless nick,dumbledore	2
+nearly headless nick,ernie	5
+nearly headless nick,fat friar	1
+nearly headless nick,filch	2
+nearly headless nick,fred	1
+nearly headless nick,ginny	1
+nearly headless nick,gryffindor	9
+nearly headless nick,hagrid	1
+nearly headless nick,harry	26
+nearly headless nick,harry potter	1
+nearly headless nick,headless	2
+nearly headless nick,hermione	7
+nearly headless nick,hufflepuff	1
+nearly headless nick,justin	6
+nearly headless nick,lavender brown	1
+nearly headless nick,mcgonagall	7
+nearly headless nick,nearly	1
+nearly headless nick,neville	3
+nearly headless nick,nick	4
+nearly headless nick,parvati patil	1
+nearly headless nick,peeves	4
+nearly headless nick,potter	1
+nearly headless nick,professor flitwick	2
+nearly headless nick,professor sinistra	2
+nearly headless nick,ravenclaw	2
+nearly headless nick,ron	8
+nearly headless nick,seamus	1
+nearly headless nick,sir	3
+nearly headless nick,slytherin	1
+nearly headless nick,weasley	1
+nearly,amos	1
+nearly,angelina	1
+nearly,aragog	1
+nearly,bagman	1
+nearly,bane	3
+nearly,bell	1
+nearly,binns	1
+nearly,black	2
+nearly,buckbeak	1
+nearly,cedric	9
+nearly,cornelius fudge	1
+nearly,crookshanks	2
+nearly,dean	2
+nearly,dean thomas	2
+nearly,diggory	2
+nearly,dobby	2
+nearly,draco	1
+nearly,dudley	10
+nearly,dudley dursley	1
+nearly,dumbledore	19
+nearly,dursley	4
+nearly,ernie	3
+nearly,fang	1
+nearly,firenze	3
+nearly,fleur delacour	1
+nearly,fred	6
+nearly,fudge	2
+nearly,george	2
+nearly,ginny	1
+nearly,goyle	3
+nearly,gryffindor	7
+nearly,hagrid	13
+nearly,harry	137
+nearly,headless	2
+nearly,hedwig	1
+nearly,hermione	34
+nearly,james	1
+nearly,justin	2
+nearly,lavender brown	1
+nearly,lee jordan	1
+nearly,lockhart	3
+nearly,lupin	7
+nearly,mad-eye	1
+nearly,madam hooch	1
+nearly,madam pince	1
+nearly,madam pomfrey	1
+nearly,malfoy	3
+nearly,maxime	1
+nearly,mcgonagall	2
+nearly,moaning	3
+nearly,moody	1
+nearly,mr ollivander	1
+nearly,nearly headless nick	1
+nearly,neville	5
+nearly,peeves	2
+nearly,percy	4
+nearly,petunia	2
+nearly,pigwidgeon	2
+nearly,potter	3
+nearly,professor flitwick	1
+nearly,professor lupin	2
+nearly,professor sprout	2
+nearly,ravenclaw	2
+nearly,ron	52
+nearly,scabbers	2
+nearly,sir	2
+nearly,sirius	20
+nearly,sirius black	2
+nearly,slytherin	2
+nearly,snape	14
+nearly,tom riddle	1
+nearly,trelawney	1
+nearly,vernon	3
+nearly,viktor krum	1
+nearly,voldemort	5
+nearly,weasley	7
+nearly,wood	3
+nearly,wormtail	4
+neville longbottom,black	3
+neville longbottom,brown	1
+neville longbottom,dean thomas	1
+neville longbottom,draco malfoy	1
+neville longbottom,dumbledore	1
+neville longbottom,ernie	1
+neville longbottom,finnigan	2
+neville longbottom,fluffy	1
+neville longbottom,granger	2
+neville longbottom,gryffindor	6
+neville longbottom,harry	20
+neville longbottom,hedwig	1
+neville longbottom,hermione	2
+neville longbottom,lavender brown	1
+neville longbottom,lockhart	1
+neville longbottom,lupin	1
+neville longbottom,malfoy	1
+neville longbottom,neville	4
+neville longbottom,peter pettigrew	1
+neville longbottom,ron	1
+neville longbottom,sir cadogan	1
+neville longbottom,sirius	1
+neville longbottom,sirius black	1
+neville longbottom,thomas	1
+neville longbottom,voldemort	1
+neville,abbott	1
+neville,albus dumbledore	1
+neville,angelina johnson	1
+neville,bell	6
+neville,bill	3
+neville,black	9
+neville,bloody	1
+neville,bloody baron	1
+neville,brown	2
+neville,bulstrode	1
+neville,cho	5
+neville,cho chang	2
+neville,crabbe	6
+neville,creevey	1
+neville,crookshanks	2
+neville,crouch	3
+neville,dean	14
+neville,dean thomas	1
+neville,dennis creevey	1
+neville,dobby	1
+neville,draco malfoy	1
+neville,dumbledore	20
+neville,ernie	1
+neville,fang	3
+neville,fat	3
+neville,filch	7
+neville,finch-fletchley	1
+neville,finnigan	2
+neville,flitwick	1
+neville,fluffy	1
+neville,fred	5
+neville,fred weasley	1
+neville,george	2
+neville,ginny	21
+neville,goyle	4
+neville,gryffindor	23
+neville,hagrid	17
+neville,harry	395
+neville,harry potter	3
+neville,hedwig	2
+neville,hermione	84
+neville,hermione granger	7
+neville,hufflepuff	1
+neville,justin finch-fletchley	1
+neville,katie bell	1
+neville,lavender	3
+neville,lavender brown	2
+neville,lee jordan	1
+neville,lily	3
+neville,lockhart	4
+neville,longbottom	14
+neville,lupin	14
+neville,mad-eye moody	3
+neville,madam	1
+neville,madam hooch	3
+neville,madam pomfrey	5
+neville,malfoy	42
+neville,maxime	2
+neville,mcgonagall	22
+neville,millicent	2
+neville,millicent bulstrode	1
+neville,moody	15
+neville,mr crouch	1
+neville,nearly	5
+neville,nearly headless nick	3
+neville,neville longbottom	4
+neville,norbert	1
+neville,padma patil	2
+neville,pansy parkinson	1
+neville,parkinson	2
+neville,parvati	4
+neville,parvati patil	3
+neville,patil	1
+neville,peeves	2
+neville,percy	2
+neville,pigwidgeon	1
+neville,potter	4
+neville,professor flitwick	7
+neville,professor lupin	13
+neville,professor sinistra	2
+neville,professor sprout	3
+neville,ravenclaw	3
+neville,ron	100
+neville,scabbers	1
+neville,seamus	19
+neville,seamus finnigan	3
+neville,sir	1
+neville,sirius	6
+neville,sirius black	2
+neville,slytherin	8
+neville,snape	49
+neville,sprout	4
+neville,thomas	2
+neville,trelawney	10
+neville,voldemort	12
+neville,weasley	3
+neville,wood	2
+nick,baron	2
+nick,black	1
+nick,bloody baron	2
+nick,colin	2
+nick,creevey	1
+nick,dennis	1
+nick,ernie	2
+nick,filch	1
+nick,george	1
+nick,gryffindor	2
+nick,harry	10
+nick,headless	1
+nick,hermione	4
+nick,justin	2
+nick,mcgonagall	2
+nick,nearly headless nick	4
+nick,peeves	1
+nick,professor flitwick	1
+nick,professor sinistra	1
+nick,ravenclaw	1
+nick,ron	3
+nick,sirius black	1
+nicolas flamel,dumbledore	3
+nicolas flamel,filch	1
+nicolas flamel,flamel	2
+nicolas flamel,harry	4
+nicolas flamel,hermione	3
+nicolas flamel,ron	1
+nicolas,dumbledore	1
+nicolas,harry	1
+norbert,charlie	8
+norbert,dumbledore	1
+norbert,filch	1
+norbert,hagrid	11
+norbert,harry	15
+norbert,hermione	2
+norbert,madam pomfrey	1
+norbert,malfoy	6
+norbert,maxime	1
+norbert,mcgonagall	3
+norbert,neville	1
+norbert,peeves	1
+norbert,ron	3
+oliver wood,alicia	1
+oliver wood,angelina	4
+oliver wood,cho chang	1
+oliver wood,diggory	1
+oliver wood,ernie	1
+oliver wood,fred	3
+oliver wood,george	1
+oliver wood,gryffindor	6
+oliver wood,hagrid	1
+oliver wood,harry	13
+oliver wood,hufflepuff	1
+oliver wood,johnson	2
+oliver wood,katie	1
+oliver wood,katie bell	1
+oliver wood,krum	1
+oliver wood,madam hooch	2
+oliver wood,mcgonagall	2
+oliver wood,potter	1
+oliver wood,ravenclaw	1
+oliver wood,ron	5
+oliver wood,slytherin	1
+oliver wood,weasley	2
+oliver wood,wood	2
+oliver,alicia	1
+oliver,bell	1
+oliver,fred	6
+oliver,harry	3
+oliver,hufflepuff	1
+oliver,ron	1
+oliver,slytherin	1
+oliver,weasley	1
+ollivander,harry	3
+ollivander,krum	1
+ollivander,potter	2
+ollivander,weasley	2
+padfoot,harry	2
+padfoot,lupin	1
+padfoot,sirius	1
+padfoot,snape	2
+padma patil,dean	1
+padma patil,harry	2
+padma patil,neville	2
+padma patil,ravenclaw	1
+padma patil,ron	2
+padma,bagman	2
+padma,dumbledore	1
+padma,fred	1
+padma,hagrid	1
+padma,harry	6
+padma,hermione	2
+padma,karkaroff	1
+padma,mcgonagall	2
+padma,parvati	5
+padma,percy	1
+padma,professor sprout	1
+padma,ravenclaw	1
+padma,ron	4
+pansy parkinson,black	1
+pansy parkinson,brown	1
+pansy parkinson,crabbe	4
+pansy parkinson,draco malfoy	1
+pansy parkinson,filch	1
+pansy parkinson,ginny	1
+pansy parkinson,goyle	4
+pansy parkinson,gryffindor	1
+pansy parkinson,hagrid	1
+pansy parkinson,harry	19
+pansy parkinson,harry potter	1
+pansy parkinson,hermione	14
+pansy parkinson,johnson	1
+pansy parkinson,krum	1
+pansy parkinson,malfoy	10
+pansy parkinson,mcgonagall	1
+pansy parkinson,moaning	1
+pansy parkinson,neville	1
+pansy parkinson,parvati	2
+pansy parkinson,potter	1
+pansy parkinson,ron	6
+pansy parkinson,slytherin	8
+pansy parkinson,snape	5
+pansy parkinson,wood	1
+pansy,chang	1
+pansy,crabbe	5
+pansy,diggory	1
+pansy,goyle	6
+pansy,gryffindor	1
+pansy,hagrid	2
+pansy,harry	16
+pansy,hermione	1
+pansy,malfoy	15
+pansy,potter	1
+pansy,ron	1
+pansy,vincent crabbe	2
+parkinson,crabbe	2
+parkinson,draco	2
+parkinson,draco malfoy	1
+parkinson,fat	1
+parkinson,granger	1
+parkinson,hagrid	3
+parkinson,harry	5
+parkinson,harry potter	1
+parkinson,hermione	2
+parkinson,longbottom	1
+parkinson,malfoy	3
+parkinson,neville	2
+parkinson,parvati	1
+parkinson,patil	3
+parkinson,potter	6
+parkinson,professor flitwick	1
+parkinson,professor grubbly-plank	1
+parkinson,ron	2
+parkinson,slytherin	3
+parkinson,snape	1
+parkinson,weasley	1
+parvati patil,creevey	1
+parvati patil,firenze	1
+parvati patil,gryffindor	5
+parvati patil,harry	13
+parvati patil,hermione	6
+parvati patil,lavender	3
+parvati patil,lavender brown	5
+parvati patil,malfoy	1
+parvati patil,mcgonagall	1
+parvati patil,nearly headless nick	1
+parvati patil,neville	3
+parvati patil,parvati	1
+parvati patil,patil	1
+parvati patil,ravenclaw	1
+parvati patil,ron	9
+parvati patil,trelawney	9
+parvati,abbott	1
+parvati,angelina johnson	1
+parvati,black	1
+parvati,cedric	1
+parvati,cho	1
+parvati,dean	1
+parvati,dean thomas	1
+parvati,dennis creevey	1
+parvati,dumbledore	1
+parvati,fat	1
+parvati,firenze	1
+parvati,fleur	1
+parvati,fleur delacour	1
+parvati,fred	2
+parvati,ginny	3
+parvati,grubbly-plank	1
+parvati,gryffindor	2
+parvati,hagrid	5
+parvati,harry	36
+parvati,hermione	19
+parvati,hermione granger	1
+parvati,hufflepuff	1
+parvati,justin finch-fletchley	1
+parvati,karkaroff	1
+parvati,katie bell	1
+parvati,krum	4
+parvati,lavender	8
+parvati,lavender brown	2
+parvati,lee	1
+parvati,lee jordan	1
+parvati,longbottom	1
+parvati,mad-eye moody	1
+parvati,malfoy	2
+parvati,maxime	1
+parvati,mcgonagall	1
+parvati,moody	3
+parvati,neville	4
+parvati,padma	5
+parvati,pansy parkinson	2
+parvati,parkinson	1
+parvati,parvati patil	1
+parvati,patil	2
+parvati,professor lupin	1
+parvati,professor sinistra	1
+parvati,ravenclaw	2
+parvati,roger	1
+parvati,ron	20
+parvati,seamus	2
+parvati,seamus finnigan	2
+parvati,sir	1
+parvati,slytherin	1
+parvati,snape	4
+parvati,thomas	1
+parvati,trelawney	7
+parvati,weasley	1
+parvati,wood	1
+patil,abbott	1
+patil,angelina johnson	1
+patil,cho	1
+patil,dennis creevey	1
+patil,dumbledore	1
+patil,fred	1
+patil,ginny	1
+patil,gryffindor	1
+patil,harry	5
+patil,hermione	3
+patil,hufflepuff	1
+patil,justin finch-fletchley	1
+patil,katie bell	1
+patil,lavender	2
+patil,lavender brown	1
+patil,lee jordan	1
+patil,malfoy	2
+patil,neville	1
+patil,parkinson	3
+patil,parvati	2
+patil,parvati patil	1
+patil,potter	3
+patil,professor flitwick	2
+patil,ravenclaw	1
+patil,ron	6
+patil,seamus	1
+patil,seamus finnigan	1
+patil,weasley	1
+peeves,angelina	1
+peeves,baron	2
+peeves,bell	1
+peeves,bloody baron	5
+peeves,crouch	1
+peeves,dobby	1
+peeves,dumbledore	7
+peeves,ernie	2
+peeves,fat	2
+peeves,fat friar	1
+peeves,filch	32
+peeves,fred	6
+peeves,friar	1
+peeves,granger	1
+peeves,gryffindor	4
+peeves,hagrid	6
+peeves,harry	39
+peeves,harry potter	2
+peeves,headless	5
+peeves,hermione	11
+peeves,hufflepuff	1
+peeves,justin	5
+peeves,katie	1
+peeves,katie bell	1
+peeves,mcgonagall	10
+peeves,moaning	1
+peeves,moody	2
+peeves,nearly	2
+peeves,nearly headless nick	4
+peeves,neville	2
+peeves,nick	1
+peeves,norbert	1
+peeves,percy	1
+peeves,potter	4
+peeves,professor lupin	4
+peeves,professor sprout	1
+peeves,ron	14
+peeves,severus	1
+peeves,sir	3
+peeves,sirius black	2
+peeves,slytherin	1
+peeves,snape	4
+peeves,trelawney	1
+percy weasley,buckbeak	1
+percy weasley,cornelius fudge	1
+percy weasley,dumbledore	2
+percy weasley,ginny	2
+percy weasley,hagrid	2
+percy weasley,harry	16
+percy weasley,hermione	1
+percy weasley,lee	1
+percy weasley,malfoy	1
+percy weasley,mcgonagall	3
+percy weasley,mr crouch	2
+percy weasley,percy	1
+percy weasley,petunia	1
+percy weasley,ron	1
+percy weasley,sir cadogan	1
+percy weasley,sirius	1
+percy weasley,slytherin	1
+percy weasley,snape	1
+percy weasley,vernon	1
+percy weasley,viktor krum	1
+percy weasley,weasley	1
+percy,bagman	15
+percy,baron	1
+percy,bertha	2
+percy,bertha jorkins	1
+percy,bill	28
+percy,black	2
+percy,bloody	1
+percy,buckbeak	1
+percy,cadogan	1
+percy,cedric diggory	1
+percy,charlie	11
+percy,clearwater	3
+percy,colin creevey	1
+percy,cornelius	1
+percy,cornelius fudge	3
+percy,crouch	16
+percy,dean thomas	1
+percy,dobby	2
+percy,draco malfoy	1
+percy,dumbledore	23
+percy,fang	1
+percy,fat	1
+percy,filch	3
+percy,fleur delacour	1
+percy,fred	37
+percy,fudge	11
+percy,george	13
+percy,ginny	16
+percy,ginny weasley	2
+percy,gryffindor	13
+percy,hagrid	7
+percy,harry	152
+percy,harry potter	1
+percy,hedwig	4
+percy,hermione	31
+percy,hermione granger	1
+percy,karkaroff	1
+percy,krum	1
+percy,lee jordan	2
+percy,lockhart	1
+percy,ludo	1
+percy,ludo bagman	3
+percy,madam	1
+percy,madam pomfrey	1
+percy,malfoy	3
+percy,maxime	3
+percy,mcgonagall	8
+percy,moaning	1
+percy,molly	2
+percy,mr crouch	28
+percy,nearly	4
+percy,neville	2
+percy,padma	1
+percy,peeves	1
+percy,percy weasley	1
+percy,peter	1
+percy,potter	3
+percy,professor flitwick	1
+percy,professor sprout	1
+percy,ravenclaw	2
+percy,riddle	2
+percy,ron	73
+percy,scabbers	3
+percy,seamus finnigan	1
+percy,sir	4
+percy,sirius	2
+percy,skeeter	1
+percy,slytherin	2
+percy,snape	5
+percy,vernon	3
+percy,voldemort	5
+percy,weasley	58
+percy,wood	2
+peter pettigrew,black	7
+peter pettigrew,fudge	1
+peter pettigrew,harry	4
+peter pettigrew,lily	1
+peter pettigrew,mcgonagall	2
+peter pettigrew,neville longbottom	1
+peter pettigrew,pettigrew	1
+peter pettigrew,sirius	1
+peter pettigrew,sirius black	1
+peter pettigrew,snape	2
+peter pettigrew,voldemort	2
+peter,albus dumbledore	1
+peter,black	8
+peter,crookshanks	3
+peter,fudge	1
+peter,gryffindor	1
+peter,harry	13
+peter,hermione	2
+peter,james	4
+peter,lily	4
+peter,lupin	8
+peter,malfoy	2
+peter,percy	1
+peter,pettigrew	4
+peter,ron	6
+peter,scabbers	2
+peter,sirius	11
+peter,voldemort	8
+peter,wormtail	1
+pettigrew,black	30
+pettigrew,buckbeak	1
+pettigrew,cho	1
+pettigrew,crookshanks	3
+pettigrew,dumbledore	2
+pettigrew,fat	1
+pettigrew,fudge	3
+pettigrew,ginny	1
+pettigrew,gryffindor	1
+pettigrew,hagrid	2
+pettigrew,harry	38
+pettigrew,harry potter	1
+pettigrew,hermione	6
+pettigrew,lily	5
+pettigrew,lupin	12
+pettigrew,madam	1
+pettigrew,malfoy	4
+pettigrew,mcgonagall	2
+pettigrew,minerva	3
+pettigrew,peter	4
+pettigrew,peter pettigrew	1
+pettigrew,potter	2
+pettigrew,professor lupin	3
+pettigrew,ron	18
+pettigrew,scabbers	3
+pettigrew,sirius	16
+pettigrew,sirius black	3
+pettigrew,snape	4
+pettigrew,trelawney	2
+pettigrew,voldemort	6
+petunia dursley,petunia	1
+petunia dursley,vernon	1
+petunia,albus dumbledore	3
+petunia,bell	1
+petunia,black	2
+petunia,bloody	1
+petunia,dobby	2
+petunia,dudley	102
+petunia,dumbledore	5
+petunia,dursley	8
+petunia,fat	4
+petunia,fred	3
+petunia,gryffindor	1
+petunia,hagrid	4
+petunia,harry	175
+petunia,harry potter	1
+petunia,hedwig	8
+petunia,hermione	4
+petunia,hermione granger	1
+petunia,lily	2
+petunia,lockhart	1
+petunia,mcgonagall	2
+petunia,mr crouch	1
+petunia,mr ollivander	1
+petunia,nearly	2
+petunia,percy weasley	1
+petunia,petunia dursley	1
+petunia,professor sprout	1
+petunia,rita skeeter	1
+petunia,ron	4
+petunia,ron weasley	1
+petunia,sirius	1
+petunia,vernon	134
+petunia,vernon dursley	1
+petunia,voldemort	5
+petunia,weasley	10
+pigwidgeon,brown	1
+pigwidgeon,charlie	1
+pigwidgeon,crookshanks	6
+pigwidgeon,dumbledore	3
+pigwidgeon,fred	2
+pigwidgeon,george	3
+pigwidgeon,ginny	1
+pigwidgeon,hagrid	2
+pigwidgeon,harry	38
+pigwidgeon,hedwig	5
+pigwidgeon,hermione	10
+pigwidgeon,karkaroff	2
+pigwidgeon,lupin	1
+pigwidgeon,malfoy	1
+pigwidgeon,maxime	2
+pigwidgeon,nearly	2
+pigwidgeon,neville	1
+pigwidgeon,ron	22
+pigwidgeon,scabbers	1
+pigwidgeon,sirius	6
+pigwidgeon,voldemort	1
+pigwidgeon,weasley	3
+pince,filch	1
+pince,ron	1
+pomfrey,black	1
+pomfrey,harry	1
+pomfrey,hermione	1
+pomfrey,madam pomfrey	2
+pomfrey,malfoy	1
+pomfrey,mcgonagall	1
+pomfrey,minerva	1
+pomfrey,potter	3
+pomfrey,ron	2
+pomfrey,snape	1
+potter,albus dumbledore	1
+potter,amos	1
+potter,bagman	3
+potter,binns	1
+potter,black	15
+potter,bulstrode	1
+potter,cedric	4
+potter,cedric diggory	2
+potter,chang	2
+potter,colin	2
+potter,cornelius	2
+potter,crabbe	3
+potter,creevey	5
+potter,crouch	3
+potter,dean	3
+potter,diggory	2
+potter,dobby	10
+potter,draco	5
+potter,draco malfoy	4
+potter,dudley	8
+potter,dumbledore	41
+potter,dursley	6
+potter,ernie	4
+potter,fang	2
+potter,fat	1
+potter,filch	7
+potter,firenze	3
+potter,fleur delacour	2
+potter,flitwick	1
+potter,fudge	4
+potter,ginny	1
+potter,godric	1
+potter,goyle	1
+potter,granger	13
+potter,gryffindor	29
+potter,hagrid	10
+potter,harry	121
+potter,harry potter	16
+potter,headless	2
+potter,hedwig	2
+potter,hermione	7
+potter,hooch	1
+potter,hufflepuff	2
+potter,johnson	1
+potter,justin	8
+potter,karkaroff	2
+potter,katie bell	2
+potter,krum	3
+potter,lee jordan	1
+potter,lily	3
+potter,lockhart	2
+potter,longbottom	10
+potter,ludo bagman	1
+potter,lupin	4
+potter,mad-eye	1
+potter,madam hooch	1
+potter,madam pomfrey	5
+potter,malfoy	53
+potter,mcgonagall	56
+potter,minerva	2
+potter,moody	22
+potter,mr crouch	1
+potter,mr ollivander	2
+potter,nearly	3
+potter,nearly headless nick	1
+potter,neville	4
+potter,oliver wood	1
+potter,ollivander	2
+potter,pansy	1
+potter,pansy parkinson	1
+potter,parkinson	6
+potter,patil	3
+potter,peeves	4
+potter,percy	3
+potter,pettigrew	2
+potter,pomfrey	3
+potter,professor flitwick	4
+potter,professor grubbly-plank	1
+potter,professor lupin	2
+potter,professor sprout	1
+potter,ravenclaw	2
+potter,riddle	1
+potter,rita	1
+potter,rita skeeter	1
+potter,ron	16
+potter,scabbers	1
+potter,severus	1
+potter,sir	9
+potter,sirius	1
+potter,sirius black	6
+potter,skeeter	1
+potter,slytherin	10
+potter,snape	83
+potter,tom	1
+potter,tom riddle	1
+potter,trelawney	3
+potter,vernon	4
+potter,voldemort	6
+potter,weasley	14
+potter,winky	1
+potter,wood	2
+professor flitwick,bell	1
+professor flitwick,binns	3
+professor flitwick,black	7
+professor flitwick,bloody	1
+professor flitwick,cedric	1
+professor flitwick,crabbe	1
+professor flitwick,dumbledore	5
+professor flitwick,ernie	3
+professor flitwick,fat	2
+professor flitwick,flitwick	2
+professor flitwick,fluffy	1
+professor flitwick,fred	1
+professor flitwick,granger	2
+professor flitwick,gryffindor	2
+professor flitwick,hagrid	1
+professor flitwick,harry	37
+professor flitwick,hedwig	1
+professor flitwick,hermione	5
+professor flitwick,hermione granger	2
+professor flitwick,james	1
+professor flitwick,justin	1
+professor flitwick,lockhart	1
+professor flitwick,lupin	1
+professor flitwick,madam	1
+professor flitwick,madam hooch	1
+professor flitwick,malfoy	3
+professor flitwick,mcgonagall	9
+professor flitwick,nearly	1
+professor flitwick,nearly headless nick	2
+professor flitwick,neville	7
+professor flitwick,nick	1
+professor flitwick,parkinson	1
+professor flitwick,patil	2
+professor flitwick,percy	1
+professor flitwick,potter	4
+professor flitwick,professor lupin	1
+professor flitwick,professor sinistra	3
+professor flitwick,professor sprout	8
+professor flitwick,riddle	1
+professor flitwick,ron	17
+professor flitwick,seamus finnigan	2
+professor flitwick,sir cadogan	1
+professor flitwick,sirius	3
+professor flitwick,sirius black	1
+professor flitwick,snape	22
+professor flitwick,trelawney	6
+professor flitwick,wood	1
+professor grubbly-plank,aragog	1
+professor grubbly-plank,binns	1
+professor grubbly-plank,brown	1
+professor grubbly-plank,crabbe	1
+professor grubbly-plank,dean thomas	1
+professor grubbly-plank,dobby	1
+professor grubbly-plank,draco malfoy	3
+professor grubbly-plank,dumbledore	2
+professor grubbly-plank,granger	1
+professor grubbly-plank,gryffindor	1
+professor grubbly-plank,hagrid	20
+professor grubbly-plank,harry	15
+professor grubbly-plank,harry potter	1
+professor grubbly-plank,hedwig	6
+professor grubbly-plank,hermione	2
+professor grubbly-plank,malfoy	1
+professor grubbly-plank,mcgonagall	5
+professor grubbly-plank,parkinson	1
+professor grubbly-plank,potter	1
+professor grubbly-plank,professor sinistra	1
+professor grubbly-plank,ron	1
+professor grubbly-plank,sir	1
+professor grubbly-plank,slytherin	1
+professor grubbly-plank,snape	2
+professor lupin,black	6
+professor lupin,crookshanks	1
+professor lupin,dean	1
+professor lupin,draco malfoy	1
+professor lupin,dumbledore	2
+professor lupin,filch	1
+professor lupin,gryffindor	2
+professor lupin,hagrid	2
+professor lupin,harry	39
+professor lupin,headless	1
+professor lupin,hermione	11
+professor lupin,hufflepuff	1
+professor lupin,lavender	1
+professor lupin,lupin	5
+professor lupin,malfoy	1
+professor lupin,mcgonagall	3
+professor lupin,minerva	1
+professor lupin,nearly	2
+professor lupin,neville	13
+professor lupin,parvati	1
+professor lupin,peeves	4
+professor lupin,pettigrew	3
+professor lupin,potter	2
+professor lupin,professor flitwick	1
+professor lupin,ron	6
+professor lupin,rubeus hagrid	1
+professor lupin,severus	1
+professor lupin,sirius	4
+professor lupin,sirius black	2
+professor lupin,snape	16
+professor lupin,trelawney	3
+professor lupin,vernon	1
+professor lupin,voldemort	1
+professor severus snape,harry	2
+professor severus snape,slytherin	1
+professor severus snape,snape	2
+professor sinistra,black	1
+professor sinistra,dumbledore	1
+professor sinistra,ernie	2
+professor sinistra,ginny	1
+professor sinistra,hagrid	1
+professor sinistra,harry	11
+professor sinistra,hermione	1
+professor sinistra,justin	1
+professor sinistra,mad-eye moody	1
+professor sinistra,maxime	1
+professor sinistra,mcgonagall	3
+professor sinistra,nearly headless nick	2
+professor sinistra,neville	2
+professor sinistra,nick	1
+professor sinistra,parvati	1
+professor sinistra,professor flitwick	3
+professor sinistra,professor grubbly-plank	1
+professor sinistra,professor sprout	2
+professor sinistra,ron	1
+professor sinistra,sirius	2
+professor sinistra,snape	6
+professor sprout,angelina	1
+professor sprout,aragog	1
+professor sprout,bagman	2
+professor sprout,black	3
+professor sprout,cedric	1
+professor sprout,colin creevey	1
+professor sprout,crabbe	1
+professor sprout,crouch	1
+professor sprout,dumbledore	8
+professor sprout,ernie	5
+professor sprout,fat	1
+professor sprout,filch	1
+professor sprout,finnigan	1
+professor sprout,fluffy	2
+professor sprout,fred	1
+professor sprout,gryffindor	2
+professor sprout,hagrid	2
+professor sprout,harry	40
+professor sprout,headless	1
+professor sprout,hermione	5
+professor sprout,hermione granger	1
+professor sprout,hufflepuff	2
+professor sprout,justin	2
+professor sprout,karkaroff	1
+professor sprout,lockhart	6
+professor sprout,longbottom	1
+professor sprout,madam pince	1
+professor sprout,madam pomfrey	2
+professor sprout,malfoy	1
+professor sprout,mcgonagall	6
+professor sprout,moody	1
+professor sprout,nearly	2
+professor sprout,neville	3
+professor sprout,padma	1
+professor sprout,peeves	1
+professor sprout,percy	1
+professor sprout,petunia	1
+professor sprout,potter	1
+professor sprout,professor flitwick	8
+professor sprout,professor sinistra	2
+professor sprout,ron	6
+professor sprout,sirius	1
+professor sprout,slytherin	1
+professor sprout,snape	5
+professor sprout,trelawney	3
+professor sprout,weasley	1
+prongs,harry	2
+prongs,lupin	1
+prongs,moony	8
+prongs,snape	3
+prongs,wormtail	1
+ravenclaw,abbott	2
+ravenclaw,angelina johnson	1
+ravenclaw,bell	1
+ravenclaw,black	3
+ravenclaw,brown	1
+ravenclaw,buckbeak	1
+ravenclaw,cedric	6
+ravenclaw,cedric diggory	2
+ravenclaw,chang	1
+ravenclaw,charlie weasley	1
+ravenclaw,cho	13
+ravenclaw,cho chang	5
+ravenclaw,clearwater	3
+ravenclaw,colin	2
+ravenclaw,crabbe	1
+ravenclaw,delacour	1
+ravenclaw,dennis creevey	1
+ravenclaw,dumbledore	10
+ravenclaw,ernie	3
+ravenclaw,fleur delacour	1
+ravenclaw,fred	2
+ravenclaw,george	1
+ravenclaw,ginny	2
+ravenclaw,granger	1
+ravenclaw,gryffindor	40
+ravenclaw,hannah	1
+ravenclaw,harry	65
+ravenclaw,hermione	15
+ravenclaw,hufflepuff	15
+ravenclaw,johnson	1
+ravenclaw,justin	1
+ravenclaw,justin finch-fletchley	1
+ravenclaw,karkaroff	1
+ravenclaw,katie	2
+ravenclaw,katie bell	1
+ravenclaw,krum	1
+ravenclaw,lavender	1
+ravenclaw,lavender brown	1
+ravenclaw,lee	2
+ravenclaw,lee jordan	2
+ravenclaw,longbottom	2
+ravenclaw,lupin	4
+ravenclaw,madam hooch	2
+ravenclaw,madam pomfrey	2
+ravenclaw,malfoy	7
+ravenclaw,mcgonagall	2
+ravenclaw,moaning	1
+ravenclaw,nearly	2
+ravenclaw,nearly headless nick	2
+ravenclaw,neville	3
+ravenclaw,nick	1
+ravenclaw,oliver wood	1
+ravenclaw,padma	1
+ravenclaw,padma patil	1
+ravenclaw,parvati	2
+ravenclaw,parvati patil	1
+ravenclaw,patil	1
+ravenclaw,percy	2
+ravenclaw,potter	2
+ravenclaw,roger	2
+ravenclaw,ron	18
+ravenclaw,scabbers	1
+ravenclaw,sirius	1
+ravenclaw,slytherin	17
+ravenclaw,snape	1
+ravenclaw,thomas	1
+ravenclaw,voldemort	3
+ravenclaw,weasley	3
+ravenclaw,wood	8
+riddle,aragog	1
+riddle,black	2
+riddle,crabbe	1
+riddle,dudley	1
+riddle,dumbledore	35
+riddle,fat	1
+riddle,fawkes	6
+riddle,fred	1
+riddle,ginny	11
+riddle,ginny weasley	1
+riddle,gryffindor	2
+riddle,hagrid	6
+riddle,harry	106
+riddle,harry potter	5
+riddle,hermione	8
+riddle,malfoy	1
+riddle,percy	2
+riddle,potter	1
+riddle,professor flitwick	1
+riddle,ron	12
+riddle,salazar slytherin	1
+riddle,sir	7
+riddle,sirius	1
+riddle,slytherin	9
+riddle,snape	2
+riddle,tom	12
+riddle,tom riddle	4
+riddle,voldemort	7
+riddle,weasley	5
+rita skeeter,albus dumbledore	2
+rita skeeter,amos	1
+rita skeeter,bagman	2
+rita skeeter,bertha	1
+rita skeeter,black	2
+rita skeeter,cedric	4
+rita skeeter,cedric diggory	1
+rita skeeter,cornelius fudge	1
+rita skeeter,crouch	1
+rita skeeter,diggory	1
+rita skeeter,draco malfoy	1
+rita skeeter,dumbledore	4
+rita skeeter,fat	1
+rita skeeter,firenze	1
+rita skeeter,fleur	1
+rita skeeter,fred	1
+rita skeeter,fudge	1
+rita skeeter,ginny	1
+rita skeeter,gryffindor	1
+rita skeeter,hagrid	5
+rita skeeter,harry	37
+rita skeeter,harry potter	4
+rita skeeter,hermione	20
+rita skeeter,hermione granger	1
+rita skeeter,karkaroff	1
+rita skeeter,ludo bagman	2
+rita skeeter,mad-eye moody	2
+rita skeeter,moody	1
+rita skeeter,mr crouch	3
+rita skeeter,mr ollivander	1
+rita skeeter,petunia	1
+rita skeeter,potter	1
+rita skeeter,rita	2
+rita skeeter,ron	7
+rita skeeter,sirius	1
+rita skeeter,skeeter	1
+rita skeeter,snape	1
+rita skeeter,voldemort	1
+rita skeeter,weasley	3
+rita,bagman	1
+rita,bill	1
+rita,cedric	1
+rita,crouch	1
+rita,dumbledore	4
+rita,fudge	1
+rita,hagrid	3
+rita,harry	21
+rita,harry potter	2
+rita,hermione	11
+rita,moody	1
+rita,potter	1
+rita,rita skeeter	2
+rita,ron	3
+rita,skeeter	1
+rita,snape	2
+rita,voldemort	3
+rita,weasley	2
+rita,winky	1
+roger,black	2
+roger,cedric	2
+roger,chang	1
+roger,cho	8
+roger,delacour	1
+roger,fleur	4
+roger,fleur delacour	3
+roger,harry	14
+roger,krum	1
+roger,madam	1
+roger,maxime	1
+roger,mcgonagall	1
+roger,parvati	1
+roger,ravenclaw	2
+roger,ron	3
+ron weasley,dudley	1
+ron weasley,harry	13
+ron weasley,hedwig	1
+ron weasley,hermione	2
+ron weasley,hermione granger	1
+ron weasley,moaning	1
+ron weasley,petunia	1
+ron weasley,ron	3
+ron weasley,vernon	2
+ron,albus dumbledore	3
+ron,alicia	7
+ron,angelina	15
+ron,aragog	7
+ron,bagman	4
+ron,bell	22
+ron,bill	27
+ron,binns	6
+ron,black	90
+ron,bloody baron	3
+ron,brown	12
+ron,buckbeak	12
+ron,bulstrode	1
+ron,cedric	20
+ron,cedric diggory	1
+ron,chang	2
+ron,charlie	17
+ron,cho	22
+ron,cho chang	3
+ron,clearwater	1
+ron,colin	4
+ron,colin creevey	1
+ron,crabbe	43
+ron,creevey	4
+ron,crookshanks	85
+ron,crouch	15
+ron,dean	30
+ron,dean thomas	9
+ron,delacour	1
+ron,dennis	1
+ron,dennis creevey	1
+ron,diggory	2
+ron,dobby	20
+ron,draco	5
+ron,draco malfoy	13
+ron,dudley	14
+ron,dumbledore	127
+ron,dursley	1
+ron,ernie	13
+ron,ernie mcmillan	1
+ron,fang	17
+ron,fat	31
+ron,fat friar	1
+ron,fawkes	3
+ron,filch	31
+ron,finnigan	2
+ron,firenze	3
+ron,flamel	7
+ron,fleur	22
+ron,fleur delacour	3
+ron,flitwick	4
+ron,fluffy	4
+ron,fred	134
+ron,fudge	14
+ron,george	42
+ron,george weasley	1
+ron,ginny	167
+ron,ginny weasley	6
+ron,godric	1
+ron,goyle	22
+ron,gryffindor	128
+ron,hagrid	166
+ron,hannah abbott	1
+ron,harry	2336
+ron,harry potter	5
+ron,hedwig	47
+ron,hermione	809
+ron,hermione granger	12
+ron,hufflepuff	20
+ron,james	2
+ron,justin	5
+ron,justin finch-fletchley	1
+ron,karkaroff	12
+ron,katie	8
+ron,katie bell	1
+ron,krum	30
+ron,lavender	46
+ron,lavender brown	22
+ron,lee	2
+ron,lee jordan	6
+ron,lily	1
+ron,lockhart	41
+ron,longbottom	3
+ron,ludo bagman	2
+ron,lupin	46
+ron,mad-eye	3
+ron,madam	5
+ron,madam hooch	3
+ron,madam malkin	3
+ron,madam pince	3
+ron,madam pomfrey	24
+ron,malfoy	164
+ron,maxime	9
+ron,mcgonagall	73
+ron,millicent	3
+ron,millicent bulstrode	3
+ron,minerva	2
+ron,moaning	14
+ron,molly	3
+ron,moody	29
+ron,nearly	52
+ron,nearly headless nick	8
+ron,neville	100
+ron,neville longbottom	1
+ron,nick	3
+ron,nicolas flamel	1
+ron,norbert	3
+ron,oliver	1
+ron,oliver wood	5
+ron,padma	4
+ron,padma patil	2
+ron,pansy	1
+ron,pansy parkinson	6
+ron,parkinson	2
+ron,parvati	20
+ron,parvati patil	9
+ron,patil	6
+ron,peeves	14
+ron,percy	73
+ron,percy weasley	1
+ron,peter	6
+ron,pettigrew	18
+ron,petunia	4
+ron,pigwidgeon	22
+ron,pince	1
+ron,pomfrey	2
+ron,potter	16
+ron,professor flitwick	17
+ron,professor grubbly-plank	1
+ron,professor lupin	6
+ron,professor sinistra	1
+ron,professor sprout	6
+ron,ravenclaw	18
+ron,riddle	12
+ron,rita	3
+ron,rita skeeter	7
+ron,roger	3
+ron,ron weasley	3
+ron,salazar slytherin	2
+ron,scabbers	108
+ron,seamus	25
+ron,seamus finnigan	9
+ron,severus	7
+ron,sir	15
+ron,sir cadogan	3
+ron,sirius	91
+ron,sirius black	5
+ron,skeeter	2
+ron,slytherin	42
+ron,snape	164
+ron,sprout	4
+ron,thomas	3
+ron,tom	1
+ron,trelawney	28
+ron,vernon	13
+ron,viktor	1
+ron,viktor krum	10
+ron,voldemort	26
+ron,weasley	159
+ron,winky	4
+ron,wood	17
+ronan,bane	1
+ronan,firenze	2
+ronan,hagrid	3
+ronan,harry	5
+ronan,harry potter	2
+ronan,hermione	1
+ronan,hermione granger	2
+rubeus hagrid,dumbledore	2
+rubeus hagrid,harry	2
+rubeus hagrid,professor lupin	1
+rubeus hagrid,weasley	1
+salazar slytherin,dumbledore	1
+salazar slytherin,godric gryffindor	1
+salazar slytherin,gryffindor	2
+salazar slytherin,hagrid	1
+salazar slytherin,harry	4
+salazar slytherin,harry potter	1
+salazar slytherin,hermione	2
+salazar slytherin,hufflepuff	1
+salazar slytherin,malfoy	1
+salazar slytherin,moaning	1
+salazar slytherin,riddle	1
+salazar slytherin,ron	2
+salazar slytherin,slytherin	2
+salazar slytherin,voldemort	1
+scabbers,black	17
+scabbers,charlie	1
+scabbers,crabbe	1
+scabbers,crookshanks	32
+scabbers,dean	2
+scabbers,fat	4
+scabbers,fluffy	1
+scabbers,fred	1
+scabbers,fudge	1
+scabbers,george weasley	1
+scabbers,ginny	1
+scabbers,goyle	2
+scabbers,gryffindor	3
+scabbers,hagrid	1
+scabbers,harry	39
+scabbers,hermione	18
+scabbers,hermione granger	1
+scabbers,lupin	10
+scabbers,nearly	2
+scabbers,neville	1
+scabbers,percy	3
+scabbers,peter	2
+scabbers,pettigrew	3
+scabbers,pigwidgeon	1
+scabbers,potter	1
+scabbers,ravenclaw	1
+scabbers,ron	108
+scabbers,sirius	2
+scabbers,snape	4
+scabbers,weasley	2
+seamus finnigan,charlie	1
+seamus finnigan,dean	1
+seamus finnigan,dean thomas	6
+seamus finnigan,dumbledore	1
+seamus finnigan,gryffindor	2
+seamus finnigan,harry	13
+seamus finnigan,hermione	2
+seamus finnigan,hermione granger	1
+seamus finnigan,lavender	1
+seamus finnigan,lavender brown	1
+seamus finnigan,lockhart	3
+seamus finnigan,longbottom	1
+seamus finnigan,lupin	1
+seamus finnigan,neville	3
+seamus finnigan,parvati	2
+seamus finnigan,patil	1
+seamus finnigan,percy	1
+seamus finnigan,professor flitwick	2
+seamus finnigan,ron	9
+seamus finnigan,seamus	2
+seamus finnigan,sir	1
+seamus finnigan,snape	1
+seamus finnigan,thomas	1
+seamus finnigan,weasley	1
+seamus,black	2
+seamus,bulstrode	1
+seamus,cedric diggory	1
+seamus,crookshanks	1
+seamus,dean	25
+seamus,dobby	1
+seamus,dumbledore	8
+seamus,fat	1
+seamus,flitwick	2
+seamus,ginny	2
+seamus,gryffindor	2
+seamus,harry	67
+seamus,hermione	9
+seamus,katie	1
+seamus,lavender	1
+seamus,lavender brown	1
+seamus,lockhart	1
+seamus,longbottom	1
+seamus,lupin	1
+seamus,malfoy	2
+seamus,mcgonagall	4
+seamus,millicent	2
+seamus,moody	1
+seamus,nearly headless nick	1
+seamus,neville	19
+seamus,parvati	2
+seamus,patil	1
+seamus,ron	25
+seamus,seamus finnigan	2
+seamus,sirius	1
+seamus,slytherin	1
+seamus,snape	4
+seamus,thomas	1
+seamus,trelawney	2
+seamus,viktor krum	1
+seamus,weasley	1
+severus,black	6
+severus,cornelius fudge	1
+severus,crouch	2
+severus,draco	2
+severus,dumbledore	18
+severus,filch	1
+severus,fudge	1
+severus,gryffindor	8
+severus,hagrid	1
+severus,harry	36
+severus,james	6
+severus,karkaroff	1
+severus,lupin	5
+severus,madam pomfrey	3
+severus,mcgonagall	14
+severus,minerva	2
+severus,moody	1
+severus,peeves	1
+severus,potter	1
+severus,professor lupin	1
+severus,ron	7
+severus,sirius	3
+severus,slytherin	1
+severus,snape	18
+severus,trelawney	3
+severus,voldemort	3
+severus,weasley	2
+severus,winky	2
+sinistra,angelina johnson	1
+sinistra,harry	2
+sinistra,mcgonagall	1
+sir cadogan,fat	3
+sir cadogan,gryffindor	3
+sir cadogan,harry	9
+sir cadogan,mcgonagall	1
+sir cadogan,neville longbottom	1
+sir cadogan,percy weasley	1
+sir cadogan,professor flitwick	1
+sir cadogan,ron	3
+sir cadogan,sirius black	1
+sir,albus dumbledore	2
+sir,bagman	1
+sir,baron	2
+sir,bell	1
+sir,black	2
+sir,brown	1
+sir,colin	1
+sir,crouch	1
+sir,dobby	171
+sir,draco	1
+sir,draco malfoy	1
+sir,dudley	1
+sir,dumbledore	46
+sir,dursley	1
+sir,ernie	2
+sir,filch	3
+sir,finnigan	1
+sir,fred	1
+sir,fudge	1
+sir,gryffindor	6
+sir,hagrid	7
+sir,harry	59
+sir,harry potter	87
+sir,headless	2
+sir,hedwig	1
+sir,hermione	4
+sir,ludo bagman	1
+sir,madam	2
+sir,malfoy	9
+sir,mcgonagall	2
+sir,moody	2
+sir,mr crouch	2
+sir,nearly	2
+sir,nearly headless nick	3
+sir,neville	1
+sir,parvati	1
+sir,peeves	3
+sir,percy	4
+sir,potter	9
+sir,professor grubbly-plank	1
+sir,riddle	7
+sir,ron	15
+sir,seamus finnigan	1
+sir,sirius black	1
+sir,slytherin	2
+sir,snape	8
+sir,tom	1
+sir,vernon	2
+sir,voldemort	12
+sir,weasley	3
+sir,winky	18
+sirius black,albus dumbledore	1
+sirius black,black	16
+sirius black,cho	1
+sirius black,draco malfoy	1
+sirius black,dumbledore	3
+sirius black,fat	1
+sirius black,finnigan	1
+sirius black,fudge	5
+sirius black,granger	1
+sirius black,gryffindor	2
+sirius black,hagrid	7
+sirius black,hannah abbott	1
+sirius black,harry	36
+sirius black,harry potter	3
+sirius black,hermione	5
+sirius black,hufflepuff	1
+sirius black,james	1
+sirius black,james potter	2
+sirius black,lily	1
+sirius black,lupin	2
+sirius black,madam	2
+sirius black,mcgonagall	1
+sirius black,molly	1
+sirius black,nearly	2
+sirius black,neville	2
+sirius black,neville longbottom	1
+sirius black,nick	1
+sirius black,peeves	2
+sirius black,peter pettigrew	1
+sirius black,pettigrew	3
+sirius black,potter	6
+sirius black,professor flitwick	1
+sirius black,professor lupin	2
+sirius black,ron	5
+sirius black,sir	1
+sirius black,sir cadogan	1
+sirius black,sirius	5
+sirius black,slytherin	1
+sirius black,snape	1
+sirius black,voldemort	2
+sirius black,weasley	5
+sirius,bagman	1
+sirius,bertha jorkins	2
+sirius,black	40
+sirius,brown	10
+sirius,buckbeak	27
+sirius,cedric	1
+sirius,cedric diggory	1
+sirius,charlie	2
+sirius,cho	5
+sirius,crookshanks	5
+sirius,crouch	14
+sirius,diggory	3
+sirius,dobby	6
+sirius,draco	5
+sirius,draco malfoy	3
+sirius,dudley	5
+sirius,dumbledore	126
+sirius,fat	2
+sirius,filch	4
+sirius,flitwick	3
+sirius,fred	28
+sirius,fudge	6
+sirius,george	3
+sirius,ginny	21
+sirius,granger	1
+sirius,gryffindor	9
+sirius,hagrid	25
+sirius,harry	680
+sirius,harry potter	1
+sirius,hedwig	17
+sirius,hermione	101
+sirius,hufflepuff	1
+sirius,igor karkaroff	1
+sirius,james	27
+sirius,karkaroff	7
+sirius,krum	1
+sirius,lee	2
+sirius,lily	4
+sirius,lupin	50
+sirius,mad-eye	8
+sirius,mad-eye moody	1
+sirius,madam	1
+sirius,madam pomfrey	3
+sirius,malfoy	25
+sirius,mcgonagall	10
+sirius,minerva	1
+sirius,molly	9
+sirius,moody	25
+sirius,moony	1
+sirius,mr crouch	4
+sirius,nearly	20
+sirius,neville	6
+sirius,neville longbottom	1
+sirius,padfoot	1
+sirius,percy	2
+sirius,percy weasley	1
+sirius,peter	11
+sirius,peter pettigrew	1
+sirius,pettigrew	16
+sirius,petunia	1
+sirius,pigwidgeon	6
+sirius,potter	1
+sirius,professor flitwick	3
+sirius,professor lupin	4
+sirius,professor sinistra	2
+sirius,professor sprout	1
+sirius,ravenclaw	1
+sirius,riddle	1
+sirius,rita skeeter	1
+sirius,ron	91
+sirius,scabbers	2
+sirius,seamus	1
+sirius,severus	3
+sirius,sirius black	5
+sirius,skeeter	1
+sirius,slytherin	1
+sirius,snape	125
+sirius,trelawney	5
+sirius,vernon	6
+sirius,voldemort	67
+sirius,weasley	67
+sirius,winky	2
+sirius,wormtail	23
+skeeter,bell	2
+skeeter,bertha jorkins	1
+skeeter,binns	1
+skeeter,cedric	1
+skeeter,dumbledore	6
+skeeter,hagrid	10
+skeeter,harry	12
+skeeter,harry potter	2
+skeeter,hermione	2
+skeeter,karkaroff	1
+skeeter,ludo	1
+skeeter,ludo bagman	1
+skeeter,mad-eye	1
+skeeter,moody	2
+skeeter,mr crouch	3
+skeeter,percy	1
+skeeter,potter	1
+skeeter,rita	1
+skeeter,rita skeeter	1
+skeeter,ron	2
+skeeter,sirius	1
+slytherin,alicia	10
+slytherin,angelina	14
+slytherin,aragog	1
+slytherin,bell	3
+slytherin,bill	1
+slytherin,binns	2
+slytherin,black	8
+slytherin,bloody baron	3
+slytherin,brown	1
+slytherin,bulstrode	2
+slytherin,cedric diggory	1
+slytherin,cho chang	1
+slytherin,crabbe	10
+slytherin,dean	1
+slytherin,dean thomas	1
+slytherin,diggory	1
+slytherin,draco	3
+slytherin,draco malfoy	8
+slytherin,dudley	3
+slytherin,dudley dursley	1
+slytherin,dumbledore	24
+slytherin,ernie	1
+slytherin,fat	2
+slytherin,fat friar	1
+slytherin,fawkes	1
+slytherin,filch	3
+slytherin,finnigan	1
+slytherin,fleur delacour	1
+slytherin,fred	8
+slytherin,fred weasley	2
+slytherin,george	2
+slytherin,george weasley	4
+slytherin,ginny	6
+slytherin,goyle	8
+slytherin,granger	1
+slytherin,gryffindor	70
+slytherin,hagrid	14
+slytherin,hannah	1
+slytherin,harry	161
+slytherin,harry potter	1
+slytherin,hermione	22
+slytherin,hufflepuff	21
+slytherin,johnson	6
+slytherin,justin	4
+slytherin,karkaroff	1
+slytherin,katie	8
+slytherin,katie bell	4
+slytherin,krum	2
+slytherin,lee	10
+slytherin,lee jordan	7
+slytherin,longbottom	1
+slytherin,lupin	1
+slytherin,madam	1
+slytherin,madam hooch	5
+slytherin,madam pince	1
+slytherin,madam pomfrey	4
+slytherin,malfoy	56
+slytherin,maxime	1
+slytherin,mcgonagall	10
+slytherin,moaning	1
+slytherin,nearly	2
+slytherin,nearly headless nick	1
+slytherin,neville	8
+slytherin,oliver	1
+slytherin,oliver wood	1
+slytherin,pansy parkinson	8
+slytherin,parkinson	3
+slytherin,parvati	1
+slytherin,peeves	1
+slytherin,percy	2
+slytherin,percy weasley	1
+slytherin,potter	10
+slytherin,professor grubbly-plank	1
+slytherin,professor severus snape	1
+slytherin,professor sprout	1
+slytherin,ravenclaw	17
+slytherin,riddle	9
+slytherin,ron	42
+slytherin,salazar slytherin	2
+slytherin,seamus	1
+slytherin,severus	1
+slytherin,sir	2
+slytherin,sirius	1
+slytherin,sirius black	1
+slytherin,snape	32
+slytherin,sprout	1
+slytherin,tom riddle	1
+slytherin,trelawney	1
+slytherin,viktor krum	2
+slytherin,voldemort	3
+slytherin,weasley	6
+slytherin,wood	14
+snape,albus dumbledore	3
+snape,alicia	2
+snape,bane	2
+snape,bell	9
+snape,bill	3
+snape,binns	4
+snape,black	57
+snape,bloody	6
+snape,brown	3
+snape,buckbeak	3
+snape,bulstrode	1
+snape,cedric	7
+snape,cedric diggory	1
+snape,cho	9
+snape,cho chang	1
+snape,colin	1
+snape,colin creevey	1
+snape,cornelius fudge	3
+snape,crabbe	6
+snape,crookshanks	5
+snape,crouch	8
+snape,dean	4
+snape,dean thomas	2
+snape,dobby	5
+snape,draco	16
+snape,draco malfoy	6
+snape,dudley	2
+snape,dumbledore	208
+snape,fang	2
+snape,fat	1
+snape,fawkes	3
+snape,filch	30
+snape,finch-fletchley	1
+snape,finnigan	1
+snape,firenze	1
+snape,flamel	5
+snape,flitwick	6
+snape,fluffy	14
+snape,fred	6
+snape,fudge	14
+snape,george	1
+snape,george weasley	1
+snape,ginny	8
+snape,goyle	6
+snape,granger	8
+snape,gryffindor	45
+snape,hagrid	38
+snape,harry	966
+snape,harry potter	3
+snape,hedwig	1
+snape,hermione	126
+snape,hufflepuff	4
+snape,james	52
+snape,james potter	1
+snape,justin	1
+snape,justin finch-fletchley	1
+snape,karkaroff	25
+snape,katie	1
+snape,lavender	1
+snape,lee jordan	1
+snape,lily	3
+snape,lockhart	18
+snape,longbottom	7
+snape,lupin	61
+snape,mad-eye	4
+snape,mad-eye moody	3
+snape,madam pince	1
+snape,madam pomfrey	8
+snape,malfoy	93
+snape,maxime	2
+snape,mcgonagall	50
+snape,minerva	2
+snape,moaning	3
+snape,molly	3
+snape,moody	38
+snape,moony	2
+snape,mr crouch	4
+snape,nearly	14
+snape,neville	49
+snape,padfoot	2
+snape,pansy parkinson	5
+snape,parkinson	1
+snape,parvati	4
+snape,peeves	4
+snape,percy	5
+snape,percy weasley	1
+snape,peter pettigrew	2
+snape,pettigrew	4
+snape,pomfrey	1
+snape,potter	83
+snape,professor flitwick	22
+snape,professor grubbly-plank	2
+snape,professor lupin	16
+snape,professor severus snape	2
+snape,professor sinistra	6
+snape,professor sprout	5
+snape,prongs	3
+snape,ravenclaw	1
+snape,riddle	2
+snape,rita	2
+snape,rita skeeter	1
+snape,ron	164
+snape,scabbers	4
+snape,seamus	4
+snape,seamus finnigan	1
+snape,severus	18
+snape,sir	8
+snape,sirius	125
+snape,sirius black	1
+snape,slytherin	32
+snape,sprout	1
+snape,trelawney	10
+snape,vernon	2
+snape,voldemort	61
+snape,weasley	23
+snape,winky	3
+snape,wood	2
+snape,wormtail	10
+sprout,brown	1
+sprout,crabbe	1
+sprout,dumbledore	2
+sprout,filch	1
+sprout,flitwick	1
+sprout,fred	1
+sprout,gryffindor	1
+sprout,hagrid	1
+sprout,harry	7
+sprout,hermione	1
+sprout,lavender	2
+sprout,malfoy	1
+sprout,mcgonagall	7
+sprout,neville	4
+sprout,ron	4
+sprout,slytherin	1
+sprout,snape	1
+sprout,weasley	1
+thomas,black	1
+thomas,finnigan	1
+thomas,granger	2
+thomas,gryffindor	2
+thomas,harry	5
+thomas,longbottom	1
+thomas,neville	2
+thomas,neville longbottom	1
+thomas,parvati	1
+thomas,ravenclaw	1
+thomas,ron	3
+thomas,seamus	1
+thomas,seamus finnigan	1
+tom riddle,black	1
+tom riddle,bloody	1
+tom riddle,dennis	1
+tom riddle,dumbledore	12
+tom riddle,gryffindor	1
+tom riddle,hagrid	5
+tom riddle,harry	18
+tom riddle,harry potter	1
+tom riddle,hermione	1
+tom riddle,nearly	1
+tom riddle,potter	1
+tom riddle,riddle	4
+tom riddle,slytherin	1
+tom riddle,voldemort	11
+tom riddle,wormtail	2
+tom,black	1
+tom,dumbledore	7
+tom,fleur	1
+tom,fred	1
+tom,fudge	7
+tom,ginny	2
+tom,hagrid	3
+tom,harry	22
+tom,hedwig	1
+tom,lupin	1
+tom,mad-eye moody	1
+tom,maxime	1
+tom,potter	1
+tom,riddle	12
+tom,ron	1
+tom,sir	1
+tom,voldemort	4
+tom,weasley	1
+trelawney,angelina johnson	1
+trelawney,bell	3
+trelawney,binns	1
+trelawney,black	1
+trelawney,dean thomas	1
+trelawney,dumbledore	16
+trelawney,ernie	1
+trelawney,fawkes	1
+trelawney,firenze	5
+trelawney,flitwick	1
+trelawney,fred	1
+trelawney,fudge	1
+trelawney,george	1
+trelawney,ginny	2
+trelawney,gryffindor	4
+trelawney,hagrid	13
+trelawney,harry	140
+trelawney,harry potter	2
+trelawney,hermione	22
+trelawney,lavender	9
+trelawney,lavender brown	7
+trelawney,malfoy	6
+trelawney,mcgonagall	16
+trelawney,nearly	1
+trelawney,neville	10
+trelawney,parvati	7
+trelawney,parvati patil	9
+trelawney,peeves	1
+trelawney,pettigrew	2
+trelawney,potter	3
+trelawney,professor flitwick	6
+trelawney,professor lupin	3
+trelawney,professor sprout	3
+trelawney,ron	28
+trelawney,seamus	2
+trelawney,severus	3
+trelawney,sirius	5
+trelawney,slytherin	1
+trelawney,snape	10
+trelawney,voldemort	12
+trelawney,wood	1
+vernon dursley,black	2
+vernon dursley,dudley	2
+vernon dursley,dumbledore	2
+vernon dursley,hagrid	2
+vernon dursley,harry	5
+vernon dursley,petunia	1
+vernon dursley,vernon	1
+vernon,albus dumbledore	2
+vernon,bell	2
+vernon,bill	2
+vernon,black	9
+vernon,bloody	2
+vernon,brown	1
+vernon,crookshanks	1
+vernon,crouch	1
+vernon,dean thomas	1
+vernon,dobby	4
+vernon,dudley	141
+vernon,dumbledore	14
+vernon,dursley	5
+vernon,fat	4
+vernon,fred	2
+vernon,hagrid	9
+vernon,harry	369
+vernon,harry potter	2
+vernon,hedwig	11
+vernon,hermione	3
+vernon,hermione granger	1
+vernon,ludo bagman	1
+vernon,mad-eye	1
+vernon,mcgonagall	1
+vernon,moody	2
+vernon,mr crouch	2
+vernon,nearly	3
+vernon,percy	3
+vernon,percy weasley	1
+vernon,petunia	134
+vernon,petunia dursley	1
+vernon,potter	4
+vernon,professor lupin	1
+vernon,ron	13
+vernon,ron weasley	2
+vernon,sir	2
+vernon,sirius	6
+vernon,snape	2
+vernon,vernon dursley	1
+vernon,voldemort	4
+vernon,weasley	32
+vernon,wood	1
+viktor krum,bagman	3
+viktor krum,black	1
+viktor krum,cedric	4
+viktor krum,cedric diggory	1
+viktor krum,crouch	1
+viktor krum,dean	2
+viktor krum,delacour	1
+viktor krum,diggory	1
+viktor krum,dumbledore	4
+viktor krum,fleur	2
+viktor krum,fleur delacour	5
+viktor krum,fred	2
+viktor krum,george	1
+viktor krum,goyle	1
+viktor krum,granger	3
+viktor krum,harry	17
+viktor krum,harry potter	1
+viktor krum,hermione	8
+viktor krum,karkaroff	1
+viktor krum,krum	8
+viktor krum,malfoy	2
+viktor krum,maxime	1
+viktor krum,mr ollivander	1
+viktor krum,nearly	1
+viktor krum,percy weasley	1
+viktor krum,ron	10
+viktor krum,seamus	1
+viktor krum,slytherin	2
+viktor,cedric	1
+viktor,dumbledore	1
+viktor,harry	4
+viktor,hermione	5
+viktor,mr crouch	2
+viktor,ron	1
+vincent crabbe,crabbe	1
+vincent crabbe,draco malfoy	1
+vincent crabbe,goyle	3
+vincent crabbe,hagrid	1
+vincent crabbe,harry	5
+vincent crabbe,malfoy	3
+vincent crabbe,pansy	2
+voldemort,albus dumbledore	3
+voldemort,bagman	1
+voldemort,bane	5
+voldemort,bertha jorkins	9
+voldemort,bill	1
+voldemort,black	18
+voldemort,bloody	1
+voldemort,buckbeak	1
+voldemort,cedric	22
+voldemort,cedric diggory	6
+voldemort,cho	1
+voldemort,cornelius	7
+voldemort,cornelius fudge	1
+voldemort,crabbe	1
+voldemort,crookshanks	1
+voldemort,crouch	11
+voldemort,diggory	2
+voldemort,draco	1
+voldemort,dudley	4
+voldemort,dumbledore	219
+voldemort,fat	1
+voldemort,fawkes	2
+voldemort,firenze	3
+voldemort,fluffy	1
+voldemort,fudge	4
+voldemort,ginny	4
+voldemort,godric	1
+voldemort,goyle	1
+voldemort,granger	1
+voldemort,gryffindor	8
+voldemort,hagrid	13
+voldemort,harry	525
+voldemort,harry potter	14
+voldemort,headless	5
+voldemort,hedwig	1
+voldemort,hermione	29
+voldemort,hufflepuff	1
+voldemort,james	1
+voldemort,james potter	2
+voldemort,karkaroff	5
+voldemort,lily	11
+voldemort,lily potter	4
+voldemort,lupin	14
+voldemort,mad-eye moody	3
+voldemort,madam	2
+voldemort,madam pomfrey	1
+voldemort,malfoy	20
+voldemort,mcgonagall	3
+voldemort,minerva	2
+voldemort,molly	3
+voldemort,moody	6
+voldemort,mr crouch	2
+voldemort,mr ollivander	4
+voldemort,nearly	5
+voldemort,neville	12
+voldemort,neville longbottom	1
+voldemort,percy	5
+voldemort,peter	8
+voldemort,peter pettigrew	2
+voldemort,pettigrew	6
+voldemort,petunia	5
+voldemort,pigwidgeon	1
+voldemort,potter	6
+voldemort,professor lupin	1
+voldemort,ravenclaw	3
+voldemort,riddle	7
+voldemort,rita	3
+voldemort,rita skeeter	1
+voldemort,ron	26
+voldemort,salazar slytherin	1
+voldemort,severus	3
+voldemort,sir	12
+voldemort,sirius	67
+voldemort,sirius black	2
+voldemort,slytherin	3
+voldemort,snape	61
+voldemort,tom	4
+voldemort,tom riddle	11
+voldemort,trelawney	12
+voldemort,vernon	4
+voldemort,weasley	18
+voldemort,wood	2
+voldemort,wormtail	41
+weasley,abbott	1
+weasley,albus dumbledore	2
+weasley,alicia	2
+weasley,amos	9
+weasley,amos diggory	3
+weasley,angelina	2
+weasley,angelina johnson	1
+weasley,bagman	5
+weasley,bertha	2
+weasley,bill	45
+weasley,black	28
+weasley,bloody	2
+weasley,brown	10
+weasley,buckbeak	1
+weasley,cedric	4
+weasley,charlie	14
+weasley,cho	1
+weasley,colin creevey	1
+weasley,cornelius fudge	8
+weasley,crabbe	2
+weasley,crookshanks	4
+weasley,crouch	3
+weasley,dennis creevey	1
+weasley,diggory	3
+weasley,dobby	7
+weasley,draco	4
+weasley,draco malfoy	2
+weasley,dudley	19
+weasley,dumbledore	72
+weasley,fat	1
+weasley,fawkes	1
+weasley,filch	12
+weasley,finnigan	1
+weasley,fleur	17
+weasley,flitwick	1
+weasley,fred	113
+weasley,fudge	21
+weasley,george	31
+weasley,ginny	86
+weasley,ginny weasley	2
+weasley,goyle	1
+weasley,granger	7
+weasley,gryffindor	22
+weasley,hagrid	49
+weasley,harry	656
+weasley,harry potter	10
+weasley,hedwig	9
+weasley,hermione	98
+weasley,hermione granger	6
+weasley,hooch	1
+weasley,hufflepuff	3
+weasley,igor karkaroff	1
+weasley,james	1
+weasley,johnson	2
+weasley,justin finch-fletchley	1
+weasley,katie	3
+weasley,katie bell	3
+weasley,krum	2
+weasley,lavender	1
+weasley,lee jordan	8
+weasley,lockhart	9
+weasley,longbottom	3
+weasley,ludo	3
+weasley,ludo bagman	5
+weasley,lupin	30
+weasley,mad-eye	9
+weasley,mad-eye moody	7
+weasley,madam	4
+weasley,madam malkin	3
+weasley,madam pomfrey	8
+weasley,malfoy	63
+weasley,maxime	2
+weasley,mcgonagall	21
+weasley,millicent	1
+weasley,minerva	2
+weasley,molly	15
+weasley,moody	25
+weasley,mr crouch	4
+weasley,nearly	7
+weasley,nearly headless nick	1
+weasley,neville	3
+weasley,oliver	1
+weasley,oliver wood	2
+weasley,ollivander	2
+weasley,parkinson	1
+weasley,parvati	1
+weasley,patil	1
+weasley,percy	58
+weasley,percy weasley	1
+weasley,petunia	10
+weasley,pigwidgeon	3
+weasley,potter	14
+weasley,professor sprout	1
+weasley,ravenclaw	3
+weasley,riddle	5
+weasley,rita	2
+weasley,rita skeeter	3
+weasley,ron	159
+weasley,rubeus hagrid	1
+weasley,scabbers	2
+weasley,seamus	1
+weasley,seamus finnigan	1
+weasley,severus	2
+weasley,sir	3
+weasley,sirius	67
+weasley,sirius black	5
+weasley,slytherin	6
+weasley,snape	23
+weasley,sprout	1
+weasley,tom	1
+weasley,vernon	32
+weasley,voldemort	18
+weasley,winky	4
+weasley,wood	13
+weasley,wormtail	2
+winky,amos	4
+winky,bagman	5
+winky,bertha jorkins	4
+winky,black	1
+winky,brown	6
+winky,buckbeak	1
+winky,crouch	10
+winky,diggory	9
+winky,dobby	35
+winky,dumbledore	10
+winky,filch	1
+winky,gryffindor	1
+winky,hagrid	1
+winky,harry	22
+winky,harry potter	26
+winky,hermione	16
+winky,ludo bagman	1
+winky,madam pomfrey	1
+winky,mcgonagall	2
+winky,mr crouch	22
+winky,potter	1
+winky,rita	1
+winky,ron	4
+winky,severus	2
+winky,sir	18
+winky,sirius	2
+winky,snape	3
+winky,weasley	4
+wood,alicia	6
+wood,angelina	3
+wood,bell	1
+wood,black	3
+wood,brown	1
+wood,buckbeak	2
+wood,cedric diggory	2
+wood,charlie weasley	2
+wood,cho	1
+wood,cho chang	2
+wood,crabbe	1
+wood,crouch	1
+wood,diggory	6
+wood,dobby	1
+wood,dudley	2
+wood,dumbledore	3
+wood,fang	1
+wood,fred	11
+wood,fred weasley	2
+wood,fudge	1
+wood,george	8
+wood,george weasley	2
+wood,ginny	3
+wood,ginny weasley	1
+wood,granger	1
+wood,grubbly-plank	1
+wood,gryffindor	30
+wood,hagrid	4
+wood,harry	134
+wood,hedwig	1
+wood,hermione	13
+wood,hooch	1
+wood,hufflepuff	4
+wood,johnson	2
+wood,katie	4
+wood,lavender	1
+wood,lee jordan	3
+wood,lupin	2
+wood,madam hooch	10
+wood,malfoy	9
+wood,mcgonagall	9
+wood,moody	1
+wood,nearly	3
+wood,neville	2
+wood,oliver wood	2
+wood,pansy parkinson	1
+wood,parvati	1
+wood,percy	2
+wood,potter	2
+wood,professor flitwick	1
+wood,ravenclaw	8
+wood,ron	17
+wood,slytherin	14
+wood,snape	2
+wood,trelawney	1
+wood,vernon	1
+wood,voldemort	2
+wood,weasley	13
+wormtail,bertha	2
+wormtail,bertha jorkins	8
+wormtail,black	8
+wormtail,buckbeak	2
+wormtail,cedric	3
+wormtail,cedric diggory	1
+wormtail,dumbledore	7
+wormtail,harry	119
+wormtail,harry potter	4
+wormtail,hermione	2
+wormtail,james	21
+wormtail,lupin	6
+wormtail,mad-eye moody	1
+wormtail,malfoy	1
+wormtail,moaning	3
+wormtail,moody	5
+wormtail,moony	1
+wormtail,nearly	4
+wormtail,peter	1
+wormtail,prongs	1
+wormtail,sirius	23
+wormtail,snape	10
+wormtail,tom riddle	2
+wormtail,voldemort	41
+wormtail,weasley	2
